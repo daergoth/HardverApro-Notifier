@@ -1,0 +1,445 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>HardverApró Notifier - Settings</title>
+        <link rel="icon" type="image/png" href="https://hardverapro.hu/design/logo-favicon.png" />
+        <style>
+            body { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0; color: #222; background: #FFFFFF; }
+            h1 { margin: 0 0 16px 0; }
+            .row { display: flex; gap: 12px; flex-wrap: wrap; align-items: flex-start; }
+            .container { max-width: 500px; margin: 0 auto; }
+            .container-wide { max-width: 980px; margin: 0 auto; }
+            .page-pad { padding: 16px 12px; }
+            .panel { background: #fff; border: 1px solid #ddd; padding: 16px; }
+            .field { display: flex; flex-direction: column; }
+            .field.actions { padding-top: 18px; }
+            .row + .row { margin-top: 12px; }
+            .form-title { font-size: 14px; font-weight: 700; color: #2c2d37; margin: 0 0 10px 0; }
+            label { display: block; font-size: 12px; color: #555; margin-bottom: 4px; }
+            input, select { padding: 8px 10px; min-width: 260px; }
+            button { padding: 9px 12px; cursor: pointer; }
+            .hint { color: #666; font-size: 12px; margin-top: 6px; }
+            .error { color: #b00020; margin-top: 10px; }
+            .success { color: #0a7a0a; margin-top: 10px; }
+            table { border-collapse: collapse; margin-top: 18px; width: 100%; }
+            th, td { border: 1px solid #ddd; padding: 8px; vertical-align: top; }
+            th { background: #f6f6f6; text-align: left; }
+            code { background: #f3f3f3; padding: 1px 4px; }
+            .actions { white-space: nowrap; }
+            a { color: #c7702e; }
+
+            .hp-header { background-color: #2c2d37; }
+            .hp-header-inner { display: flex; align-items: center; gap: 10px; padding: 12px; }
+            .hp-logo { width: 36px; height: 36px; display: block; }
+            .hp-title { color: #ffffff; font-weight: 700; font-size: 20px; line-height: 1.1; flex: 1; text-align: center; }
+            .hp-subnav { margin-top: 6px; font-weight: 400; font-size: 12px; }
+            .hp-subnav a { color: #ffffff; text-decoration: underline; }
+            .hp-section-title { background-color: #61626F; color: #ffffff; padding: 12px; font-size: 18px; font-weight: 700; }
+
+            .dropdown { position: relative; min-width: 260px; }
+            .dropdown-toggle { width: 100%; text-align: left; background: #fff; border: 1px solid #aaa; padding: 8px 10px; min-width: 260px; }
+            .dropdown-toggle:disabled { color: #777; background: #f3f3f3; cursor: not-allowed; }
+            .dropdown-menu { position: absolute; left: 0; right: 0; top: calc(100% + 4px); background: #fff; border: 1px solid #aaa; z-index: 1000; }
+            .dropdown-menu.hidden { display: none; }
+            .dropdown-menu-header { padding: 8px; border-bottom: 1px solid #ddd; }
+            .dropdown-menu-header input { width: 100%; min-width: 0; box-sizing: border-box; }
+            .dropdown-menu-list { max-height: 280px; overflow: auto; }
+            .dropdown-item { display: block; width: 100%; text-align: left; padding: 8px 10px; background: #fff; border: 0; border-bottom: 1px solid #f0f0f0; cursor: pointer; }
+            .dropdown-item:hover { background: #f6f6f6; }
+            .dropdown-item.selected { background: #f0f0f0; }
+        </style>
+    </head>
+    <body>
+        {{> baseHeader}}
+
+        <div class="page-pad">
+            <div class="container-wide">
+                <div class="hp-section-title">Settings</div>
+
+                <div class="panel" style="margin-top: 12px;">
+                    <div class="form-title">Email</div>
+                    <div class="row">
+                        <div class="field">
+                            <button id="sendEmailNowBtn" type="button">Send email now</button>
+                            <div class="hint">Triggers the scheduled report immediately.</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel">
+                    <div class="form-title">Add new query</div>
+
+                    <div class="row">
+                        <div class="field">
+                            <label for="query">Query</label>
+                            <input id="query" placeholder="e.g. unifi" />
+                        </div>
+                        <div class="field">
+                            <label for="category">Category</label>
+                            <input id="category" placeholder="e.g. /hardver/halozati_termekek" />
+                            <div class="hint">Use the HardverApró category path (starts with <code>/</code>).</div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="field">
+                            <label for="regionType">Location type</label>
+                            <select id="regionType">
+                                <option value="none">All regions</option>
+                                <option value="city">City</option>
+                                <option value="county">County</option>
+                            </select>
+                        </div>
+                        <div class="field">
+                            <label for="regionId">Location</label>
+                            <input id="regionId" type="hidden" />
+                            <div class="dropdown" id="regionDropdown">
+                                <button id="regionToggle" class="dropdown-toggle" type="button">Select...</button>
+                                <div id="regionMenu" class="dropdown-menu hidden">
+                                    <div class="dropdown-menu-header">
+                                        <input id="regionMenuSearch" placeholder="Type to search..." />
+                                    </div>
+                                    <div id="regionMenuList" class="dropdown-menu-list"></div>
+                                </div>
+                            </div>
+                            <div class="hint">City uses <code>stmid</code>, county uses <code>stcid</code>.</div>
+                        </div>
+                        <div class="field actions">
+                            <button id="addBtn">Add</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="msg" class="error" style="display:none"></div>
+
+                <h2 style="margin-top: 22px;">Saved queries</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Query</th>
+                            <th>Category</th>
+                            <th>Location</th>
+                            <th>Id</th>
+                            <th class="actions">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody"></tbody>
+                </table>
+
+                <p class="hint">API: <a href="/queries">/queries</a></p>
+
+            </div>
+        </div>
+
+        <script>
+            const msg = document.getElementById('msg');
+            const tbody = document.getElementById('tbody');
+            const queryEl = document.getElementById('query');
+            const categoryEl = document.getElementById('category');
+            const regionTypeEl = document.getElementById('regionType');
+            const regionIdEl = document.getElementById('regionId');
+            const regionToggleEl = document.getElementById('regionToggle');
+            const regionMenuEl = document.getElementById('regionMenu');
+            const regionMenuSearchEl = document.getElementById('regionMenuSearch');
+            const regionMenuListEl = document.getElementById('regionMenuList');
+            const addBtn = document.getElementById('addBtn');
+            const sendEmailNowBtn = document.getElementById('sendEmailNowBtn');
+
+            let cities = [];
+            let counties = [];
+            let cityById = {};
+            let countyById = {};
+
+            function showMessage(text, kind) {
+                msg.textContent = text;
+                msg.style.display = text ? 'block' : 'none';
+                if (kind === 'success') msg.className = 'success';
+                else msg.className = 'error';
+            }
+
+            function showError(text) {
+                showMessage(text, 'error');
+            }
+
+            function showSuccess(text) {
+                showMessage(text, 'success');
+            }
+
+            async function sendEmailNow() {
+                if (!sendEmailNowBtn) return;
+                sendEmailNowBtn.disabled = true;
+                showError('Sending email...');
+
+                try {
+                    const resp = await fetch('/settings/send-email', { method: 'POST' });
+                    const data = await resp.json().catch(() => null);
+
+                    if (!resp.ok) {
+                        const err = (data && (data.error || data.message)) ? (data.error || data.message) : 'Failed to send email.';
+                        throw new Error(err);
+                    }
+
+                    if (data && data.sent === false) {
+                        showError(data.message || 'No email to send.');
+                        return;
+                    }
+
+                    showSuccess('Email sent.');
+                } catch (e) {
+                    showError((e && e.message) ? e.message : String(e));
+                } finally {
+                    sendEmailNowBtn.disabled = false;
+                }
+            }
+
+            function normalizeForSearch(s) {
+                const str = String(s || '').toLowerCase();
+                if (!str) return '';
+                if (typeof str.normalize !== 'function') return str;
+                return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+            }
+
+            function getFilteredRegions(type) {
+                const rawTerm = (regionMenuSearchEl && regionMenuSearchEl.value) ? regionMenuSearchEl.value : '';
+                const term = normalizeForSearch(rawTerm.trim());
+                const src = (type === 'county') ? (counties || []) : (cities || []);
+                if (!term) return src;
+                return src.filter(it => {
+                    const title = normalizeForSearch(it.title);
+                    const id = String(it.id || '');
+                    return title.includes(term) || id.includes(term);
+                });
+            }
+
+            function getActiveRegionType() {
+                const type = (regionTypeEl.value || 'city');
+                if (type === 'county' || type === 'city' || type === 'none') return type;
+                return 'city';
+            }
+
+            function findItemById(type, id) {
+                const numericId = Number.parseInt(String(id), 10);
+                if (!Number.isFinite(numericId)) return null;
+                if (type === 'county') return countyById[numericId] || null;
+                if (type === 'city') return cityById[numericId] || null;
+                return null;
+            }
+
+            function setSelectedRegionId(type, id) {
+                regionIdEl.value = String(id);
+                const item = findItemById(type, id);
+                if (regionToggleEl) {
+                    regionToggleEl.textContent = item ? (item.title + ' (' + String(item.id) + ')') : ('Select...');
+                }
+            }
+
+            function closeRegionMenu() {
+                if (regionMenuEl) regionMenuEl.classList.add('hidden');
+            }
+
+            function openRegionMenu() {
+                const type = getActiveRegionType();
+                if (type === 'none') return;
+                if (regionMenuEl) regionMenuEl.classList.remove('hidden');
+                renderRegionMenu();
+                if (regionMenuSearchEl && typeof regionMenuSearchEl.focus === 'function') {
+                    regionMenuSearchEl.focus();
+                    regionMenuSearchEl.select && regionMenuSearchEl.select();
+                }
+            }
+
+            function renderRegionMenu() {
+                const type = getActiveRegionType();
+                if (type === 'none') {
+                    if (regionMenuListEl) regionMenuListEl.innerHTML = '';
+                    return;
+                }
+
+                const currentId = regionIdEl.value;
+                const filtered = getFilteredRegions(type);
+                if (!regionMenuListEl) return;
+
+                regionMenuListEl.innerHTML = '';
+                (filtered || []).forEach(it => {
+                    const id = String(it.id);
+                    const btn = document.createElement('button');
+                    btn.type = 'button';
+                    btn.className = 'dropdown-item' + ((String(currentId) === id) ? ' selected' : '');
+                    btn.setAttribute('data-region-id', id);
+                    btn.textContent = String(it.title) + ' (' + id + ')';
+                    regionMenuListEl.appendChild(btn);
+                });
+            }
+
+            function refreshRegionSelect() {
+                const type = getActiveRegionType();
+                const current = regionIdEl.value;
+                if (type === 'none') {
+                    regionIdEl.value = '';
+                    closeRegionMenu();
+                    if (regionMenuSearchEl) regionMenuSearchEl.value = '';
+                    if (regionToggleEl) {
+                        regionToggleEl.textContent = 'All regions';
+                        regionToggleEl.disabled = true;
+                    }
+                    return;
+                }
+
+                if (regionToggleEl) regionToggleEl.disabled = false;
+                if (regionMenuSearchEl) {
+                    regionMenuSearchEl.placeholder = (type === 'county') ? 'Search county...' : 'Search city...';
+                }
+
+                const filtered = getFilteredRegions(type);
+                const currentItem = findItemById(type, current);
+                if (currentItem) {
+                    setSelectedRegionId(type, currentItem.id);
+                } else if (filtered && filtered.length) {
+                    setSelectedRegionId(type, filtered[0].id);
+                } else {
+                    regionIdEl.value = '';
+                    if (regionToggleEl) regionToggleEl.textContent = 'No results';
+                }
+
+                renderRegionMenu();
+            }
+
+            function formatLocation(q) {
+                const type = q.regionType;
+                const id = q.regionId;
+
+                if (type === 'county' && typeof id === 'number') {
+                    const item = countyById[id];
+                    return 'County: ' + (item ? item.title : String(id)) + ' (' + String(id) + ')';
+                }
+
+                if (type === 'city' && typeof id === 'number') {
+                    const item = cityById[id];
+                    return 'City: ' + (item ? item.title : String(id)) + ' (' + String(id) + ')';
+                }
+
+                return 'All regions';
+            }
+
+            async function loadQueries() {
+                showError('');
+                const res = await fetch('/queries/table');
+                if (!res.ok) {
+                    showError('Failed to load queries.');
+                    return;
+                }
+                const html = await res.text();
+                tbody.innerHTML = html;
+            }
+
+            addBtn.addEventListener('click', async () => {
+                const query = (queryEl.value || '');
+                const category = (categoryEl.value || '');
+                const regionType = (regionTypeEl.value || 'city');
+                const regionId = (regionType === 'city' || regionType === 'county') ? (regionIdEl.value || null) : null;
+
+                showError('');
+                const res = await fetch('/queries', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query, category, regionType, regionId })
+                });
+                if (!res.ok) {
+                    const err = await res.json().catch(() => ({}));
+                    showError(err.error || 'Failed to save query.');
+                    return;
+                }
+                queryEl.value = '';
+                categoryEl.value = '';
+                await loadQueries();
+            });
+
+            if (sendEmailNowBtn) {
+                sendEmailNowBtn.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    sendEmailNow();
+                });
+            }
+
+            tbody.addEventListener('click', async (e) => {
+                const btn = e.target && e.target.closest ? e.target.closest('button') : null;
+                if (!btn) return;
+                const id = btn.getAttribute('data-del');
+                if (!id) return;
+                if (!confirm('Delete this query?')) return;
+                showError('');
+                const res = await fetch('/queries/' + encodeURIComponent(id), { method: 'DELETE' });
+                if (!res.ok) {
+                    showError('Failed to delete query.');
+                    return;
+                }
+                await loadQueries();
+            });
+
+            async function init() {
+                const [cityRes, countyRes] = await Promise.all([
+                    fetch('/regions/cities'),
+                    fetch('/regions/counties')
+                ]);
+
+                cities = await cityRes.json().catch(() => []);
+                counties = await countyRes.json().catch(() => []);
+
+                cityById = (cities || []).reduce((acc, it) => { acc[it.id] = it; return acc; }, {});
+                countyById = (counties || []).reduce((acc, it) => { acc[it.id] = it; return acc; }, {});
+
+                refreshRegionSelect();
+                regionTypeEl.addEventListener('change', () => {
+                    if (regionMenuSearchEl) regionMenuSearchEl.value = '';
+                    closeRegionMenu();
+                    refreshRegionSelect();
+                });
+
+                if (regionToggleEl) {
+                    regionToggleEl.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        if (regionMenuEl && !regionMenuEl.classList.contains('hidden')) closeRegionMenu();
+                        else openRegionMenu();
+                    });
+                }
+
+                if (regionMenuSearchEl) {
+                    regionMenuSearchEl.addEventListener('input', () => renderRegionMenu());
+                    regionMenuSearchEl.addEventListener('keydown', (e) => {
+                        if (e.key === 'Escape') {
+                            e.preventDefault();
+                            closeRegionMenu();
+                            regionToggleEl && regionToggleEl.focus && regionToggleEl.focus();
+                        }
+                    });
+                }
+
+                if (regionMenuListEl) {
+                    regionMenuListEl.addEventListener('click', (e) => {
+                        const btn = e.target && e.target.closest ? e.target.closest('button') : null;
+                        if (!btn) return;
+                        const id = btn.getAttribute('data-region-id');
+                        if (!id) return;
+                        const type = getActiveRegionType();
+                        setSelectedRegionId(type, id);
+                        closeRegionMenu();
+                    });
+                }
+
+                document.addEventListener('click', (e) => {
+                    const menuOpen = regionMenuEl && !regionMenuEl.classList.contains('hidden');
+                    if (!menuOpen) return;
+                    const dropdown = document.getElementById('regionDropdown');
+                    if (dropdown && dropdown.contains && dropdown.contains(e.target)) return;
+                    closeRegionMenu();
+                });
+
+                await loadQueries();
+            }
+
+            init();
+        </script>
+    </body>
+</html>

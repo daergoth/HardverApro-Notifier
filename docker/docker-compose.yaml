@@ -1,0 +1,35 @@
+services:
+  mongodb:
+    image: mongo:8.2
+    container_name: hardverapro-notifier_mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - ../mongodb_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping')"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+      start_period: 20s
+
+  hardverapro-notifier:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: hardverapro-notifier:0.1
+    container_name: hardverapro-notifier_backend
+    restart: unless-stopped
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    ports:
+      - "55555:3000"
+    cap_add:
+      - SYS_TIME
+      - SYS_NICE
+    environment:
+      - NODE_ENV=dev
+      - NODE_CONFIG_ENV=dev
+      - TIME_ZONE=Europe/Budapest

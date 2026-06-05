@@ -1,0 +1,159 @@
+{
+    "changedFavourites": [
+        {
+            "from": {
+                "link": "from-link1",
+                "img": "from-img1",
+                "title": "From Title1",
+                "price": "From Price1"
+            },
+            "to": {
+                "link": "to-link1",
+                "img": "to-img1",
+                "title": "To Title1",
+                "price": "To Price1"
+            }
+        },
+        {
+            "from": {
+                "link": "from-link2",
+                "img": "from-img2",
+                "title": "From Title2",
+                "price": "From Price2"
+            },
+            "to": {
+                "link": "to-link2",
+                "img": "to-img2",
+                "title": "To Title2",
+                "price": "To Price2"
+            }
+        }
+    ],
+    "queryResults": [
+        {
+            "query": "query1",
+            "region": "All regions",
+            "rows": [
+                {
+                    "items": [
+                        {
+                            "link": "row1-link1",
+                            "img": "row1-image1",
+                            "title": "Row1 Title1",
+                            "price": "Row1 Price1"
+                        },
+                        {
+                            "link": "row1-link2",
+                            "img": "row1-image2",
+                            "title": "Row1 Title2",
+                            "price": "Row1 Price2"
+                        },
+                        {
+                            "link": "row1-link3",
+                            "img": "row1-image3",
+                            "title": "Row1 Title3",
+                            "price": "Row1 Price3"
+                        },
+                        {
+                            "link": "row1-link4",
+                            "img": "row1-image4",
+                            "title": "Row1 Title4",
+                            "price": "Row1 Price4"
+                        }
+                    ]
+                },
+                {
+                    "items": [
+                        {
+                            "link": "row2-link1",
+                            "img": "row2-image1",
+                            "title": "Row2 Title1",
+                            "price": "Row2 Price1"
+                        },
+                        {
+                            "link": "row2-link2",
+                            "img": "row2-image2",
+                            "title": "Row2 Title2",
+                            "price": "Row2 Price2"
+                        },
+                        {
+                            "link": "row2-link3",
+                            "img": "row2-image3",
+                            "title": "Row2 Title3",
+                            "price": "Row2 Price3"
+                        },
+                        {
+                            "link": "row2-link4",
+                            "img": "row2-image4",
+                            "title": "Row2 Title4",
+                            "price": "Row2 Price4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "query": "query2",
+            "region": "City: Budapest",
+            "rows": [
+                {
+                    "items": [
+                        {
+                            "link": "row1-link1",
+                            "img": "row1-image1",
+                            "title": "Row1 Title1",
+                            "price": "Row1 Price1"
+                        },
+                        {
+                            "link": "row1-link2",
+                            "img": "row1-image2",
+                            "title": "Row1 Title2",
+                            "price": "Row1 Price2"
+                        },
+                        {
+                            "link": "row1-link3",
+                            "img": "row1-image3",
+                            "title": "Row1 Title3",
+                            "price": "Row1 Price3"
+                        },
+                        {
+                            "link": "row1-link4",
+                            "img": "row1-image4",
+                            "title": "Row1 Title4",
+                            "price": "Row1 Price4"
+                        }
+                    ]
+                },
+                {
+                    "items": [
+                        {
+                            "link": "row2-link1",
+                            "img": "row2-image1",
+                            "title": "Row2 Title1",
+                            "price": "Row2 Price1"
+                        },
+                        {
+                            "link": "row2-link2",
+                            "img": "row2-image2",
+                            "title": "Row2 Title2",
+                            "price": "Row2 Price2"
+                        },
+                        {
+                            "link": "row2-link3",
+                            "img": "row2-image3",
+                            "title": "Row2 Title3",
+                            "price": "Row2 Price3"
+                        },
+                        {
+                            "link": "row2-link4",
+                            "img": "row2-image4",
+                            "title": "Row2 Title4",
+                            "price": "Row2 Price4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "generatedAt": "2020-03-01 22:44"
+}

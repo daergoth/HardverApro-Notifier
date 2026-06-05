@@ -1,0 +1,64 @@
+{
+    "searchQueries": [
+        {
+            "query": "unifi",
+            "category": "/hardver/halozati_termekek"
+        }
+    ],
+    "searchConfig": {
+        "baseUrl": "https://hardverapro.hu/aprok%category%/keres.php",
+        "imageBaseUrl": "https:",
+        "countRegex": "^(?<count>\\d+)\\stalálat\\serre:\\s.*$",
+        "countElementSelector": "#center > div.uad-list > ul > li:nth-child(1) > h3",
+        "itemsElementSelector": "#center > div.uad-list > ul > li.media",
+        "itemsImageSelector": "a.uad-image > img",
+        "itemsTitleSelector": "div.uad-col-title > h1 > a",
+        "itemsPriceSelector": "div.uad-col-price > div.uad-price > span",
+        "itemsPRSelector": "div.uad-corner-ribbon span",
+        "itemsRegionSelector": "div.uad-col-info > div.uad-cities"
+    },
+    "favouritesConfig": {
+        "baseUrl": "https://hardverapro.hu/fiok/belepes.php",
+        "imageBaseUrl": "https:",
+        "authenticationUrl": "https://hardverapro.hu/muvelet/hozzaferes/belepes.php",
+        "username": "<HARDVERAPRO_USERNAME>",
+        "password": "<HARDVERAPRO_PASSWORD>",
+        "loginIdentifierSelector": "input[name=fidentifier]",
+        "favouritePageUrl": "https://hardverapro.hu/index.html",
+        "favouriteListSelector": "#right > div.user-thread-list.user-thread-list-fav > div > ul > li",
+        "favouriteLinkSelector": "a",
+        "productPageImageSelector": "#uad-images-carousel > div > div.carousel-item.active > a > img",
+        "productPageTitleSelector": "#center > div.uad > div:nth-child(1) > h1",
+        "productPagePriceSelector": "#center > div.uad > div.row.no-gutters.uad-details > div:nth-child(1) > h2",
+        "productPageRegionSelector": "#center > div.uad > div:nth-child(4) > div.uad-time-location > span:nth-child(1)"
+    },
+    "emailConfig": {
+        "host": "<EMAIL_SERVER_HOST>",
+        "port": "<EMAIL_SERVER_PORT>",
+        "user": "<EMAIL_USER>",
+        "pass": "<EMAIL_PASSWORD>",
+        "from": "<EMAIL_FROM>",
+        "to": [
+            "<EMAIL_TO>"
+        ]
+    },
+    "localeConfig": {
+        "locale": "HU"
+    },
+    "scrapingConfig": {
+        "htmlCacheTtlMs": 300000,
+        "searchPageCacheTtlMs": 300000,
+        "itemPageCacheTtlMs": 3600000,
+        "searchConcurrencyLimit": 1,
+        "searchDelayMs": 1000,
+        "searchUserAgent": "<SEARCH_USER_AGENT>",
+        "searchCookies": "<SEARCH_COOKIES>",
+        "htmlCachePersistInDb": true,
+        "htmlCacheCollectionName": "html_page_cache"
+    },
+    "mongoConfig": {
+        "host": "mongodb",
+        "port": 27017,
+        "dbName": "hardverapro-notifier"
+    }
+}

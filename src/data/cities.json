@@ -1,0 +1,12682 @@
+{
+	"Aba": {
+		"id": 17376,
+		"title": "Aba"
+	},
+	"Abádszalók": {
+		"id": 12441,
+		"title": "Abádszalók"
+	},
+	"Abaliget": {
+		"id": 12548,
+		"title": "Abaliget"
+	},
+	"Abasár": {
+		"id": 24554,
+		"title": "Abasár"
+	},
+	"Abaújalpár": {
+		"id": 15662,
+		"title": "Abaújalpár"
+	},
+	"Abaújkér": {
+		"id": 26718,
+		"title": "Abaújkér"
+	},
+	"Abaújlak": {
+		"id": 2820,
+		"title": "Abaújlak"
+	},
+	"Abaújszántó": {
+		"id": 3595,
+		"title": "Abaújszántó"
+	},
+	"Abaújszolnok": {
+		"id": 26338,
+		"title": "Abaújszolnok"
+	},
+	"Abaújvár": {
+		"id": 2273,
+		"title": "Abaújvár"
+	},
+	"Abda": {
+		"id": 11882,
+		"title": "Abda"
+	},
+	"Abod": {
+		"id": 10357,
+		"title": "Abod"
+	},
+	"Abony": {
+		"id": 27872,
+		"title": "Abony"
+	},
+	"Ábrahámhegy": {
+		"id": 4561,
+		"title": "Ábrahámhegy"
+	},
+	"Ács": {
+		"id": 4428,
+		"title": "Ács"
+	},
+	"Acsa": {
+		"id": 18573,
+		"title": "Acsa"
+	},
+	"Acsád": {
+		"id": 7214,
+		"title": "Acsád"
+	},
+	"Acsalag": {
+		"id": 33385,
+		"title": "Acsalag"
+	},
+	"Ácsteszér": {
+		"id": 18139,
+		"title": "Ácsteszér"
+	},
+	"Adács": {
+		"id": 23241,
+		"title": "Adács"
+	},
+	"Ádánd": {
+		"id": 6080,
+		"title": "Ádánd"
+	},
+	"Adásztevel": {
+		"id": 7302,
+		"title": "Adásztevel"
+	},
+	"Adony": {
+		"id": 8925,
+		"title": "Adony"
+	},
+	"Adorjánháza": {
+		"id": 31307,
+		"title": "Adorjánháza"
+	},
+	"Adorjás": {
+		"id": 6868,
+		"title": "Adorjás"
+	},
+	"Ág": {
+		"id": 25812,
+		"title": "Ág"
+	},
+	"Ágasegyháza": {
+		"id": 17686,
+		"title": "Ágasegyháza"
+	},
+	"Ágfalva": {
+		"id": 4880,
+		"title": "Ágfalva"
+	},
+	"Aggtelek": {
+		"id": 9362,
+		"title": "Aggtelek"
+	},
+	"Agyagosszergény": {
+		"id": 29407,
+		"title": "Agyagosszergény"
+	},
+	"Ajak": {
+		"id": 8776,
+		"title": "Ajak"
+	},
+	"Ajka": {
+		"id": 6673,
+		"title": "Ajka"
+	},
+	"Aka": {
+		"id": 6682,
+		"title": "Aka"
+	},
+	"Akasztó": {
+		"id": 21944,
+		"title": "Akasztó"
+	},
+	"Alacska": {
+		"id": 33093,
+		"title": "Alacska"
+	},
+	"Alap": {
+		"id": 26824,
+		"title": "Alap"
+	},
+	"Alattyán": {
+		"id": 25265,
+		"title": "Alattyán"
+	},
+	"Albertirsa": {
+		"id": 31653,
+		"title": "Albertirsa"
+	},
+	"Alcsútdoboz": {
+		"id": 15176,
+		"title": "Alcsútdoboz"
+	},
+	"Aldebrő": {
+		"id": 6345,
+		"title": "Aldebrő"
+	},
+	"Algyő": {
+		"id": 34245,
+		"title": "Algyő"
+	},
+	"Alibánfa": {
+		"id": 2644,
+		"title": "Alibánfa"
+	},
+	"Almamellék": {
+		"id": 13329,
+		"title": "Almamellék"
+	},
+	"Almásfüzitő": {
+		"id": 32346,
+		"title": "Almásfüzitő"
+	},
+	"Almásháza": {
+		"id": 23384,
+		"title": "Almásháza"
+	},
+	"Almáskamarás": {
+		"id": 29595,
+		"title": "Almáskamarás"
+	},
+	"Almáskeresztúr": {
+		"id": 20376,
+		"title": "Almáskeresztúr"
+	},
+	"Álmosd": {
+		"id": 27641,
+		"title": "Álmosd"
+	},
+	"Alsóberecki": {
+		"id": 20482,
+		"title": "Alsóberecki"
+	},
+	"Alsóbogát": {
+		"id": 34184,
+		"title": "Alsóbogát"
+	},
+	"Alsódobsza": {
+		"id": 19664,
+		"title": "Alsódobsza"
+	},
+	"Alsógagy": {
+		"id": 14429,
+		"title": "Alsógagy"
+	},
+	"Alsómocsolád": {
+		"id": 17385,
+		"title": "Alsómocsolád"
+	},
+	"Alsónána": {
+		"id": 29665,
+		"title": "Alsónána"
+	},
+	"Alsónémedi": {
+		"id": 23199,
+		"title": "Alsónémedi"
+	},
+	"Alsónemesapáti": {
+		"id": 19512,
+		"title": "Alsónemesapáti"
+	},
+	"Alsónyék": {
+		"id": 11563,
+		"title": "Alsónyék"
+	},
+	"Alsóörs": {
+		"id": 30526,
+		"title": "Alsóörs"
+	},
+	"Alsópáhok": {
+		"id": 32081,
+		"title": "Alsópáhok"
+	},
+	"Alsópetény": {
+		"id": 16425,
+		"title": "Alsópetény"
+	},
+	"Alsórajk": {
+		"id": 18829,
+		"title": "Alsórajk"
+	},
+	"Alsóregmec": {
+		"id": 23223,
+		"title": "Alsóregmec"
+	},
+	"Alsószenterzsébet": {
+		"id": 8767,
+		"title": "Alsószenterzsébet"
+	},
+	"Alsószentiván": {
+		"id": 25283,
+		"title": "Alsószentiván"
+	},
+	"Alsószentmárton": {
+		"id": 33279,
+		"title": "Alsószentmárton"
+	},
+	"Alsószölnök": {
+		"id": 22549,
+		"title": "Alsószölnök"
+	},
+	"Alsószuha": {
+		"id": 28839,
+		"title": "Alsószuha"
+	},
+	"Alsótelekes": {
+		"id": 8217,
+		"title": "Alsótelekes"
+	},
+	"Alsótold": {
+		"id": 7621,
+		"title": "Alsótold"
+	},
+	"Alsóújlak": {
+		"id": 22725,
+		"title": "Alsóújlak"
+	},
+	"Alsóvadász": {
+		"id": 29814,
+		"title": "Alsóvadász"
+	},
+	"Alsózsolca": {
+		"id": 21032,
+		"title": "Alsózsolca"
+	},
+	"Ambrózfalva": {
+		"id": 16197,
+		"title": "Ambrózfalva"
+	},
+	"Anarcs": {
+		"id": 29975,
+		"title": "Anarcs"
+	},
+	"Andocs": {
+		"id": 28714,
+		"title": "Andocs"
+	},
+	"Andornaktálya": {
+		"id": 17987,
+		"title": "Andornaktálya"
+	},
+	"Andrásfa": {
+		"id": 12317,
+		"title": "Andrásfa"
+	},
+	"Annavölgy": {
+		"id": 34227,
+		"title": "Annavölgy"
+	},
+	"Apácatorna": {
+		"id": 28370,
+		"title": "Apácatorna"
+	},
+	"Apagy": {
+		"id": 20303,
+		"title": "Apagy"
+	},
+	"Apaj": {
+		"id": 33561,
+		"title": "Apaj"
+	},
+	"Aparhant": {
+		"id": 26125,
+		"title": "Aparhant"
+	},
+	"Apátfalva": {
+		"id": 14252,
+		"title": "Apátfalva"
+	},
+	"Apátistvánfalva": {
+		"id": 8873,
+		"title": "Apátistvánfalva"
+	},
+	"Apátvarasd": {
+		"id": 27298,
+		"title": "Apátvarasd"
+	},
+	"Apc": {
+		"id": 7241,
+		"title": "Apc"
+	},
+	"Áporka": {
+		"id": 10108,
+		"title": "Áporka"
+	},
+	"Apostag": {
+		"id": 21148,
+		"title": "Apostag"
+	},
+	"Aranyosapáti": {
+		"id": 9353,
+		"title": "Aranyosapáti"
+	},
+	"Aranyosgadány": {
+		"id": 6886,
+		"title": "Aranyosgadány"
+	},
+	"Arka": {
+		"id": 26198,
+		"title": "Arka"
+	},
+	"Arló": {
+		"id": 14331,
+		"title": "Arló"
+	},
+	"Arnót": {
+		"id": 3771,
+		"title": "Arnót"
+	},
+	"Ároktő": {
+		"id": 3823,
+		"title": "Ároktő"
+	},
+	"Árpádhalom": {
+		"id": 19062,
+		"title": "Árpádhalom"
+	},
+	"Árpás": {
+		"id": 32249,
+		"title": "Árpás"
+	},
+	"Ártánd": {
+		"id": 3319,
+		"title": "Ártánd"
+	},
+	"Ásotthalom": {
+		"id": 10339,
+		"title": "Ásotthalom"
+	},
+	"Ásványráró": {
+		"id": 26921,
+		"title": "Ásványráró"
+	},
+	"Aszaló": {
+		"id": 4233,
+		"title": "Aszaló"
+	},
+	"Ászár": {
+		"id": 23852,
+		"title": "Ászár"
+	},
+	"Aszód": {
+		"id": 16188,
+		"title": "Aszód"
+	},
+	"Aszófő": {
+		"id": 7339,
+		"title": "Aszófő"
+	},
+	"Áta": {
+		"id": 28583,
+		"title": "Áta"
+	},
+	"Átány": {
+		"id": 6503,
+		"title": "Átány"
+	},
+	"Atkár": {
+		"id": 16090,
+		"title": "Atkár"
+	},
+	"Attala": {
+		"id": 32735,
+		"title": "Attala"
+	},
+	"Babarc": {
+		"id": 5403,
+		"title": "Babarc"
+	},
+	"Babarcszőlős": {
+		"id": 9663,
+		"title": "Babarcszőlős"
+	},
+	"Babócsa": {
+		"id": 30474,
+		"title": "Babócsa"
+	},
+	"Bábolna": {
+		"id": 19363,
+		"title": "Bábolna"
+	},
+	"Bábonymegyer": {
+		"id": 28316,
+		"title": "Bábonymegyer"
+	},
+	"Babosdöbréte": {
+		"id": 21263,
+		"title": "Babosdöbréte"
+	},
+	"Babót": {
+		"id": 15042,
+		"title": "Babót"
+	},
+	"Bácsalmás": {
+		"id": 10719,
+		"title": "Bácsalmás"
+	},
+	"Bácsbokod": {
+		"id": 10180,
+		"title": "Bácsbokod"
+	},
+	"Bácsborsód": {
+		"id": 27234,
+		"title": "Bácsborsód"
+	},
+	"Bácsszentgyörgy": {
+		"id": 8697,
+		"title": "Bácsszentgyörgy"
+	},
+	"Bácsszőlős": {
+		"id": 30155,
+		"title": "Bácsszőlős"
+	},
+	"Badacsonytomaj": {
+		"id": 22327,
+		"title": "Badacsonytomaj"
+	},
+	"Badacsonytördemic": {
+		"id": 3267,
+		"title": "Badacsonytördemic"
+	},
+	"Bag": {
+		"id": 9131,
+		"title": "Bag"
+	},
+	"Bagamér": {
+		"id": 20011,
+		"title": "Bagamér"
+	},
+	"Baglad": {
+		"id": 11059,
+		"title": "Baglad"
+	},
+	"Bagod": {
+		"id": 30368,
+		"title": "Bagod"
+	},
+	"Bágyogszovát": {
+		"id": 28769,
+		"title": "Bágyogszovát"
+	},
+	"Baj": {
+		"id": 29212,
+		"title": "Baj"
+	},
+	"Baja": {
+		"id": 3522,
+		"title": "Baja"
+	},
+	"Bajánsenye": {
+		"id": 17020,
+		"title": "Bajánsenye"
+	},
+	"Bajna": {
+		"id": 16744,
+		"title": "Bajna"
+	},
+	"Bajót": {
+		"id": 29355,
+		"title": "Bajót"
+	},
+	"Bak": {
+		"id": 4738,
+		"title": "Bak"
+	},
+	"Bakháza": {
+		"id": 14395,
+		"title": "Bakháza"
+	},
+	"Bakóca": {
+		"id": 22275,
+		"title": "Bakóca"
+	},
+	"Bakonszeg": {
+		"id": 15167,
+		"title": "Bakonszeg"
+	},
+	"Bakonya": {
+		"id": 8299,
+		"title": "Bakonya"
+	},
+	"Bakonybánk": {
+		"id": 24244,
+		"title": "Bakonybánk"
+	},
+	"Bakonybél": {
+		"id": 23746,
+		"title": "Bakonybél"
+	},
+	"Bakonycsernye": {
+		"id": 8730,
+		"title": "Bakonycsernye"
+	},
+	"Bakonygyirót": {
+		"id": 28936,
+		"title": "Bakonygyirót"
+	},
+	"Bakonyjákó": {
+		"id": 29513,
+		"title": "Bakonyjákó"
+	},
+	"Bakonykoppány": {
+		"id": 7287,
+		"title": "Bakonykoppány"
+	},
+	"Bakonykúti": {
+		"id": 23153,
+		"title": "Bakonykúti"
+	},
+	"Bakonynána": {
+		"id": 25991,
+		"title": "Bakonynána"
+	},
+	"Bakonyoszlop": {
+		"id": 30410,
+		"title": "Bakonyoszlop"
+	},
+	"Bakonypéterd": {
+		"id": 22062,
+		"title": "Bakonypéterd"
+	},
+	"Bakonypölöske": {
+		"id": 6327,
+		"title": "Bakonypölöske"
+	},
+	"Bakonyság": {
+		"id": 29902,
+		"title": "Bakonyság"
+	},
+	"Bakonysárkány": {
+		"id": 25229,
+		"title": "Bakonysárkány"
+	},
+	"Bakonyszentiván": {
+		"id": 23922,
+		"title": "Bakonyszentiván"
+	},
+	"Bakonyszentkirály": {
+		"id": 22813,
+		"title": "Bakonyszentkirály"
+	},
+	"Bakonyszentlászló": {
+		"id": 5944,
+		"title": "Bakonyszentlászló"
+	},
+	"Bakonyszombathely": {
+		"id": 22381,
+		"title": "Bakonyszombathely"
+	},
+	"Bakonyszücs": {
+		"id": 26417,
+		"title": "Bakonyszücs"
+	},
+	"Bakonytamási": {
+		"id": 24129,
+		"title": "Bakonytamási"
+	},
+	"Baks": {
+		"id": 29106,
+		"title": "Baks"
+	},
+	"Baksa": {
+		"id": 3975,
+		"title": "Baksa"
+	},
+	"Baktakék": {
+		"id": 18184,
+		"title": "Baktakék"
+	},
+	"Baktalórántháza": {
+		"id": 2325,
+		"title": "Baktalórántháza"
+	},
+	"Baktüttös": {
+		"id": 15097,
+		"title": "Baktüttös"
+	},
+	"Balajt": {
+		"id": 22521,
+		"title": "Balajt"
+	},
+	"Balassagyarmat": {
+		"id": 13657,
+		"title": "Balassagyarmat"
+	},
+	"Balástya": {
+		"id": 23676,
+		"title": "Balástya"
+	},
+	"Balaton": {
+		"id": 11527,
+		"title": "Balaton"
+	},
+	"Balatonakali": {
+		"id": 25308,
+		"title": "Balatonakali"
+	},
+	"Balatonalmádi": {
+		"id": 5838,
+		"title": "Balatonalmádi"
+	},
+	"Balatonberény": {
+		"id": 27377,
+		"title": "Balatonberény"
+	},
+	"Balatonboglár": {
+		"id": 33853,
+		"title": "Balatonboglár"
+	},
+	"Balatoncsicsó": {
+		"id": 3072,
+		"title": "Balatoncsicsó"
+	},
+	"Balatonederics": {
+		"id": 12238,
+		"title": "Balatonederics"
+	},
+	"Balatonendréd": {
+		"id": 19460,
+		"title": "Balatonendréd"
+	},
+	"Balatonfenyves": {
+		"id": 20729,
+		"title": "Balatonfenyves"
+	},
+	"Balatonfőkajár": {
+		"id": 29461,
+		"title": "Balatonfőkajár"
+	},
+	"Balatonföldvár": {
+		"id": 7117,
+		"title": "Balatonföldvár"
+	},
+	"Balatonfüred": {
+		"id": 21175,
+		"title": "Balatonfüred"
+	},
+	"Balatonfűzfő": {
+		"id": 2219,
+		"title": "Balatonfűzfő"
+	},
+	"Balatongyörök": {
+		"id": 17002,
+		"title": "Balatongyörök"
+	},
+	"Balatonhenye": {
+		"id": 3638,
+		"title": "Balatonhenye"
+	},
+	"Balatonkenese": {
+		"id": 5148,
+		"title": "Balatonkenese"
+	},
+	"Balatonkeresztúr": {
+		"id": 7375,
+		"title": "Balatonkeresztúr"
+	},
+	"Balatonlelle": {
+		"id": 33862,
+		"title": "Balatonlelle"
+	},
+	"Balatonmagyaród": {
+		"id": 26462,
+		"title": "Balatonmagyaród"
+	},
+	"Balatonmáriafürdő": {
+		"id": 14562,
+		"title": "Balatonmáriafürdő"
+	},
+	"Balatonőszöd": {
+		"id": 11916,
+		"title": "Balatonőszöd"
+	},
+	"Balatonrendes": {
+		"id": 33844,
+		"title": "Balatonrendes"
+	},
+	"Balatonszabadi": {
+		"id": 16601,
+		"title": "Balatonszabadi"
+	},
+	"Balatonszárszó": {
+		"id": 24907,
+		"title": "Balatonszárszó"
+	},
+	"Balatonszemes": {
+		"id": 22822,
+		"title": "Balatonszemes"
+	},
+	"Balatonszentgyörgy": {
+		"id": 21324,
+		"title": "Balatonszentgyörgy"
+	},
+	"Balatonszepezd": {
+		"id": 17154,
+		"title": "Balatonszepezd"
+	},
+	"Balatonszőlős": {
+		"id": 28501,
+		"title": "Balatonszőlős"
+	},
+	"Balatonudvari": {
+		"id": 15565,
+		"title": "Balatonudvari"
+	},
+	"Balatonújlak": {
+		"id": 16470,
+		"title": "Balatonújlak"
+	},
+	"Balatonvilágos": {
+		"id": 3559,
+		"title": "Balatonvilágos"
+	},
+	"Balinka": {
+		"id": 31103,
+		"title": "Balinka"
+	},
+	"Balkány": {
+		"id": 26958,
+		"title": "Balkány"
+	},
+	"Ballószög": {
+		"id": 13408,
+		"title": "Ballószög"
+	},
+	"Balmazújváros": {
+		"id": 2918,
+		"title": "Balmazújváros"
+	},
+	"Balogunyom": {
+		"id": 5102,
+		"title": "Balogunyom"
+	},
+	"Balotaszállás": {
+		"id": 25937,
+		"title": "Balotaszállás"
+	},
+	"Balsa": {
+		"id": 15963,
+		"title": "Balsa"
+	},
+	"Bálványos": {
+		"id": 24457,
+		"title": "Bálványos"
+	},
+	"Bana": {
+		"id": 31422,
+		"title": "Bana"
+	},
+	"Bánd": {
+		"id": 14173,
+		"title": "Bánd"
+	},
+	"Bánfa": {
+		"id": 7603,
+		"title": "Bánfa"
+	},
+	"Bánhorváti": {
+		"id": 25159,
+		"title": "Bánhorváti"
+	},
+	"Bánk": {
+		"id": 24341,
+		"title": "Bánk"
+	},
+	"Bánokszentgyörgy": {
+		"id": 8439,
+		"title": "Bánokszentgyörgy"
+	},
+	"Bánréve": {
+		"id": 21953,
+		"title": "Bánréve"
+	},
+	"Bár": {
+		"id": 24378,
+		"title": "Bár"
+	},
+	"Barabás": {
+		"id": 26480,
+		"title": "Barabás"
+	},
+	"Baracs": {
+		"id": 7047,
+		"title": "Baracs"
+	},
+	"Baracska": {
+		"id": 8581,
+		"title": "Baracska"
+	},
+	"Báránd": {
+		"id": 26693,
+		"title": "Báránd"
+	},
+	"Baranyahidvég": {
+		"id": 20464,
+		"title": "Baranyahidvég"
+	},
+	"Baranyajenő": {
+		"id": 24749,
+		"title": "Baranyajenő"
+	},
+	"Baranyaszentgyörgy": {
+		"id": 5485,
+		"title": "Baranyaszentgyörgy"
+	},
+	"Barbacs": {
+		"id": 6196,
+		"title": "Barbacs"
+	},
+	"Barcs": {
+		"id": 32799,
+		"title": "Barcs"
+	},
+	"Bárdudvarnok": {
+		"id": 3735,
+		"title": "Bárdudvarnok"
+	},
+	"Barlahida": {
+		"id": 27447,
+		"title": "Barlahida"
+	},
+	"Bárna": {
+		"id": 20048,
+		"title": "Bárna"
+	},
+	"Barnag": {
+		"id": 15778,
+		"title": "Barnag"
+	},
+	"Bársonyos": {
+		"id": 8624,
+		"title": "Bársonyos"
+	},
+	"Basal": {
+		"id": 15495,
+		"title": "Basal"
+	},
+	"Baskó": {
+		"id": 8846,
+		"title": "Baskó"
+	},
+	"Báta": {
+		"id": 11712,
+		"title": "Báta"
+	},
+	"Bátaapáti": {
+		"id": 28909,
+		"title": "Bátaapáti"
+	},
+	"Bátaszék": {
+		"id": 8864,
+		"title": "Bátaszék"
+	},
+	"Baté": {
+		"id": 32337,
+		"title": "Baté"
+	},
+	"Bátmonostor": {
+		"id": 3656,
+		"title": "Bátmonostor"
+	},
+	"Bátonyterenye": {
+		"id": 33534,
+		"title": "Bátonyterenye"
+	},
+	"Bátor": {
+		"id": 24022,
+		"title": "Bátor"
+	},
+	"Bátorliget": {
+		"id": 2990,
+		"title": "Bátorliget"
+	},
+	"Battonya": {
+		"id": 18102,
+		"title": "Battonya"
+	},
+	"Bátya": {
+		"id": 11961,
+		"title": "Bátya"
+	},
+	"Batyk": {
+		"id": 24864,
+		"title": "Batyk"
+	},
+	"Bázakerettye": {
+		"id": 18698,
+		"title": "Bázakerettye"
+	},
+	"Bazsi": {
+		"id": 7427,
+		"title": "Bazsi"
+	},
+	"Béb": {
+		"id": 22901,
+		"title": "Béb"
+	},
+	"Becsehely": {
+		"id": 23144,
+		"title": "Becsehely"
+	},
+	"Becske": {
+		"id": 12016,
+		"title": "Becske"
+	},
+	"Becskeháza": {
+		"id": 27049,
+		"title": "Becskeháza"
+	},
+	"Becsvölgye": {
+		"id": 18360,
+		"title": "Becsvölgye"
+	},
+	"Bedegkér": {
+		"id": 20710,
+		"title": "Bedegkér"
+	},
+	"Bedő": {
+		"id": 33446,
+		"title": "Bedő"
+	},
+	"Bejcgyertyános": {
+		"id": 10384,
+		"title": "Bejcgyertyános"
+	},
+	"Békás": {
+		"id": 27058,
+		"title": "Békás"
+	},
+	"Bekecs": {
+		"id": 6929,
+		"title": "Bekecs"
+	},
+	"Békés": {
+		"id": 9760,
+		"title": "Békés"
+	},
+	"Békéscsaba": {
+		"id": 15200,
+		"title": "Békéscsaba"
+	},
+	"Békéssámson": {
+		"id": 26189,
+		"title": "Békéssámson"
+	},
+	"Békésszentandrás": {
+		"id": 2680,
+		"title": "Békésszentandrás"
+	},
+	"Bekölce": {
+		"id": 4400,
+		"title": "Bekölce"
+	},
+	"Bélapátfalva": {
+		"id": 33260,
+		"title": "Bélapátfalva"
+	},
+	"Bélavár": {
+		"id": 6910,
+		"title": "Bélavár"
+	},
+	"Belecska": {
+		"id": 28662,
+		"title": "Belecska"
+	},
+	"Beled": {
+		"id": 10588,
+		"title": "Beled"
+	},
+	"Beleg": {
+		"id": 17127,
+		"title": "Beleg"
+	},
+	"Belezna": {
+		"id": 9168,
+		"title": "Belezna"
+	},
+	"Bélmegyer": {
+		"id": 19390,
+		"title": "Bélmegyer"
+	},
+	"Beloiannisz": {
+		"id": 8466,
+		"title": "Beloiannisz"
+	},
+	"Belsősárd": {
+		"id": 20950,
+		"title": "Belsősárd"
+	},
+	"Belvárdgyula": {
+		"id": 19008,
+		"title": "Belvárdgyula"
+	},
+	"Benk": {
+		"id": 25441,
+		"title": "Benk"
+	},
+	"Bénye": {
+		"id": 25098,
+		"title": "Bénye"
+	},
+	"Bér": {
+		"id": 32911,
+		"title": "Bér"
+	},
+	"Bérbaltavár": {
+		"id": 32124,
+		"title": "Bérbaltavár"
+	},
+	"Bercel": {
+		"id": 2389,
+		"title": "Bercel"
+	},
+	"Beregdaróc": {
+		"id": 28246,
+		"title": "Beregdaróc"
+	},
+	"Beregsurány": {
+		"id": 20677,
+		"title": "Beregsurány"
+	},
+	"Berekböszörmény": {
+		"id": 18467,
+		"title": "Berekböszörmény"
+	},
+	"Berekfürdő": {
+		"id": 34005,
+		"title": "Berekfürdő"
+	},
+	"Beremend": {
+		"id": 31927,
+		"title": "Beremend"
+	},
+	"Berente": {
+		"id": 34290,
+		"title": "Berente"
+	},
+	"Beret": {
+		"id": 29674,
+		"title": "Beret"
+	},
+	"Berettyóújfalu": {
+		"id": 12788,
+		"title": "Berettyóújfalu"
+	},
+	"Berhida": {
+		"id": 33127,
+		"title": "Berhida"
+	},
+	"Berkenye": {
+		"id": 9034,
+		"title": "Berkenye"
+	},
+	"Berkesd": {
+		"id": 16461,
+		"title": "Berkesd"
+	},
+	"Berkesz": {
+		"id": 7472,
+		"title": "Berkesz"
+	},
+	"Bernecebaráti": {
+		"id": 18777,
+		"title": "Bernecebaráti"
+	},
+	"Berzék": {
+		"id": 26356,
+		"title": "Berzék"
+	},
+	"Berzence": {
+		"id": 30119,
+		"title": "Berzence"
+	},
+	"Besence": {
+		"id": 30049,
+		"title": "Besence"
+	},
+	"Besenyőd": {
+		"id": 13639,
+		"title": "Besenyőd"
+	},
+	"Besenyőtelek": {
+		"id": 27517,
+		"title": "Besenyőtelek"
+	},
+	"Besenyszög": {
+		"id": 11305,
+		"title": "Besenyszög"
+	},
+	"Besnyő": {
+		"id": 16346,
+		"title": "Besnyő"
+	},
+	"Beszterec": {
+		"id": 21227,
+		"title": "Beszterec"
+	},
+	"Bezedek": {
+		"id": 14119,
+		"title": "Bezedek"
+	},
+	"Bezenye": {
+		"id": 29805,
+		"title": "Bezenye"
+	},
+	"Bezeréd": {
+		"id": 12830,
+		"title": "Bezeréd"
+	},
+	"Bezi": {
+		"id": 10560,
+		"title": "Bezi"
+	},
+	"Biatorbágy": {
+		"id": 8891,
+		"title": "Biatorbágy"
+	},
+	"Bicsérd": {
+		"id": 13310,
+		"title": "Bicsérd"
+	},
+	"Bicske": {
+		"id": 10481,
+		"title": "Bicske"
+	},
+	"Bihardancsháza": {
+		"id": 25256,
+		"title": "Bihardancsháza"
+	},
+	"Biharkeresztes": {
+		"id": 19956,
+		"title": "Biharkeresztes"
+	},
+	"Biharnagybajom": {
+		"id": 24828,
+		"title": "Biharnagybajom"
+	},
+	"Bihartorda": {
+		"id": 29887,
+		"title": "Bihartorda"
+	},
+	"Biharugra": {
+		"id": 29610,
+		"title": "Biharugra"
+	},
+	"Bikács": {
+		"id": 11970,
+		"title": "Bikács"
+	},
+	"Bikal": {
+		"id": 4899,
+		"title": "Bikal"
+	},
+	"Biri": {
+		"id": 2945,
+		"title": "Biri"
+	},
+	"Birján": {
+		"id": 5139,
+		"title": "Birján"
+	},
+	"Bisse": {
+		"id": 24925,
+		"title": "Bisse"
+	},
+	"Boba": {
+		"id": 29203,
+		"title": "Boba"
+	},
+	"Bocfölde": {
+		"id": 17543,
+		"title": "Bocfölde"
+	},
+	"Boconád": {
+		"id": 22354,
+		"title": "Boconád"
+	},
+	"Bócsa": {
+		"id": 8305,
+		"title": "Bócsa"
+	},
+	"Bocska": {
+		"id": 31291,
+		"title": "Bocska"
+	},
+	"Bocskaikert": {
+		"id": 34102,
+		"title": "Bocskaikert"
+	},
+	"Boda": {
+		"id": 20899,
+		"title": "Boda"
+	},
+	"Bodajk": {
+		"id": 18254,
+		"title": "Bodajk"
+	},
+	"Bodmér": {
+		"id": 11624,
+		"title": "Bodmér"
+	},
+	"Bodolyabér": {
+		"id": 33002,
+		"title": "Bodolyabér"
+	},
+	"Bodonhely": {
+		"id": 6220,
+		"title": "Bodonhely"
+	},
+	"Bodony": {
+		"id": 14933,
+		"title": "Bodony"
+	},
+	"Bodorfa": {
+		"id": 4321,
+		"title": "Bodorfa"
+	},
+	"Bodrog": {
+		"id": 10506,
+		"title": "Bodrog"
+	},
+	"Bodroghalom": {
+		"id": 23737,
+		"title": "Bodroghalom"
+	},
+	"Bodrogkeresztúr": {
+		"id": 30784,
+		"title": "Bodrogkeresztúr"
+	},
+	"Bodrogkisfalud": {
+		"id": 33808,
+		"title": "Bodrogkisfalud"
+	},
+	"Bodrogolaszi": {
+		"id": 14401,
+		"title": "Bodrogolaszi"
+	},
+	"Bódvalenke": {
+		"id": 27429,
+		"title": "Bódvalenke"
+	},
+	"Bódvarákó": {
+		"id": 33303,
+		"title": "Bódvarákó"
+	},
+	"Bódvaszilas": {
+		"id": 5926,
+		"title": "Bódvaszilas"
+	},
+	"Bogács": {
+		"id": 25195,
+		"title": "Bogács"
+	},
+	"Bogád": {
+		"id": 32151,
+		"title": "Bogád"
+	},
+	"Bogádmindszent": {
+		"id": 21892,
+		"title": "Bogádmindszent"
+	},
+	"Bogdása": {
+		"id": 10694,
+		"title": "Bogdása"
+	},
+	"Bogyiszló": {
+		"id": 3425,
+		"title": "Bogyiszló"
+	},
+	"Bogyoszló": {
+		"id": 4367,
+		"title": "Bogyoszló"
+	},
+	"Bojt": {
+		"id": 14137,
+		"title": "Bojt"
+	},
+	"Bókaháza": {
+		"id": 19929,
+		"title": "Bókaháza"
+	},
+	"Bokod": {
+		"id": 7311,
+		"title": "Bokod"
+	},
+	"Bokor": {
+		"id": 3841,
+		"title": "Bokor"
+	},
+	"Boldog": {
+		"id": 3452,
+		"title": "Boldog"
+	},
+	"Boldogasszonyfa": {
+		"id": 13116,
+		"title": "Boldogasszonyfa"
+	},
+	"Boldogkőújfalu": {
+		"id": 18944,
+		"title": "Boldogkőújfalu"
+	},
+	"Boldogkőváralja": {
+		"id": 14474,
+		"title": "Boldogkőváralja"
+	},
+	"Boldva": {
+		"id": 8396,
+		"title": "Boldva"
+	},
+	"Bolhás": {
+		"id": 13994,
+		"title": "Bolhás"
+	},
+	"Bolhó": {
+		"id": 18120,
+		"title": "Bolhó"
+	},
+	"Bóly": {
+		"id": 33154,
+		"title": "Bóly"
+	},
+	"Boncodfölde": {
+		"id": 10782,
+		"title": "Boncodfölde"
+	},
+	"Bonyhád": {
+		"id": 6497,
+		"title": "Bonyhád"
+	},
+	"Bonyhádvarasd": {
+		"id": 14818,
+		"title": "Bonyhádvarasd"
+	},
+	"Bonnya": {
+		"id": 22673,
+		"title": "Bonnya"
+	},
+	"Bordány": {
+		"id": 8192,
+		"title": "Bordány"
+	},
+	"Borgáta": {
+		"id": 3090,
+		"title": "Borgáta"
+	},
+	"Borjád": {
+		"id": 6725,
+		"title": "Borjád"
+	},
+	"Borota": {
+		"id": 19327,
+		"title": "Borota"
+	},
+	"Borsfa": {
+		"id": 10056,
+		"title": "Borsfa"
+	},
+	"Borsodbóta": {
+		"id": 30669,
+		"title": "Borsodbóta"
+	},
+	"Borsodgeszt": {
+		"id": 16124,
+		"title": "Borsodgeszt"
+	},
+	"Borsodivánka": {
+		"id": 6707,
+		"title": "Borsodivánka"
+	},
+	"Borsodnádasd": {
+		"id": 5315,
+		"title": "Borsodnádasd"
+	},
+	"Borsodszentgyörgy": {
+		"id": 30207,
+		"title": "Borsodszentgyörgy"
+	},
+	"Borsodszirák": {
+		"id": 16799,
+		"title": "Borsodszirák"
+	},
+	"Borsosberény": {
+		"id": 9894,
+		"title": "Borsosberény"
+	},
+	"Borszörcsök": {
+		"id": 4765,
+		"title": "Borszörcsök"
+	},
+	"Borzavár": {
+		"id": 30252,
+		"title": "Borzavár"
+	},
+	"Bosta": {
+		"id": 14368,
+		"title": "Bosta"
+	},
+	"Botpalád": {
+		"id": 22239,
+		"title": "Botpalád"
+	},
+	"Botykapeterd": {
+		"id": 13365,
+		"title": "Botykapeterd"
+	},
+	"Bozzai": {
+		"id": 6390,
+		"title": "Bozzai"
+	},
+	"Bozsok": {
+		"id": 5023,
+		"title": "Bozsok"
+	},
+	"Bózsva": {
+		"id": 31006,
+		"title": "Bózsva"
+	},
+	"Bő": {
+		"id": 5476,
+		"title": "Bő"
+	},
+	"Bőcs": {
+		"id": 5306,
+		"title": "Bőcs"
+	},
+	"Böde": {
+		"id": 22877,
+		"title": "Böde"
+	},
+	"Bödeháza": {
+		"id": 4163,
+		"title": "Bödeháza"
+	},
+	"Bögöt": {
+		"id": 11651,
+		"title": "Bögöt"
+	},
+	"Bögöte": {
+		"id": 7296,
+		"title": "Bögöte"
+	},
+	"Böhönye": {
+		"id": 26532,
+		"title": "Böhönye"
+	},
+	"Bököny": {
+		"id": 11299,
+		"title": "Bököny"
+	},
+	"Bölcske": {
+		"id": 6558,
+		"title": "Bölcske"
+	},
+	"Bőny": {
+		"id": 33950,
+		"title": "Bőny"
+	},
+	"Börcs": {
+		"id": 6619,
+		"title": "Börcs"
+	},
+	"Börzönce": {
+		"id": 21139,
+		"title": "Börzönce"
+	},
+	"Bősárkány": {
+		"id": 15501,
+		"title": "Bősárkány"
+	},
+	"Bőszénfa": {
+		"id": 26277,
+		"title": "Bőszénfa"
+	},
+	"Bucsa": {
+		"id": 13471,
+		"title": "Bucsa"
+	},
+	"Bucsu": {
+		"id": 32984,
+		"title": "Bucsu"
+	},
+	"Bucsuszentlászló": {
+		"id": 20613,
+		"title": "Bucsuszentlászló"
+	},
+	"Bucsuta": {
+		"id": 7986,
+		"title": "Bucsuta"
+	},
+	"Budajenő": {
+		"id": 3407,
+		"title": "Budajenő"
+	},
+	"Budakalász": {
+		"id": 23463,
+		"title": "Budakalász"
+	},
+	"Budakeszi": {
+		"id": 12052,
+		"title": "Budakeszi"
+	},
+	"Budaörs": {
+		"id": 23278,
+		"title": "Budaörs"
+	},
+	"Budapest": {
+		"id": 100,
+		"title": "Budapest"
+	},
+	"Budapest III. kerület": {
+		"id": 3,
+		"title": "Budapest III. kerület"
+	},
+	"Budapest II. kerület": {
+		"id": 2,
+		"title": "Budapest II. kerület"
+	},
+	"Budapest I. kerület": {
+		"id": 1,
+		"title": "Budapest I. kerület"
+	},
+	"Budapest IV. kerület": {
+		"id": 4,
+		"title": "Budapest IV. kerület"
+	},
+	"Budapest IX. kerület": {
+		"id": 9,
+		"title": "Budapest IX. kerület"
+	},
+	"Budapest VIII. kerület": {
+		"id": 8,
+		"title": "Budapest VIII. kerület"
+	},
+	"Budapest VII. kerület": {
+		"id": 7,
+		"title": "Budapest VII. kerület"
+	},
+	"Budapest VI. kerület": {
+		"id": 6,
+		"title": "Budapest VI. kerület"
+	},
+	"Budapest V. kerület": {
+		"id": 5,
+		"title": "Budapest V. kerület"
+	},
+	"Budapest XIII. kerület": {
+		"id": 13,
+		"title": "Budapest XIII. kerület"
+	},
+	"Budapest XII. kerület": {
+		"id": 12,
+		"title": "Budapest XII. kerület"
+	},
+	"Budapest XI. kerület": {
+		"id": 11,
+		"title": "Budapest XI. kerület"
+	},
+	"Budapest XIV. kerület": {
+		"id": 14,
+		"title": "Budapest XIV. kerület"
+	},
+	"Budapest XIX. kerület": {
+		"id": 19,
+		"title": "Budapest XIX. kerület"
+	},
+	"Budapest X. kerület": {
+		"id": 10,
+		"title": "Budapest X. kerület"
+	},
+	"Budapest XVIII. kerület": {
+		"id": 18,
+		"title": "Budapest XVIII. kerület"
+	},
+	"Budapest XVII. kerület": {
+		"id": 17,
+		"title": "Budapest XVII. kerület"
+	},
+	"Budapest XVI. kerület": {
+		"id": 16,
+		"title": "Budapest XVI. kerület"
+	},
+	"Budapest XV. kerület": {
+		"id": 15,
+		"title": "Budapest XV. kerület"
+	},
+	"Budapest XXIII. kerület": {
+		"id": 23,
+		"title": "Budapest XXIII. kerület"
+	},
+	"Budapest XXII. kerület": {
+		"id": 22,
+		"title": "Budapest XXII. kerület"
+	},
+	"Budapest XXI. kerület": {
+		"id": 21,
+		"title": "Budapest XXI. kerület"
+	},
+	"Budapest XX. kerület": {
+		"id": 20,
+		"title": "Budapest XX. kerület"
+	},
+	"Bugac": {
+		"id": 32823,
+		"title": "Bugac"
+	},
+	"Bugacpusztaháza": {
+		"id": 33631,
+		"title": "Bugacpusztaháza"
+	},
+	"Bugyi": {
+		"id": 32027,
+		"title": "Bugyi"
+	},
+	"Buj": {
+		"id": 19707,
+		"title": "Buj"
+	},
+	"Buják": {
+		"id": 14234,
+		"title": "Buják"
+	},
+	"Buzsák": {
+		"id": 17358,
+		"title": "Buzsák"
+	},
+	"Bük": {
+		"id": 2431,
+		"title": "Bük"
+	},
+	"Bükkábrány": {
+		"id": 13596,
+		"title": "Bükkábrány"
+	},
+	"Bükkaranyos": {
+		"id": 27890,
+		"title": "Bükkaranyos"
+	},
+	"Bükkmogyorósd": {
+		"id": 19406,
+		"title": "Bükkmogyorósd"
+	},
+	"Bükkösd": {
+		"id": 23162,
+		"title": "Bükkösd"
+	},
+	"Bükkszék": {
+		"id": 2963,
+		"title": "Bükkszék"
+	},
+	"Bükkszenterzsébet": {
+		"id": 10621,
+		"title": "Bükkszenterzsébet"
+	},
+	"Bükkszentkereszt": {
+		"id": 8022,
+		"title": "Bükkszentkereszt"
+	},
+	"Bükkszentmárton": {
+		"id": 22099,
+		"title": "Bükkszentmárton"
+	},
+	"Bükkzsérc": {
+		"id": 32887,
+		"title": "Bükkzsérc"
+	},
+	"Bürüs": {
+		"id": 7533,
+		"title": "Bürüs"
+	},
+	"Büssü": {
+		"id": 8703,
+		"title": "Büssü"
+	},
+	"Büttös": {
+		"id": 23977,
+		"title": "Büttös"
+	},
+	"Cák": {
+		"id": 8271,
+		"title": "Cák"
+	},
+	"Cakóháza": {
+		"id": 27085,
+		"title": "Cakóháza"
+	},
+	"Cece": {
+		"id": 13152,
+		"title": "Cece"
+	},
+	"Cégénydányád": {
+		"id": 9681,
+		"title": "Cégénydányád"
+	},
+	"Cegléd": {
+		"id": 11341,
+		"title": "Cegléd"
+	},
+	"Ceglédbercel": {
+		"id": 20640,
+		"title": "Ceglédbercel"
+	},
+	"Celldömölk": {
+		"id": 27094,
+		"title": "Celldömölk"
+	},
+	"Cered": {
+		"id": 3665,
+		"title": "Cered"
+	},
+	"Chernelházadamonya": {
+		"id": 9876,
+		"title": "Chernelházadamonya"
+	},
+	"Cibakháza": {
+		"id": 22938,
+		"title": "Cibakháza"
+	},
+	"Cigánd": {
+		"id": 3939,
+		"title": "Cigánd"
+	},
+	"Cikó": {
+		"id": 19284,
+		"title": "Cikó"
+	},
+	"Cirák": {
+		"id": 15954,
+		"title": "Cirák"
+	},
+	"Cún": {
+		"id": 11086,
+		"title": "Cún"
+	},
+	"Csabacsűd": {
+		"id": 31334,
+		"title": "Csabacsűd"
+	},
+	"Csabaszabadi": {
+		"id": 34078,
+		"title": "Csabaszabadi"
+	},
+	"Csabdi": {
+		"id": 30544,
+		"title": "Csabdi"
+	},
+	"Csabrendek": {
+		"id": 30924,
+		"title": "Csabrendek"
+	},
+	"Csáfordjánosfa": {
+		"id": 10047,
+		"title": "Csáfordjánosfa"
+	},
+	"Csaholc": {
+		"id": 12928,
+		"title": "Csaholc"
+	},
+	"Csajág": {
+		"id": 16072,
+		"title": "Csajág"
+	},
+	"Csákány": {
+		"id": 3799,
+		"title": "Csákány"
+	},
+	"Csákánydoroszló": {
+		"id": 3911,
+		"title": "Csákánydoroszló"
+	},
+	"Csákberény": {
+		"id": 5360,
+		"title": "Csákberény"
+	},
+	"Csákvár": {
+		"id": 20002,
+		"title": "Csákvár"
+	},
+	"Csanádalberti": {
+		"id": 2121,
+		"title": "Csanádalberti"
+	},
+	"Csanádapáca": {
+		"id": 20455,
+		"title": "Csanádapáca"
+	},
+	"Csanádpalota": {
+		"id": 5379,
+		"title": "Csanádpalota"
+	},
+	"Csánig": {
+		"id": 26772,
+		"title": "Csánig"
+	},
+	"Csány": {
+		"id": 16841,
+		"title": "Csány"
+	},
+	"Csányoszró": {
+		"id": 19901,
+		"title": "Csányoszró"
+	},
+	"Csanytelek": {
+		"id": 22293,
+		"title": "Csanytelek"
+	},
+	"Csapi": {
+		"id": 6132,
+		"title": "Csapi"
+	},
+	"Csapod": {
+		"id": 8563,
+		"title": "Csapod"
+	},
+	"Csárdaszállás": {
+		"id": 25502,
+		"title": "Csárdaszállás"
+	},
+	"Csarnóta": {
+		"id": 30614,
+		"title": "Csarnóta"
+	},
+	"Csaroda": {
+		"id": 29416,
+		"title": "Csaroda"
+	},
+	"Császár": {
+		"id": 16416,
+		"title": "Császár"
+	},
+	"Császártöltés": {
+		"id": 10472,
+		"title": "Császártöltés"
+	},
+	"Császló": {
+		"id": 9715,
+		"title": "Császló"
+	},
+	"Csátalja": {
+		"id": 26471,
+		"title": "Csátalja"
+	},
+	"Csatár": {
+		"id": 23436,
+		"title": "Csatár"
+	},
+	"Csataszög": {
+		"id": 34175,
+		"title": "Csataszög"
+	},
+	"Csatka": {
+		"id": 33109,
+		"title": "Csatka"
+	},
+	"Csávoly": {
+		"id": 16373,
+		"title": "Csávoly"
+	},
+	"Csebény": {
+		"id": 21591,
+		"title": "Csebény"
+	},
+	"Csécse": {
+		"id": 30270,
+		"title": "Csécse"
+	},
+	"Csegöld": {
+		"id": 26107,
+		"title": "Csegöld"
+	},
+	"Csehbánya": {
+		"id": 20251,
+		"title": "Csehbánya"
+	},
+	"Csehi": {
+		"id": 19488,
+		"title": "Csehi"
+	},
+	"Csehimindszent": {
+		"id": 12724,
+		"title": "Csehimindszent"
+	},
+	"Csém": {
+		"id": 33640,
+		"title": "Csém"
+	},
+	"Csemő": {
+		"id": 5184,
+		"title": "Csemő"
+	},
+	"Csempeszkopács": {
+		"id": 23816,
+		"title": "Csempeszkopács"
+	},
+	"Csengele": {
+		"id": 32285,
+		"title": "Csengele"
+	},
+	"Csenger": {
+		"id": 30641,
+		"title": "Csenger"
+	},
+	"Csengersima": {
+		"id": 24095,
+		"title": "Csengersima"
+	},
+	"Csengerújfalu": {
+		"id": 26851,
+		"title": "Csengerújfalu"
+	},
+	"Csengőd": {
+		"id": 12344,
+		"title": "Csengőd"
+	},
+	"Csénye": {
+		"id": 9070,
+		"title": "Csénye"
+	},
+	"Csenyéte": {
+		"id": 8493,
+		"title": "Csenyéte"
+	},
+	"Csép": {
+		"id": 18272,
+		"title": "Csép"
+	},
+	"Csépa": {
+		"id": 13170,
+		"title": "Csépa"
+	},
+	"Csepreg": {
+		"id": 12140,
+		"title": "Csepreg"
+	},
+	"Csér": {
+		"id": 30191,
+		"title": "Csér"
+	},
+	"Cserdi": {
+		"id": 26082,
+		"title": "Cserdi"
+	},
+	"Cserénfa": {
+		"id": 25681,
+		"title": "Cserénfa"
+	},
+	"Cserépfalu": {
+		"id": 6974,
+		"title": "Cserépfalu"
+	},
+	"Cserépváralja": {
+		"id": 25575,
+		"title": "Cserépváralja"
+	},
+	"Cserháthaláp": {
+		"id": 21935,
+		"title": "Cserháthaláp"
+	},
+	"Cserhátsurány": {
+		"id": 22594,
+		"title": "Cserhátsurány"
+	},
+	"Cserhátszentiván": {
+		"id": 32319,
+		"title": "Cserhátszentiván"
+	},
+	"Cserkeszőlő": {
+		"id": 5795,
+		"title": "Cserkeszőlő"
+	},
+	"Cserkút": {
+		"id": 3896,
+		"title": "Cserkút"
+	},
+	"Csernely": {
+		"id": 28459,
+		"title": "Csernely"
+	},
+	"Cserszegtomaj": {
+		"id": 7135,
+		"title": "Cserszegtomaj"
+	},
+	"Csertalakos": {
+		"id": 10649,
+		"title": "Csertalakos"
+	},
+	"Csertő": {
+		"id": 13851,
+		"title": "Csertő"
+	},
+	"Csesznek": {
+		"id": 24642,
+		"title": "Csesznek"
+	},
+	"Csesztreg": {
+		"id": 2583,
+		"title": "Csesztreg"
+	},
+	"Csesztve": {
+		"id": 20145,
+		"title": "Csesztve"
+	},
+	"Csetény": {
+		"id": 31699,
+		"title": "Csetény"
+	},
+	"Csévharaszt": {
+		"id": 18476,
+		"title": "Csévharaszt"
+	},
+	"Csibrák": {
+		"id": 11998,
+		"title": "Csibrák"
+	},
+	"Csikéria": {
+		"id": 15699,
+		"title": "Csikéria"
+	},
+	"Csikóstőttős": {
+		"id": 30094,
+		"title": "Csikóstőttős"
+	},
+	"Csikvánd": {
+		"id": 13505,
+		"title": "Csikvánd"
+	},
+	"Csincse": {
+		"id": 34111,
+		"title": "Csincse"
+	},
+	"Csipkerek": {
+		"id": 26064,
+		"title": "Csipkerek"
+	},
+	"Csitár": {
+		"id": 5050,
+		"title": "Csitár"
+	},
+	"Csobád": {
+		"id": 5333,
+		"title": "Csobád"
+	},
+	"Csobaj": {
+		"id": 20774,
+		"title": "Csobaj"
+	},
+	"Csobánka": {
+		"id": 6822,
+		"title": "Csobánka"
+	},
+	"Csókakő": {
+		"id": 21908,
+		"title": "Csókakő"
+	},
+	"Csokonyavisonta": {
+		"id": 5971,
+		"title": "Csokonyavisonta"
+	},
+	"Csokvaomány": {
+		"id": 14289,
+		"title": "Csokvaomány"
+	},
+	"Csolnok": {
+		"id": 18926,
+		"title": "Csolnok"
+	},
+	"Csólyospálos": {
+		"id": 12025,
+		"title": "Csólyospálos"
+	},
+	"Csoma": {
+		"id": 8040,
+		"title": "Csoma"
+	},
+	"Csomád": {
+		"id": 33118,
+		"title": "Csomád"
+	},
+	"Csombárd": {
+		"id": 2477,
+		"title": "Csombárd"
+	},
+	"Csongrád": {
+		"id": 5111,
+		"title": "Csongrád"
+	},
+	"Csonkahegyhát": {
+		"id": 31149,
+		"title": "Csonkahegyhát"
+	},
+	"Csonkamindszent": {
+		"id": 22576,
+		"title": "Csonkamindszent"
+	},
+	"Csopak": {
+		"id": 2185,
+		"title": "Csopak"
+	},
+	"Csór": {
+		"id": 9779,
+		"title": "Csór"
+	},
+	"Csorna": {
+		"id": 4039,
+		"title": "Csorna"
+	},
+	"Csorvás": {
+		"id": 26709,
+		"title": "Csorvás"
+	},
+	"Csót": {
+		"id": 32878,
+		"title": "Csót"
+	},
+	"Csöde": {
+		"id": 27492,
+		"title": "Csöde"
+	},
+	"Csögle": {
+		"id": 32814,
+		"title": "Csögle"
+	},
+	"Csökmő": {
+		"id": 12450,
+		"title": "Csökmő"
+	},
+	"Csököly": {
+		"id": 24314,
+		"title": "Csököly"
+	},
+	"Csömend": {
+		"id": 27270,
+		"title": "Csömend"
+	},
+	"Csömödér": {
+		"id": 29364,
+		"title": "Csömödér"
+	},
+	"Csömör": {
+		"id": 22804,
+		"title": "Csömör"
+	},
+	"Csönge": {
+		"id": 22390,
+		"title": "Csönge"
+	},
+	"Csörnyeföld": {
+		"id": 33978,
+		"title": "Csörnyeföld"
+	},
+	"Csörög": {
+		"id": 34333,
+		"title": "Csörög"
+	},
+	"Csörötnek": {
+		"id": 4224,
+		"title": "Csörötnek"
+	},
+	"Csősz": {
+		"id": 6734,
+		"title": "Csősz"
+	},
+	"Csővár": {
+		"id": 26985,
+		"title": "Csővár"
+	},
+	"Csurgó": {
+		"id": 21315,
+		"title": "Csurgó"
+	},
+	"Csurgónagymarton": {
+		"id": 10603,
+		"title": "Csurgónagymarton"
+	},
+	"Dabas": {
+		"id": 9247,
+		"title": "Dabas"
+	},
+	"Dabronc": {
+		"id": 17172,
+		"title": "Dabronc"
+	},
+	"Dabrony": {
+		"id": 28237,
+		"title": "Dabrony"
+	},
+	"Dad": {
+		"id": 33163,
+		"title": "Dad"
+	},
+	"Dág": {
+		"id": 22910,
+		"title": "Dág"
+	},
+	"Dáka": {
+		"id": 20154,
+		"title": "Dáka"
+	},
+	"Dalmand": {
+		"id": 29230,
+		"title": "Dalmand"
+	},
+	"Damak": {
+		"id": 11350,
+		"title": "Damak"
+	},
+	"Dámóc": {
+		"id": 7719,
+		"title": "Dámóc"
+	},
+	"Dánszentmiklós": {
+		"id": 31811,
+		"title": "Dánszentmiklós"
+	},
+	"Dány": {
+		"id": 18397,
+		"title": "Dány"
+	},
+	"Daraboshegy": {
+		"id": 15990,
+		"title": "Daraboshegy"
+	},
+	"Darány": {
+		"id": 31352,
+		"title": "Darány"
+	},
+	"Darnó": {
+		"id": 18795,
+		"title": "Darnó"
+	},
+	"Darnózseli": {
+		"id": 21865,
+		"title": "Darnózseli"
+	},
+	"Daruszentmiklós": {
+		"id": 34342,
+		"title": "Daruszentmiklós"
+	},
+	"Darvas": {
+		"id": 14678,
+		"title": "Darvas"
+	},
+	"Dávod": {
+		"id": 10533,
+		"title": "Dávod"
+	},
+	"Debercsény": {
+		"id": 7320,
+		"title": "Debercsény"
+	},
+	"Debrecen": {
+		"id": 15130,
+		"title": "Debrecen"
+	},
+	"Debréte": {
+		"id": 31954,
+		"title": "Debréte"
+	},
+	"Decs": {
+		"id": 24989,
+		"title": "Decs"
+	},
+	"Dédestapolcsány": {
+		"id": 4686,
+		"title": "Dédestapolcsány"
+	},
+	"Dég": {
+		"id": 32753,
+		"title": "Dég"
+	},
+	"Dejtár": {
+		"id": 12511,
+		"title": "Dejtár"
+	},
+	"Délegyháza": {
+		"id": 9973,
+		"title": "Délegyháza"
+	},
+	"Demecser": {
+		"id": 17756,
+		"title": "Demecser"
+	},
+	"Demjén": {
+		"id": 8660,
+		"title": "Demjén"
+	},
+	"Dencsháza": {
+		"id": 7773,
+		"title": "Dencsháza"
+	},
+	"Dénesfa": {
+		"id": 32595,
+		"title": "Dénesfa"
+	},
+	"Derecske": {
+		"id": 5573,
+		"title": "Derecske"
+	},
+	"Derekegyház": {
+		"id": 7834,
+		"title": "Derekegyház"
+	},
+	"Deszk": {
+		"id": 24077,
+		"title": "Deszk"
+	},
+	"Detek": {
+		"id": 10524,
+		"title": "Detek"
+	},
+	"Detk": {
+		"id": 9201,
+		"title": "Detk"
+	},
+	"Dévaványa": {
+		"id": 24819,
+		"title": "Dévaványa"
+	},
+	"Devecser": {
+		"id": 32276,
+		"title": "Devecser"
+	},
+	"Dinnyeberki": {
+		"id": 11952,
+		"title": "Dinnyeberki"
+	},
+	"Diósberény": {
+		"id": 11688,
+		"title": "Diósberény"
+	},
+	"Diósd": {
+		"id": 24013,
+		"title": "Diósd"
+	},
+	"Diósjenő": {
+		"id": 6743,
+		"title": "Diósjenő"
+	},
+	"Dióskál": {
+		"id": 28778,
+		"title": "Dióskál"
+	},
+	"Diósviszló": {
+		"id": 32373,
+		"title": "Diósviszló"
+	},
+	"Doba": {
+		"id": 10870,
+		"title": "Doba"
+	},
+	"Doboz": {
+		"id": 33190,
+		"title": "Doboz"
+	},
+	"Dobri": {
+		"id": 25885,
+		"title": "Dobri"
+	},
+	"Dobronhegy": {
+		"id": 32708,
+		"title": "Dobronhegy"
+	},
+	"Dóc": {
+		"id": 30535,
+		"title": "Dóc"
+	},
+	"Domaháza": {
+		"id": 25690,
+		"title": "Domaháza"
+	},
+	"Domaszék": {
+		"id": 13383,
+		"title": "Domaszék"
+	},
+	"Dombegyház": {
+		"id": 24031,
+		"title": "Dombegyház"
+	},
+	"Dombiratos": {
+		"id": 22132,
+		"title": "Dombiratos"
+	},
+	"Dombóvár": {
+		"id": 7685,
+		"title": "Dombóvár"
+	},
+	"Dombrád": {
+		"id": 14508,
+		"title": "Dombrád"
+	},
+	"Domony": {
+		"id": 4808,
+		"title": "Domony"
+	},
+	"Domoszló": {
+		"id": 7515,
+		"title": "Domoszló"
+	},
+	"Dormánd": {
+		"id": 30261,
+		"title": "Dormánd"
+	},
+	"Dorog": {
+		"id": 10490,
+		"title": "Dorog"
+	},
+	"Dorogháza": {
+		"id": 24439,
+		"title": "Dorogháza"
+	},
+	"Dozmat": {
+		"id": 16151,
+		"title": "Dozmat"
+	},
+	"Döbörhegy": {
+		"id": 20695,
+		"title": "Döbörhegy"
+	},
+	"Döbröce": {
+		"id": 7782,
+		"title": "Döbröce"
+	},
+	"Döbrököz": {
+		"id": 2565,
+		"title": "Döbrököz"
+	},
+	"Döbrönte": {
+		"id": 29470,
+		"title": "Döbrönte"
+	},
+	"Döge": {
+		"id": 3647,
+		"title": "Döge"
+	},
+	"Dömös": {
+		"id": 6594,
+		"title": "Dömös"
+	},
+	"Dömsöd": {
+		"id": 29647,
+		"title": "Dömsöd"
+	},
+	"Dör": {
+		"id": 21917,
+		"title": "Dör"
+	},
+	"Dörgicse": {
+		"id": 6363,
+		"title": "Dörgicse"
+	},
+	"Döröske": {
+		"id": 3036,
+		"title": "Döröske"
+	},
+	"Dötk": {
+		"id": 16009,
+		"title": "Dötk"
+	},
+	"Dövény": {
+		"id": 6123,
+		"title": "Dövény"
+	},
+	"Drágszél": {
+		"id": 7524,
+		"title": "Drágszél"
+	},
+	"Drávacsehi": {
+		"id": 28617,
+		"title": "Drávacsehi"
+	},
+	"Drávacsepely": {
+		"id": 28121,
+		"title": "Drávacsepely"
+	},
+	"Drávafok": {
+		"id": 17419,
+		"title": "Drávafok"
+	},
+	"Drávagárdony": {
+		"id": 13611,
+		"title": "Drávagárdony"
+	},
+	"Drávaiványi": {
+		"id": 32391,
+		"title": "Drávaiványi"
+	},
+	"Drávakeresztúr": {
+		"id": 9159,
+		"title": "Drávakeresztúr"
+	},
+	"Drávapalkonya": {
+		"id": 22734,
+		"title": "Drávapalkonya"
+	},
+	"Drávapiski": {
+		"id": 12380,
+		"title": "Drávapiski"
+	},
+	"Drávaszabolcs": {
+		"id": 28608,
+		"title": "Drávaszabolcs"
+	},
+	"Drávaszerdahely": {
+		"id": 30030,
+		"title": "Drávaszerdahely"
+	},
+	"Drávasztára": {
+		"id": 21698,
+		"title": "Drávasztára"
+	},
+	"Drávatamási": {
+		"id": 15884,
+		"title": "Drávatamási"
+	},
+	"Drégelypalánk": {
+		"id": 8156,
+		"title": "Drégelypalánk"
+	},
+	"Dubicsány": {
+		"id": 27669,
+		"title": "Dubicsány"
+	},
+	"Dudar": {
+		"id": 2936,
+		"title": "Dudar"
+	},
+	"Duka": {
+		"id": 2927,
+		"title": "Duka"
+	},
+	"Dunaalmás": {
+		"id": 33835,
+		"title": "Dunaalmás"
+	},
+	"Dunabogdány": {
+		"id": 25362,
+		"title": "Dunabogdány"
+	},
+	"Dunaegyháza": {
+		"id": 21069,
+		"title": "Dunaegyháza"
+	},
+	"Dunafalva": {
+		"id": 12566,
+		"title": "Dunafalva"
+	},
+	"Dunaföldvár": {
+		"id": 31501,
+		"title": "Dunaföldvár"
+	},
+	"Dunaharaszti": {
+		"id": 9584,
+		"title": "Dunaharaszti"
+	},
+	"Dunakeszi": {
+		"id": 18616,
+		"title": "Dunakeszi"
+	},
+	"Dunakiliti": {
+		"id": 27739,
+		"title": "Dunakiliti"
+	},
+	"Dunapataj": {
+		"id": 7861,
+		"title": "Dunapataj"
+	},
+	"Dunaremete": {
+		"id": 2079,
+		"title": "Dunaremete"
+	},
+	"Dunaszeg": {
+		"id": 21078,
+		"title": "Dunaszeg"
+	},
+	"Dunaszekcső": {
+		"id": 9186,
+		"title": "Dunaszekcső"
+	},
+	"Dunaszentbenedek": {
+		"id": 11606,
+		"title": "Dunaszentbenedek"
+	},
+	"Dunaszentgyörgy": {
+		"id": 9539,
+		"title": "Dunaszentgyörgy"
+	},
+	"Dunaszentmiklós": {
+		"id": 24101,
+		"title": "Dunaszentmiklós"
+	},
+	"Dunaszentpál": {
+		"id": 15875,
+		"title": "Dunaszentpál"
+	},
+	"Dunasziget": {
+		"id": 10454,
+		"title": "Dunasziget"
+	},
+	"Dunatetétlen": {
+		"id": 14766,
+		"title": "Dunatetétlen"
+	},
+	"Dunaújváros": {
+		"id": 3115,
+		"title": "Dunaújváros"
+	},
+	"Dunavarsány": {
+		"id": 20534,
+		"title": "Dunavarsány"
+	},
+	"Dunavecse": {
+		"id": 7612,
+		"title": "Dunavecse"
+	},
+	"Dusnok": {
+		"id": 4109,
+		"title": "Dusnok"
+	},
+	"Dúzs": {
+		"id": 19202,
+		"title": "Dúzs"
+	},
+	"Ebergőc": {
+		"id": 26347,
+		"title": "Ebergőc"
+	},
+	"Ebes": {
+		"id": 14614,
+		"title": "Ebes"
+	},
+	"Écs": {
+		"id": 16708,
+		"title": "Écs"
+	},
+	"Ecséd": {
+		"id": 17181,
+		"title": "Ecséd"
+	},
+	"Ecseg": {
+		"id": 4251,
+		"title": "Ecseg"
+	},
+	"Ecsegfalva": {
+		"id": 9432,
+		"title": "Ecsegfalva"
+	},
+	"Ecseny": {
+		"id": 10861,
+		"title": "Ecseny"
+	},
+	"Ecser": {
+		"id": 24518,
+		"title": "Ecser"
+	},
+	"Edde": {
+		"id": 3489,
+		"title": "Edde"
+	},
+	"Edelény": {
+		"id": 10728,
+		"title": "Edelény"
+	},
+	"Edve": {
+		"id": 22442,
+		"title": "Edve"
+	},
+	"Eger": {
+		"id": 20491,
+		"title": "Eger"
+	},
+	"Egerág": {
+		"id": 28918,
+		"title": "Egerág"
+	},
+	"Egeralja": {
+		"id": 33871,
+		"title": "Egeralja"
+	},
+	"Egeraracsa": {
+		"id": 24262,
+		"title": "Egeraracsa"
+	},
+	"Egerbakta": {
+		"id": 12821,
+		"title": "Egerbakta"
+	},
+	"Egerbocs": {
+		"id": 26019,
+		"title": "Egerbocs"
+	},
+	"Egercsehi": {
+		"id": 16610,
+		"title": "Egercsehi"
+	},
+	"Egerfarmos": {
+		"id": 2981,
+		"title": "Egerfarmos"
+	},
+	"Egerlövő": {
+		"id": 5865,
+		"title": "Egerlövő"
+	},
+	"Egerszalók": {
+		"id": 24758,
+		"title": "Egerszalók"
+	},
+	"Egerszólát": {
+		"id": 13648,
+		"title": "Egerszólát"
+	},
+	"Égerszög": {
+		"id": 13356,
+		"title": "Égerszög"
+	},
+	"Egervár": {
+		"id": 33428,
+		"title": "Egervár"
+	},
+	"Egervölgy": {
+		"id": 28796,
+		"title": "Egervölgy"
+	},
+	"Egyed": {
+		"id": 20288,
+		"title": "Egyed"
+	},
+	"Egyek": {
+		"id": 15741,
+		"title": "Egyek"
+	},
+	"Egyházasdengeleg": {
+		"id": 17659,
+		"title": "Egyházasdengeleg"
+	},
+	"Egyházasfalu": {
+		"id": 15237,
+		"title": "Egyházasfalu"
+	},
+	"Egyházasgerge": {
+		"id": 5980,
+		"title": "Egyházasgerge"
+	},
+	"Egyházasharaszti": {
+		"id": 16498,
+		"title": "Egyházasharaszti"
+	},
+	"Egyházashetye": {
+		"id": 10232,
+		"title": "Egyházashetye"
+	},
+	"Egyházashollós": {
+		"id": 30429,
+		"title": "Egyházashollós"
+	},
+	"Egyházaskesző": {
+		"id": 10445,
+		"title": "Egyházaskesző"
+	},
+	"Egyházaskozár": {
+		"id": 27401,
+		"title": "Egyházaskozár"
+	},
+	"Egyházasrádóc": {
+		"id": 25946,
+		"title": "Egyházasrádóc"
+	},
+	"Elek": {
+		"id": 32957,
+		"title": "Elek"
+	},
+	"Ellend": {
+		"id": 6099,
+		"title": "Ellend"
+	},
+	"Előszállás": {
+		"id": 20358,
+		"title": "Előszállás"
+	},
+	"Emőd": {
+		"id": 4677,
+		"title": "Emőd"
+	},
+	"Encs": {
+		"id": 33048,
+		"title": "Encs"
+	},
+	"Encsencs": {
+		"id": 32328,
+		"title": "Encsencs"
+	},
+	"Endrefalva": {
+		"id": 25496,
+		"title": "Endrefalva"
+	},
+	"Endrőc": {
+		"id": 28273,
+		"title": "Endrőc"
+	},
+	"Enese": {
+		"id": 15033,
+		"title": "Enese"
+	},
+	"Enying": {
+		"id": 2802,
+		"title": "Enying"
+	},
+	"Eperjes": {
+		"id": 22992,
+		"title": "Eperjes"
+	},
+	"Eperjeske": {
+		"id": 18528,
+		"title": "Eperjeske"
+	},
+	"Eplény": {
+		"id": 33941,
+		"title": "Eplény"
+	},
+	"Epöl": {
+		"id": 29638,
+		"title": "Epöl"
+	},
+	"Ercsi": {
+		"id": 23603,
+		"title": "Ercsi"
+	},
+	"Érd": {
+		"id": 30988,
+		"title": "Érd"
+	},
+	"Erdőbénye": {
+		"id": 25326,
+		"title": "Erdőbénye"
+	},
+	"Erdőhorváti": {
+		"id": 22503,
+		"title": "Erdőhorváti"
+	},
+	"Erdőkertes": {
+		"id": 13480,
+		"title": "Erdőkertes"
+	},
+	"Erdőkövesd": {
+		"id": 28556,
+		"title": "Erdőkövesd"
+	},
+	"Erdőkürt": {
+		"id": 22655,
+		"title": "Erdőkürt"
+	},
+	"Erdősmárok": {
+		"id": 25821,
+		"title": "Erdősmárok"
+	},
+	"Erdősmecske": {
+		"id": 18704,
+		"title": "Erdősmecske"
+	},
+	"Erdőtarcsa": {
+		"id": 21795,
+		"title": "Erdőtarcsa"
+	},
+	"Erdőtelek": {
+		"id": 24235,
+		"title": "Erdőtelek"
+	},
+	"Erk": {
+		"id": 20118,
+		"title": "Erk"
+	},
+	"Érpatak": {
+		"id": 10852,
+		"title": "Érpatak"
+	},
+	"Érsekcsanád": {
+		"id": 11864,
+		"title": "Érsekcsanád"
+	},
+	"Érsekhalma": {
+		"id": 33589,
+		"title": "Érsekhalma"
+	},
+	"Érsekvadkert": {
+		"id": 21582,
+		"title": "Érsekvadkert"
+	},
+	"Értény": {
+		"id": 8448,
+		"title": "Értény"
+	},
+	"Erzsébet": {
+		"id": 13499,
+		"title": "Erzsébet"
+	},
+	"Esztár": {
+		"id": 25469,
+		"title": "Esztár"
+	},
+	"Eszteregnye": {
+		"id": 6178,
+		"title": "Eszteregnye"
+	},
+	"Esztergályhorváti": {
+		"id": 15769,
+		"title": "Esztergályhorváti"
+	},
+	"Esztergom": {
+		"id": 25131,
+		"title": "Esztergom"
+	},
+	"Ete": {
+		"id": 6664,
+		"title": "Ete"
+	},
+	"Etes": {
+		"id": 15370,
+		"title": "Etes"
+	},
+	"Etyek": {
+		"id": 2316,
+		"title": "Etyek"
+	},
+	"Fábiánháza": {
+		"id": 23250,
+		"title": "Fábiánháza"
+	},
+	"Fábiánsebestyén": {
+		"id": 19974,
+		"title": "Fábiánsebestyén"
+	},
+	"Fácánkert": {
+		"id": 24192,
+		"title": "Fácánkert"
+	},
+	"Fadd": {
+		"id": 18980,
+		"title": "Fadd"
+	},
+	"Fáj": {
+		"id": 2741,
+		"title": "Fáj"
+	},
+	"Fajsz": {
+		"id": 3230,
+		"title": "Fajsz"
+	},
+	"Fancsal": {
+		"id": 12557,
+		"title": "Fancsal"
+	},
+	"Farád": {
+		"id": 33996,
+		"title": "Farád"
+	},
+	"Farkasgyepű": {
+		"id": 10250,
+		"title": "Farkasgyepű"
+	},
+	"Farkaslyuk": {
+		"id": 34272,
+		"title": "Farkaslyuk"
+	},
+	"Farmos": {
+		"id": 9122,
+		"title": "Farmos"
+	},
+	"Fazekasboda": {
+		"id": 17835,
+		"title": "Fazekasboda"
+	},
+	"Fedémes": {
+		"id": 12432,
+		"title": "Fedémes"
+	},
+	"Fegyvernek": {
+		"id": 16647,
+		"title": "Fegyvernek"
+	},
+	"Fehérgyarmat": {
+		"id": 18971,
+		"title": "Fehérgyarmat"
+	},
+	"Fehértó": {
+		"id": 6956,
+		"title": "Fehértó"
+	},
+	"Fehérvárcsurgó": {
+		"id": 32203,
+		"title": "Fehérvárcsurgó"
+	},
+	"Feked": {
+		"id": 4543,
+		"title": "Feked"
+	},
+	"Feketeerdő": {
+		"id": 32717,
+		"title": "Feketeerdő"
+	},
+	"Felcsút": {
+		"id": 29939,
+		"title": "Felcsút"
+	},
+	"Feldebrő": {
+		"id": 20747,
+		"title": "Feldebrő"
+	},
+	"Felgyő": {
+		"id": 22646,
+		"title": "Felgyő"
+	},
+	"Felpéc": {
+		"id": 33251,
+		"title": "Felpéc"
+	},
+	"Felsőberecki": {
+		"id": 8174,
+		"title": "Felsőberecki"
+	},
+	"Felsőcsatár": {
+		"id": 13587,
+		"title": "Felsőcsatár"
+	},
+	"Felsődobsza": {
+		"id": 9742,
+		"title": "Felsődobsza"
+	},
+	"Felsőegerszeg": {
+		"id": 13286,
+		"title": "Felsőegerszeg"
+	},
+	"Felsőgagy": {
+		"id": 29708,
+		"title": "Felsőgagy"
+	},
+	"Felsőjánosfa": {
+		"id": 8013,
+		"title": "Felsőjánosfa"
+	},
+	"Felsőkelecsény": {
+		"id": 31723,
+		"title": "Felsőkelecsény"
+	},
+	"Felsőlajos": {
+		"id": 33598,
+		"title": "Felsőlajos"
+	},
+	"Felsőmarác": {
+		"id": 29841,
+		"title": "Felsőmarác"
+	},
+	"Felsőmocsolád": {
+		"id": 13985,
+		"title": "Felsőmocsolád"
+	},
+	"Felsőnána": {
+		"id": 15820,
+		"title": "Felsőnána"
+	},
+	"Felsőnyárád": {
+		"id": 32762,
+		"title": "Felsőnyárád"
+	},
+	"Felsőnyék": {
+		"id": 17914,
+		"title": "Felsőnyék"
+	},
+	"Felsőörs": {
+		"id": 24369,
+		"title": "Felsőörs"
+	},
+	"Felsőpáhok": {
+		"id": 11642,
+		"title": "Felsőpáhok"
+	},
+	"Felsőpakony": {
+		"id": 6035,
+		"title": "Felsőpakony"
+	},
+	"Felsőpetény": {
+		"id": 24323,
+		"title": "Felsőpetény"
+	},
+	"Felsőrajk": {
+		"id": 21476,
+		"title": "Felsőrajk"
+	},
+	"Felsőregmec": {
+		"id": 7588,
+		"title": "Felsőregmec"
+	},
+	"Felsőszenterzsébet": {
+		"id": 30890,
+		"title": "Felsőszenterzsébet"
+	},
+	"Felsőszentiván": {
+		"id": 2954,
+		"title": "Felsőszentiván"
+	},
+	"Felsőszentmárton": {
+		"id": 8819,
+		"title": "Felsőszentmárton"
+	},
+	"Felsőszölnök": {
+		"id": 23287,
+		"title": "Felsőszölnök"
+	},
+	"Felsőtárkány": {
+		"id": 16328,
+		"title": "Felsőtárkány"
+	},
+	"Felsőtelekes": {
+		"id": 31671,
+		"title": "Felsőtelekes"
+	},
+	"Felsőtold": {
+		"id": 33312,
+		"title": "Felsőtold"
+	},
+	"Felsővadász": {
+		"id": 23533,
+		"title": "Felsővadász"
+	},
+	"Felsőzsolca": {
+		"id": 2848,
+		"title": "Felsőzsolca"
+	},
+	"Fényeslitke": {
+		"id": 22415,
+		"title": "Fényeslitke"
+	},
+	"Fenyőfő": {
+		"id": 30678,
+		"title": "Fenyőfő"
+	},
+	"Ferencszállás": {
+		"id": 18999,
+		"title": "Ferencszállás"
+	},
+	"Fertőboz": {
+		"id": 11253,
+		"title": "Fertőboz"
+	},
+	"Fertőd": {
+		"id": 9885,
+		"title": "Fertőd"
+	},
+	"Fertőendréd": {
+		"id": 9487,
+		"title": "Fertőendréd"
+	},
+	"Fertőhomok": {
+		"id": 10658,
+		"title": "Fertőhomok"
+	},
+	"Fertőrákos": {
+		"id": 12414,
+		"title": "Fertőrákos"
+	},
+	"Fertőszentmiklós": {
+		"id": 15343,
+		"title": "Fertőszentmiklós"
+	},
+	"Fertőszéplak": {
+		"id": 31440,
+		"title": "Fertőszéplak"
+	},
+	"Fiad": {
+		"id": 31644,
+		"title": "Fiad"
+	},
+	"Filkeháza": {
+		"id": 25238,
+		"title": "Filkeháza"
+	},
+	"Fityeház": {
+		"id": 19187,
+		"title": "Fityeház"
+	},
+	"Foktő": {
+		"id": 2149,
+		"title": "Foktő"
+	},
+	"Folyás": {
+		"id": 34014,
+		"title": "Folyás"
+	},
+	"Fonó": {
+		"id": 22026,
+		"title": "Fonó"
+	},
+	"Fony": {
+		"id": 17932,
+		"title": "Fony"
+	},
+	"Fonyód": {
+		"id": 14632,
+		"title": "Fonyód"
+	},
+	"Forráskút": {
+		"id": 33020,
+		"title": "Forráskút"
+	},
+	"Forró": {
+		"id": 30483,
+		"title": "Forró"
+	},
+	"Fót": {
+		"id": 32610,
+		"title": "Fót"
+	},
+	"Földeák": {
+		"id": 9210,
+		"title": "Földeák"
+	},
+	"Földes": {
+		"id": 3258,
+		"title": "Földes"
+	},
+	"Főnyed": {
+		"id": 22707,
+		"title": "Főnyed"
+	},
+	"Fulókércs": {
+		"id": 22123,
+		"title": "Fulókércs"
+	},
+	"Furta": {
+		"id": 16993,
+		"title": "Furta"
+	},
+	"Füle": {
+		"id": 6114,
+		"title": "Füle"
+	},
+	"Fülesd": {
+		"id": 10791,
+		"title": "Fülesd"
+	},
+	"Fülöp": {
+		"id": 22150,
+		"title": "Fülöp"
+	},
+	"Fülöpháza": {
+		"id": 31468,
+		"title": "Fülöpháza"
+	},
+	"Fülöpjakab": {
+		"id": 33622,
+		"title": "Fülöpjakab"
+	},
+	"Fülöpszállás": {
+		"id": 14058,
+		"title": "Fülöpszállás"
+	},
+	"Fülpösdaróc": {
+		"id": 14377,
+		"title": "Fülpösdaróc"
+	},
+	"Fürged": {
+		"id": 17950,
+		"title": "Fürged"
+	},
+	"Füzér": {
+		"id": 17109,
+		"title": "Füzér"
+	},
+	"Füzérkajata": {
+		"id": 6460,
+		"title": "Füzérkajata"
+	},
+	"Füzérkomlós": {
+		"id": 11378,
+		"title": "Füzérkomlós"
+	},
+	"Füzérradvány": {
+		"id": 10366,
+		"title": "Füzérradvány"
+	},
+	"Füzesabony": {
+		"id": 3276,
+		"title": "Füzesabony"
+	},
+	"Füzesgyarmat": {
+		"id": 12256,
+		"title": "Füzesgyarmat"
+	},
+	"Füzvölgy": {
+		"id": 16531,
+		"title": "Füzvölgy"
+	},
+	"Gáborján": {
+		"id": 18175,
+		"title": "Gáborján"
+	},
+	"Gáborjánháza": {
+		"id": 17516,
+		"title": "Gáborjánháza"
+	},
+	"Gacsály": {
+		"id": 13727,
+		"title": "Gacsály"
+	},
+	"Gadács": {
+		"id": 28264,
+		"title": "Gadács"
+	},
+	"Gadány": {
+		"id": 26222,
+		"title": "Gadány"
+	},
+	"Gadna": {
+		"id": 5494,
+		"title": "Gadna"
+	},
+	"Gádoros": {
+		"id": 9511,
+		"title": "Gádoros"
+	},
+	"Gagyapáti": {
+		"id": 28732,
+		"title": "Gagyapáti"
+	},
+	"Gagybátor": {
+		"id": 28307,
+		"title": "Gagybátor"
+	},
+	"Gagyvendégi": {
+		"id": 3744,
+		"title": "Gagyvendégi"
+	},
+	"Galambok": {
+		"id": 12991,
+		"title": "Galambok"
+	},
+	"Galgaguta": {
+		"id": 25663,
+		"title": "Galgaguta"
+	},
+	"Galgagyörk": {
+		"id": 13295,
+		"title": "Galgagyörk"
+	},
+	"Galgahévíz": {
+		"id": 19503,
+		"title": "Galgahévíz"
+	},
+	"Galgamácsa": {
+		"id": 27128,
+		"title": "Galgamácsa"
+	},
+	"Gálosfa": {
+		"id": 6585,
+		"title": "Gálosfa"
+	},
+	"Galvács": {
+		"id": 19293,
+		"title": "Galvács"
+	},
+	"Gamás": {
+		"id": 6451,
+		"title": "Gamás"
+	},
+	"Ganna": {
+		"id": 12742,
+		"title": "Ganna"
+	},
+	"Gánt": {
+		"id": 15750,
+		"title": "Gánt"
+	},
+	"Gara": {
+		"id": 31848,
+		"title": "Gara"
+	},
+	"Garáb": {
+		"id": 18494,
+		"title": "Garáb"
+	},
+	"Garabonc": {
+		"id": 12946,
+		"title": "Garabonc"
+	},
+	"Garadna": {
+		"id": 10904,
+		"title": "Garadna"
+	},
+	"Garbolc": {
+		"id": 4996,
+		"title": "Garbolc"
+	},
+	"Gárdony": {
+		"id": 10296,
+		"title": "Gárdony"
+	},
+	"Garé": {
+		"id": 7560,
+		"title": "Garé"
+	},
+	"Gasztony": {
+		"id": 30906,
+		"title": "Gasztony"
+	},
+	"Gátér": {
+		"id": 26383,
+		"title": "Gátér"
+	},
+	"Gávavencsellő": {
+		"id": 5801,
+		"title": "Gávavencsellő"
+	},
+	"Géberjén": {
+		"id": 3629,
+		"title": "Géberjén"
+	},
+	"Gecse": {
+		"id": 9292,
+		"title": "Gecse"
+	},
+	"Géderlak": {
+		"id": 3577,
+		"title": "Géderlak"
+	},
+	"Gégény": {
+		"id": 5670,
+		"title": "Gégény"
+	},
+	"Gelej": {
+		"id": 23719,
+		"title": "Gelej"
+	},
+	"Gelénes": {
+		"id": 4613,
+		"title": "Gelénes"
+	},
+	"Gellénháza": {
+		"id": 8068,
+		"title": "Gellénháza"
+	},
+	"Gelse": {
+		"id": 12089,
+		"title": "Gelse"
+	},
+	"Gelsesziget": {
+		"id": 9089,
+		"title": "Gelsesziget"
+	},
+	"Gemzse": {
+		"id": 13000,
+		"title": "Gemzse"
+	},
+	"Gencsapáti": {
+		"id": 24183,
+		"title": "Gencsapáti"
+	},
+	"Gérce": {
+		"id": 26152,
+		"title": "Gérce"
+	},
+	"Gerde": {
+		"id": 12751,
+		"title": "Gerde"
+	},
+	"Gerendás": {
+		"id": 7393,
+		"title": "Gerendás"
+	},
+	"Gerényes": {
+		"id": 13347,
+		"title": "Gerényes"
+	},
+	"Geresdlak": {
+		"id": 2857,
+		"title": "Geresdlak"
+	},
+	"Gerjen": {
+		"id": 5731,
+		"title": "Gerjen"
+	},
+	"Gersekarát": {
+		"id": 30942,
+		"title": "Gersekarát"
+	},
+	"Geszt": {
+		"id": 17394,
+		"title": "Geszt"
+	},
+	"Gesztely": {
+		"id": 15608,
+		"title": "Gesztely"
+	},
+	"Geszteréd": {
+		"id": 28893,
+		"title": "Geszteréd"
+	},
+	"Gétye": {
+		"id": 20039,
+		"title": "Gétye"
+	},
+	"Gic": {
+		"id": 16717,
+		"title": "Gic"
+	},
+	"Gige": {
+		"id": 9177,
+		"title": "Gige"
+	},
+	"Gilvánfa": {
+		"id": 18333,
+		"title": "Gilvánfa"
+	},
+	"Girincs": {
+		"id": 21564,
+		"title": "Girincs"
+	},
+	"Gógánfa": {
+		"id": 18193,
+		"title": "Gógánfa"
+	},
+	"Golop": {
+		"id": 13134,
+		"title": "Golop"
+	},
+	"Gomba": {
+		"id": 9441,
+		"title": "Gomba"
+	},
+	"Gombosszeg": {
+		"id": 17613,
+		"title": "Gombosszeg"
+	},
+	"Gór": {
+		"id": 11156,
+		"title": "Gór"
+	},
+	"Gordisa": {
+		"id": 33084,
+		"title": "Gordisa"
+	},
+	"Gosztola": {
+		"id": 13569,
+		"title": "Gosztola"
+	},
+	"Göd": {
+		"id": 23649,
+		"title": "Göd"
+	},
+	"Gödöllő": {
+		"id": 32559,
+		"title": "Gödöllő"
+	},
+	"Gödre": {
+		"id": 33233,
+		"title": "Gödre"
+	},
+	"Gölle": {
+		"id": 30571,
+		"title": "Gölle"
+	},
+	"Gömörszőlős": {
+		"id": 9706,
+		"title": "Gömörszőlős"
+	},
+	"Gönc": {
+		"id": 15936,
+		"title": "Gönc"
+	},
+	"Göncruszka": {
+		"id": 18643,
+		"title": "Göncruszka"
+	},
+	"Gönyű": {
+		"id": 2060,
+		"title": "Gönyű"
+	},
+	"Görbeháza": {
+		"id": 16568,
+		"title": "Görbeháza"
+	},
+	"Görcsöny": {
+		"id": 30438,
+		"title": "Görcsöny"
+	},
+	"Görcsönydoboka": {
+		"id": 9636,
+		"title": "Görcsönydoboka"
+	},
+	"Görgeteg": {
+		"id": 14599,
+		"title": "Görgeteg"
+	},
+	"Gősfa": {
+		"id": 29771,
+		"title": "Gősfa"
+	},
+	"Grábóc": {
+		"id": 26727,
+		"title": "Grábóc"
+	},
+	"Gulács": {
+		"id": 29443,
+		"title": "Gulács"
+	},
+	"Gutorfölde": {
+		"id": 2097,
+		"title": "Gutorfölde"
+	},
+	"Gyál": {
+		"id": 25627,
+		"title": "Gyál"
+	},
+	"Gyalóka": {
+		"id": 17969,
+		"title": "Gyalóka"
+	},
+	"Gyanógeregye": {
+		"id": 27030,
+		"title": "Gyanógeregye"
+	},
+	"Gyarmat": {
+		"id": 26860,
+		"title": "Gyarmat"
+	},
+	"Gyékényes": {
+		"id": 30960,
+		"title": "Gyékényes"
+	},
+	"Gyenesdiás": {
+		"id": 23302,
+		"title": "Gyenesdiás"
+	},
+	"Gyepükaján": {
+		"id": 28671,
+		"title": "Gyepükaján"
+	},
+	"Gyermely": {
+		"id": 6521,
+		"title": "Gyermely"
+	},
+	"Gyód": {
+		"id": 18315,
+		"title": "Gyód"
+	},
+	"Gyomaendrőd": {
+		"id": 33455,
+		"title": "Gyomaendrőd"
+	},
+	"Gyóró": {
+		"id": 23843,
+		"title": "Gyóró"
+	},
+	"Gyömöre": {
+		"id": 20400,
+		"title": "Gyömöre"
+	},
+	"Gyömrő": {
+		"id": 29735,
+		"title": "Gyömrő"
+	},
+	"Gyöngyfa": {
+		"id": 28404,
+		"title": "Gyöngyfa"
+	},
+	"Gyöngyös": {
+		"id": 5236,
+		"title": "Gyöngyös"
+	},
+	"Gyöngyösfalu": {
+		"id": 11943,
+		"title": "Gyöngyösfalu"
+	},
+	"Gyöngyöshalász": {
+		"id": 17534,
+		"title": "Gyöngyöshalász"
+	},
+	"Gyöngyösmellék": {
+		"id": 22664,
+		"title": "Gyöngyösmellék"
+	},
+	"Gyöngyösoroszi": {
+		"id": 13338,
+		"title": "Gyöngyösoroszi"
+	},
+	"Gyöngyöspata": {
+		"id": 8323,
+		"title": "Gyöngyöspata"
+	},
+	"Gyöngyössolymos": {
+		"id": 19123,
+		"title": "Gyöngyössolymos"
+	},
+	"Gyöngyöstarján": {
+		"id": 28088,
+		"title": "Gyöngyöstarján"
+	},
+	"Gyönk": {
+		"id": 30289,
+		"title": "Gyönk"
+	},
+	"Győr": {
+		"id": 25584,
+		"title": "Győr"
+	},
+	"Győrasszonyfa": {
+		"id": 8721,
+		"title": "Győrasszonyfa"
+	},
+	"Györe": {
+		"id": 25539,
+		"title": "Györe"
+	},
+	"Györgytarló": {
+		"id": 5069,
+		"title": "Györgytarló"
+	},
+	"Györköny": {
+		"id": 12326,
+		"title": "Györköny"
+	},
+	"Győrladamér": {
+		"id": 13198,
+		"title": "Győrladamér"
+	},
+	"Győröcske": {
+		"id": 28945,
+		"title": "Győröcske"
+	},
+	"Győrság": {
+		"id": 31316,
+		"title": "Győrság"
+	},
+	"Győrsövényház": {
+		"id": 19309,
+		"title": "Győrsövényház"
+	},
+	"Győrszemere": {
+		"id": 15653,
+		"title": "Győrszemere"
+	},
+	"Győrtelek": {
+		"id": 10126,
+		"title": "Győrtelek"
+	},
+	"Győrújbarát": {
+		"id": 7481,
+		"title": "Győrújbarát"
+	},
+	"Győrújfalu": {
+		"id": 31787,
+		"title": "Győrújfalu"
+	},
+	"Győrvár": {
+		"id": 9724,
+		"title": "Győrvár"
+	},
+	"Győrzámoly": {
+		"id": 15228,
+		"title": "Győrzámoly"
+	},
+	"Gyugy": {
+		"id": 23904,
+		"title": "Gyugy"
+	},
+	"Gyula": {
+		"id": 5032,
+		"title": "Gyula"
+	},
+	"Gyulaháza": {
+		"id": 7676,
+		"title": "Gyulaháza"
+	},
+	"Gyulaj": {
+		"id": 30359,
+		"title": "Gyulaj"
+	},
+	"Gyulakeszi": {
+		"id": 9520,
+		"title": "Gyulakeszi"
+	},
+	"Gyúró": {
+		"id": 15918,
+		"title": "Gyúró"
+	},
+	"Gyügye": {
+		"id": 19558,
+		"title": "Gyügye"
+	},
+	"Gyüre": {
+		"id": 33774,
+		"title": "Gyüre"
+	},
+	"Gyűrűs": {
+		"id": 12539,
+		"title": "Gyűrűs"
+	},
+	"Hács": {
+		"id": 18634,
+		"title": "Hács"
+	},
+	"Hagyárosbörönd": {
+		"id": 10931,
+		"title": "Hagyárosbörönd"
+	},
+	"Hahót": {
+		"id": 10269,
+		"title": "Hahót"
+	},
+	"Hajdúbagos": {
+		"id": 26170,
+		"title": "Hajdúbagos"
+	},
+	"Hajdúböszörmény": {
+		"id": 3045,
+		"title": "Hajdúböszörmény"
+	},
+	"Hajdúdorog": {
+		"id": 12803,
+		"title": "Hajdúdorog"
+	},
+	"Hajdúhadház": {
+		"id": 10393,
+		"title": "Hajdúhadház"
+	},
+	"Hajdúnánás": {
+		"id": 22406,
+		"title": "Hajdúnánás"
+	},
+	"Hajdúsámson": {
+		"id": 31097,
+		"title": "Hajdúsámson"
+	},
+	"Hajdúszoboszló": {
+		"id": 5175,
+		"title": "Hajdúszoboszló"
+	},
+	"Hajdúszovát": {
+		"id": 17473,
+		"title": "Hajdúszovát"
+	},
+	"Hajmás": {
+		"id": 25830,
+		"title": "Hajmás"
+	},
+	"Hajmáskér": {
+		"id": 15361,
+		"title": "Hajmáskér"
+	},
+	"Hajós": {
+		"id": 18759,
+		"title": "Hajós"
+	},
+	"Halastó": {
+		"id": 29452,
+		"title": "Halastó"
+	},
+	"Halászi": {
+		"id": 26790,
+		"title": "Halászi"
+	},
+	"Halásztelek": {
+		"id": 9690,
+		"title": "Halásztelek"
+	},
+	"Halimba": {
+		"id": 7898,
+		"title": "Halimba"
+	},
+	"Halmaj": {
+		"id": 27942,
+		"title": "Halmaj"
+	},
+	"Halmajugra": {
+		"id": 11411,
+		"title": "Halmajugra"
+	},
+	"Halogy": {
+		"id": 10676,
+		"title": "Halogy"
+	},
+	"Hangács": {
+		"id": 11226,
+		"title": "Hangács"
+	},
+	"Hangony": {
+		"id": 25104,
+		"title": "Hangony"
+	},
+	"Hantos": {
+		"id": 23427,
+		"title": "Hantos"
+	},
+	"Harasztifalu": {
+		"id": 5713,
+		"title": "Harasztifalu"
+	},
+	"Harc": {
+		"id": 14164,
+		"title": "Harc"
+	},
+	"Harka": {
+		"id": 7649,
+		"title": "Harka"
+	},
+	"Harkakötöny": {
+		"id": 8350,
+		"title": "Harkakötöny"
+	},
+	"Harkány": {
+		"id": 21528,
+		"title": "Harkány"
+	},
+	"Háromfa": {
+		"id": 8837,
+		"title": "Háromfa"
+	},
+	"Háromhuta": {
+		"id": 12706,
+		"title": "Háromhuta"
+	},
+	"Harsány": {
+		"id": 5847,
+		"title": "Harsány"
+	},
+	"Hárskút": {
+		"id": 25566,
+		"title": "Hárskút"
+	},
+	"Harta": {
+		"id": 18458,
+		"title": "Harta"
+	},
+	"Hásságy": {
+		"id": 27881,
+		"title": "Hásságy"
+	},
+	"Hatvan": {
+		"id": 22309,
+		"title": "Hatvan"
+	},
+	"Hédervár": {
+		"id": 12308,
+		"title": "Hédervár"
+	},
+	"Hedrehely": {
+		"id": 16726,
+		"title": "Hedrehely"
+	},
+	"Hegyesd": {
+		"id": 2422,
+		"title": "Hegyesd"
+	},
+	"Hegyeshalom": {
+		"id": 17905,
+		"title": "Hegyeshalom"
+	},
+	"Hegyfalu": {
+		"id": 32188,
+		"title": "Hegyfalu"
+	},
+	"Hegyháthodász": {
+		"id": 14997,
+		"title": "Hegyháthodász"
+	},
+	"Hegyhátmaróc": {
+		"id": 30951,
+		"title": "Hegyhátmaróc"
+	},
+	"Hegyhátsál": {
+		"id": 30216,
+		"title": "Hegyhátsál"
+	},
+	"Hegyhátszentjakab": {
+		"id": 18032,
+		"title": "Hegyhátszentjakab"
+	},
+	"Hegyhátszentmárton": {
+		"id": 21838,
+		"title": "Hegyhátszentmárton"
+	},
+	"Hegyhátszentpéter": {
+		"id": 8226,
+		"title": "Hegyhátszentpéter"
+	},
+	"Hegykő": {
+		"id": 18403,
+		"title": "Hegykő"
+	},
+	"Hegymagas": {
+		"id": 25803,
+		"title": "Hegymagas"
+	},
+	"Hegymeg": {
+		"id": 2468,
+		"title": "Hegymeg"
+	},
+	"Hegyszentmárton": {
+		"id": 21023,
+		"title": "Hegyszentmárton"
+	},
+	"Héhalom": {
+		"id": 3993,
+		"title": "Héhalom"
+	},
+	"Hejce": {
+		"id": 22187,
+		"title": "Hejce"
+	},
+	"Hejőbába": {
+		"id": 6655,
+		"title": "Hejőbába"
+	},
+	"Hejőkeresztúr": {
+		"id": 4604,
+		"title": "Hejőkeresztúr"
+	},
+	"Hejőkürt": {
+		"id": 2282,
+		"title": "Hejőkürt"
+	},
+	"Hejőpapi": {
+		"id": 16780,
+		"title": "Hejőpapi"
+	},
+	"Hejőszalonta": {
+		"id": 12159,
+		"title": "Hejőszalonta"
+	},
+	"Helesfa": {
+		"id": 17190,
+		"title": "Helesfa"
+	},
+	"Helvécia": {
+		"id": 4093,
+		"title": "Helvécia"
+	},
+	"Hencida": {
+		"id": 29391,
+		"title": "Hencida"
+	},
+	"Hencse": {
+		"id": 9946,
+		"title": "Hencse"
+	},
+	"Herceghalom": {
+		"id": 33552,
+		"title": "Herceghalom"
+	},
+	"Hercegkút": {
+		"id": 30137,
+		"title": "Hercegkút"
+	},
+	"Hercegszántó": {
+		"id": 12937,
+		"title": "Hercegszántó"
+	},
+	"Heréd": {
+		"id": 20242,
+		"title": "Heréd"
+	},
+	"Héreg": {
+		"id": 11891,
+		"title": "Héreg"
+	},
+	"Herencsény": {
+		"id": 5324,
+		"title": "Herencsény"
+	},
+	"Herend": {
+		"id": 23658,
+		"title": "Herend"
+	},
+	"Heresznye": {
+		"id": 24846,
+		"title": "Heresznye"
+	},
+	"Hermánszeg": {
+		"id": 12061,
+		"title": "Hermánszeg"
+	},
+	"Hernád": {
+		"id": 9849,
+		"title": "Hernád"
+	},
+	"Hernádbűd": {
+		"id": 15839,
+		"title": "Hernádbűd"
+	},
+	"Hernádcéce": {
+		"id": 9399,
+		"title": "Hernádcéce"
+	},
+	"Hernádkak": {
+		"id": 24165,
+		"title": "Hernádkak"
+	},
+	"Hernádkércs": {
+		"id": 21829,
+		"title": "Hernádkércs"
+	},
+	"Hernádnémeti": {
+		"id": 31200,
+		"title": "Hernádnémeti"
+	},
+	"Hernádpetri": {
+		"id": 24882,
+		"title": "Hernádpetri"
+	},
+	"Hernádszentandrás": {
+		"id": 17136,
+		"title": "Hernádszentandrás"
+	},
+	"Hernádszurdok": {
+		"id": 24970,
+		"title": "Hernádszurdok"
+	},
+	"Hernádvécse": {
+		"id": 19840,
+		"title": "Hernádvécse"
+	},
+	"Hernyék": {
+		"id": 19895,
+		"title": "Hernyék"
+	},
+	"Hét": {
+		"id": 8004,
+		"title": "Hét"
+	},
+	"Hetefejércse": {
+		"id": 5616,
+		"title": "Hetefejércse"
+	},
+	"Hetes": {
+		"id": 9928,
+		"title": "Hetes"
+	},
+	"Hetvehely": {
+		"id": 7126,
+		"title": "Hetvehely"
+	},
+	"Hetyefő": {
+		"id": 15088,
+		"title": "Hetyefő"
+	},
+	"Heves": {
+		"id": 14526,
+		"title": "Heves"
+	},
+	"Hevesaranyos": {
+		"id": 10241,
+		"title": "Hevesaranyos"
+	},
+	"Hevesvezekény": {
+		"id": 4084,
+		"title": "Hevesvezekény"
+	},
+	"Hévíz": {
+		"id": 3814,
+		"title": "Hévíz"
+	},
+	"Hévízgyörk": {
+		"id": 13949,
+		"title": "Hévízgyörk"
+	},
+	"Hidas": {
+		"id": 6798,
+		"title": "Hidas"
+	},
+	"Hidasnémeti": {
+		"id": 11697,
+		"title": "Hidasnémeti"
+	},
+	"Hidegkút": {
+		"id": 20756,
+		"title": "Hidegkút"
+	},
+	"Hidegség": {
+		"id": 23375,
+		"title": "Hidegség"
+	},
+	"Hidvégardó": {
+		"id": 25672,
+		"title": "Hidvégardó"
+	},
+	"Himesháza": {
+		"id": 27933,
+		"title": "Himesháza"
+	},
+	"Himod": {
+		"id": 4020,
+		"title": "Himod"
+	},
+	"Hirics": {
+		"id": 3285,
+		"title": "Hirics"
+	},
+	"Hobol": {
+		"id": 33932,
+		"title": "Hobol"
+	},
+	"Hodász": {
+		"id": 13019,
+		"title": "Hodász"
+	},
+	"Hódmezővásárhely": {
+		"id": 8314,
+		"title": "Hódmezővásárhely"
+	},
+	"Hollád": {
+		"id": 6211,
+		"title": "Hollád"
+	},
+	"Hollóháza": {
+		"id": 31167,
+		"title": "Hollóháza"
+	},
+	"Hollókő": {
+		"id": 33242,
+		"title": "Hollókő"
+	},
+	"Homokbödöge": {
+		"id": 27818,
+		"title": "Homokbödöge"
+	},
+	"Homokkomárom": {
+		"id": 24873,
+		"title": "Homokkomárom"
+	},
+	"Homokmégy": {
+		"id": 27845,
+		"title": "Homokmégy"
+	},
+	"Homokszentgyörgy": {
+		"id": 19150,
+		"title": "Homokszentgyörgy"
+	},
+	"Homorúd": {
+		"id": 29966,
+		"title": "Homorúd"
+	},
+	"Homrogd": {
+		"id": 21236,
+		"title": "Homrogd"
+	},
+	"Hont": {
+		"id": 13204,
+		"title": "Hont"
+	},
+	"Horpács": {
+		"id": 13718,
+		"title": "Horpács"
+	},
+	"Hort": {
+		"id": 4145,
+		"title": "Hort"
+	},
+	"Hortobágy": {
+		"id": 4118,
+		"title": "Hortobágy"
+	},
+	"Horváthertelend": {
+		"id": 23074,
+		"title": "Horváthertelend"
+	},
+	"Horvátlövő": {
+		"id": 12733,
+		"title": "Horvátlövő"
+	},
+	"Horvátzsidány": {
+		"id": 16887,
+		"title": "Horvátzsidány"
+	},
+	"Hosszúhetény": {
+		"id": 30836,
+		"title": "Hosszúhetény"
+	},
+	"Hosszúpályi": {
+		"id": 6266,
+		"title": "Hosszúpályi"
+	},
+	"Hosszúpereszteg": {
+		"id": 20880,
+		"title": "Hosszúpereszteg"
+	},
+	"Hosszúvíz": {
+		"id": 30775,
+		"title": "Hosszúvíz"
+	},
+	"Hosszúvölgy": {
+		"id": 11208,
+		"title": "Hosszúvölgy"
+	},
+	"Hosztót": {
+		"id": 7250,
+		"title": "Hosztót"
+	},
+	"Hottó": {
+		"id": 28325,
+		"title": "Hottó"
+	},
+	"Hőgyész": {
+		"id": 26055,
+		"title": "Hőgyész"
+	},
+	"Hövej": {
+		"id": 10029,
+		"title": "Hövej"
+	},
+	"Hugyag": {
+		"id": 16878,
+		"title": "Hugyag"
+	},
+	"Hunya": {
+		"id": 33297,
+		"title": "Hunya"
+	},
+	"Hunyadfalva": {
+		"id": 34050,
+		"title": "Hunyadfalva"
+	},
+	"Husztót": {
+		"id": 31431,
+		"title": "Husztót"
+	},
+	"Ibafa": {
+		"id": 33066,
+		"title": "Ibafa"
+	},
+	"Iborfia": {
+		"id": 3188,
+		"title": "Iborfia"
+	},
+	"Ibrány": {
+		"id": 25636,
+		"title": "Ibrány"
+	},
+	"Igal": {
+		"id": 11192,
+		"title": "Igal"
+	},
+	"Igar": {
+		"id": 17738,
+		"title": "Igar"
+	},
+	"Igrici": {
+		"id": 25399,
+		"title": "Igrici"
+	},
+	"Iharos": {
+		"id": 19619,
+		"title": "Iharos"
+	},
+	"Iharosberény": {
+		"id": 27784,
+		"title": "Iharosberény"
+	},
+	"Ikervár": {
+		"id": 11387,
+		"title": "Ikervár"
+	},
+	"Iklad": {
+		"id": 3300,
+		"title": "Iklad"
+	},
+	"Iklanberény": {
+		"id": 29504,
+		"title": "Iklanberény"
+	},
+	"Iklódbördőce": {
+		"id": 13921,
+		"title": "Iklódbördőce"
+	},
+	"Ikrény": {
+		"id": 20604,
+		"title": "Ikrény"
+	},
+	"Iliny": {
+		"id": 26833,
+		"title": "Iliny"
+	},
+	"Ilk": {
+		"id": 9654,
+		"title": "Ilk"
+	},
+	"Illocska": {
+		"id": 31936,
+		"title": "Illocska"
+	},
+	"Imola": {
+		"id": 16577,
+		"title": "Imola"
+	},
+	"Imrehegy": {
+		"id": 8095,
+		"title": "Imrehegy"
+	},
+	"Ináncs": {
+		"id": 8086,
+		"title": "Ináncs"
+	},
+	"Inárcs": {
+		"id": 32106,
+		"title": "Inárcs"
+	},
+	"Inke": {
+		"id": 26301,
+		"title": "Inke"
+	},
+	"Ipacsfa": {
+		"id": 29948,
+		"title": "Ipacsfa"
+	},
+	"Ipolydamásd": {
+		"id": 28097,
+		"title": "Ipolydamásd"
+	},
+	"Ipolytarnóc": {
+		"id": 3328,
+		"title": "Ipolytarnóc"
+	},
+	"Ipolytölgyes": {
+		"id": 4978,
+		"title": "Ipolytölgyes"
+	},
+	"Ipolyvece": {
+		"id": 29319,
+		"title": "Ipolyvece"
+	},
+	"Iregszemcse": {
+		"id": 4701,
+		"title": "Iregszemcse"
+	},
+	"Irota": {
+		"id": 5005,
+		"title": "Irota"
+	},
+	"Isaszeg": {
+		"id": 7807,
+		"title": "Isaszeg"
+	},
+	"Ispánk": {
+		"id": 7977,
+		"title": "Ispánk"
+	},
+	"Istenmezeje": {
+		"id": 10074,
+		"title": "Istenmezeje"
+	},
+	"Istvándi": {
+		"id": 21333,
+		"title": "Istvándi"
+	},
+	"Iszkaszentgyörgy": {
+		"id": 32018,
+		"title": "Iszkaszentgyörgy"
+	},
+	"Iszkáz": {
+		"id": 28015,
+		"title": "Iszkáz"
+	},
+	"Isztimér": {
+		"id": 2200,
+		"title": "Isztimér"
+	},
+	"Ivád": {
+		"id": 13879,
+		"title": "Ivád"
+	},
+	"Iván": {
+		"id": 31635,
+		"title": "Iván"
+	},
+	"Ivánbattyán": {
+		"id": 3337,
+		"title": "Ivánbattyán"
+	},
+	"Ivánc": {
+		"id": 31680,
+		"title": "Ivánc"
+	},
+	"Iváncsa": {
+		"id": 13462,
+		"title": "Iváncsa"
+	},
+	"Ivándárda": {
+		"id": 3346,
+		"title": "Ivándárda"
+	},
+	"Izmény": {
+		"id": 27711,
+		"title": "Izmény"
+	},
+	"Izsák": {
+		"id": 21999,
+		"title": "Izsák"
+	},
+	"Izsófalva": {
+		"id": 5591,
+		"title": "Izsófalva"
+	},
+	"Jágónak": {
+		"id": 9326,
+		"title": "Jágónak"
+	},
+	"Ják": {
+		"id": 13958,
+		"title": "Ják"
+	},
+	"Jakabszállás": {
+		"id": 17923,
+		"title": "Jakabszállás"
+	},
+	"Jákfa": {
+		"id": 6406,
+		"title": "Jákfa"
+	},
+	"Jákfalva": {
+		"id": 20233,
+		"title": "Jákfalva"
+	},
+	"Jákó": {
+		"id": 15927,
+		"title": "Jákó"
+	},
+	"Jánd": {
+		"id": 17075,
+		"title": "Jánd"
+	},
+	"Jánkmajtis": {
+		"id": 7843,
+		"title": "Jánkmajtis"
+	},
+	"Jánoshalma": {
+		"id": 9469,
+		"title": "Jánoshalma"
+	},
+	"Jánosháza": {
+		"id": 11679,
+		"title": "Jánosháza"
+	},
+	"Jánoshida": {
+		"id": 22859,
+		"title": "Jánoshida"
+	},
+	"Jánossomorja": {
+		"id": 29221,
+		"title": "Jánossomorja"
+	},
+	"Járdánháza": {
+		"id": 26657,
+		"title": "Járdánháza"
+	},
+	"Jármi": {
+		"id": 17589,
+		"title": "Jármi"
+	},
+	"Jásd": {
+		"id": 17437,
+		"title": "Jásd"
+	},
+	"Jászágó": {
+		"id": 22929,
+		"title": "Jászágó"
+	},
+	"Jászalsószentgyörgy": {
+		"id": 30711,
+		"title": "Jászalsószentgyörgy"
+	},
+	"Jászapáti": {
+		"id": 22202,
+		"title": "Jászapáti"
+	},
+	"Jászárokszállás": {
+		"id": 22105,
+		"title": "Jászárokszállás"
+	},
+	"Jászberény": {
+		"id": 18209,
+		"title": "Jászberény"
+	},
+	"Jászboldogháza": {
+		"id": 15811,
+		"title": "Jászboldogháza"
+	},
+	"Jászdózsa": {
+		"id": 17978,
+		"title": "Jászdózsa"
+	},
+	"Jászfelsőszentgyörgy": {
+		"id": 23579,
+		"title": "Jászfelsőszentgyörgy"
+	},
+	"Jászfényszaru": {
+		"id": 23339,
+		"title": "Jászfényszaru"
+	},
+	"Jászivány": {
+		"id": 24086,
+		"title": "Jászivány"
+	},
+	"Jászjákóhalma": {
+		"id": 25186,
+		"title": "Jászjákóhalma"
+	},
+	"Jászkarajenő": {
+		"id": 11004,
+		"title": "Jászkarajenő"
+	},
+	"Jászkisér": {
+		"id": 22798,
+		"title": "Jászkisér"
+	},
+	"Jászladány": {
+		"id": 21111,
+		"title": "Jászladány"
+	},
+	"Jászszentandrás": {
+		"id": 13514,
+		"title": "Jászszentandrás"
+	},
+	"Jászszentlászló": {
+		"id": 8378,
+		"title": "Jászszentlászló"
+	},
+	"Jásztelek": {
+		"id": 23135,
+		"title": "Jásztelek"
+	},
+	"Jéke": {
+		"id": 13143,
+		"title": "Jéke"
+	},
+	"Jenő": {
+		"id": 15972,
+		"title": "Jenő"
+	},
+	"Jobaháza": {
+		"id": 6646,
+		"title": "Jobaháza"
+	},
+	"Jobbágyi": {
+		"id": 8712,
+		"title": "Jobbágyi"
+	},
+	"Jósvafő": {
+		"id": 15680,
+		"title": "Jósvafő"
+	},
+	"Juta": {
+		"id": 17279,
+		"title": "Juta"
+	},
+	"Kaba": {
+		"id": 2307,
+		"title": "Kaba"
+	},
+	"Kacorlak": {
+		"id": 22965,
+		"title": "Kacorlak"
+	},
+	"Kács": {
+		"id": 32993,
+		"title": "Kács"
+	},
+	"Kacsóta": {
+		"id": 4297,
+		"title": "Kacsóta"
+	},
+	"Kadarkút": {
+		"id": 26453,
+		"title": "Kadarkút"
+	},
+	"Kajárpéc": {
+		"id": 12113,
+		"title": "Kajárpéc"
+	},
+	"Kajászó": {
+		"id": 21342,
+		"title": "Kajászó"
+	},
+	"Kajdacs": {
+		"id": 14100,
+		"title": "Kajdacs"
+	},
+	"Kakasd": {
+		"id": 2033,
+		"title": "Kakasd"
+	},
+	"Kákics": {
+		"id": 6415,
+		"title": "Kákics"
+	},
+	"Kakucs": {
+		"id": 32230,
+		"title": "Kakucs"
+	},
+	"Kál": {
+		"id": 32179,
+		"title": "Kál"
+	},
+	"Kalaznó": {
+		"id": 23791,
+		"title": "Kalaznó"
+	},
+	"Káld": {
+		"id": 29957,
+		"title": "Káld"
+	},
+	"Kálló": {
+		"id": 8642,
+		"title": "Kálló"
+	},
+	"Kallósd": {
+		"id": 5537,
+		"title": "Kallósd"
+	},
+	"Kállósemjén": {
+		"id": 31404,
+		"title": "Kállósemjén"
+	},
+	"Kálmáncsa": {
+		"id": 6105,
+		"title": "Kálmáncsa"
+	},
+	"Kálmánháza": {
+		"id": 27225,
+		"title": "Kálmánháza"
+	},
+	"Kálócfa": {
+		"id": 21500,
+		"title": "Kálócfa"
+	},
+	"Kalocsa": {
+		"id": 6442,
+		"title": "Kalocsa"
+	},
+	"Káloz": {
+		"id": 16683,
+		"title": "Káloz"
+	},
+	"Kám": {
+		"id": 4640,
+		"title": "Kám"
+	},
+	"Kamond": {
+		"id": 19141,
+		"title": "Kamond"
+	},
+	"Kamut": {
+		"id": 4279,
+		"title": "Kamut"
+	},
+	"Kánó": {
+		"id": 7764,
+		"title": "Kánó"
+	},
+	"Kántorjánosi": {
+		"id": 2671,
+		"title": "Kántorjánosi"
+	},
+	"Kány": {
+		"id": 25742,
+		"title": "Kány"
+	},
+	"Kánya": {
+		"id": 5272,
+		"title": "Kánya"
+	},
+	"Kányavár": {
+		"id": 4473,
+		"title": "Kányavár"
+	},
+	"Kapolcs": {
+		"id": 14553,
+		"title": "Kapolcs"
+	},
+	"Kápolna": {
+		"id": 15307,
+		"title": "Kápolna"
+	},
+	"Kápolnásnyék": {
+		"id": 21926,
+		"title": "Kápolnásnyék"
+	},
+	"Kapoly": {
+		"id": 33394,
+		"title": "Kapoly"
+	},
+	"Kaposfő": {
+		"id": 9098,
+		"title": "Kaposfő"
+	},
+	"Kaposgyarmat": {
+		"id": 28811,
+		"title": "Kaposgyarmat"
+	},
+	"Kaposhomok": {
+		"id": 25867,
+		"title": "Kaposhomok"
+	},
+	"Kaposkeresztúr": {
+		"id": 12663,
+		"title": "Kaposkeresztúr"
+	},
+	"Kaposmérő": {
+		"id": 18227,
+		"title": "Kaposmérő"
+	},
+	"Kapospula": {
+		"id": 23296,
+		"title": "Kapospula"
+	},
+	"Kaposújlak": {
+		"id": 15732,
+		"title": "Kaposújlak"
+	},
+	"Kaposvár": {
+		"id": 20473,
+		"title": "Kaposvár"
+	},
+	"Kaposszekcső": {
+		"id": 18962,
+		"title": "Kaposszekcső"
+	},
+	"Kaposszerdahely": {
+		"id": 6424,
+		"title": "Kaposszerdahely"
+	},
+	"Káptalanfa": {
+		"id": 14270,
+		"title": "Káptalanfa"
+	},
+	"Káptalantóti": {
+		"id": 5634,
+		"title": "Káptalantóti"
+	},
+	"Kapuvár": {
+		"id": 28334,
+		"title": "Kapuvár"
+	},
+	"Kára": {
+		"id": 5351,
+		"title": "Kára"
+	},
+	"Karácsond": {
+		"id": 5935,
+		"title": "Karácsond"
+	},
+	"Karád": {
+		"id": 5263,
+		"title": "Karád"
+	},
+	"Karakó": {
+		"id": 10913,
+		"title": "Karakó"
+	},
+	"Karakószörcsök": {
+		"id": 8749,
+		"title": "Karakószörcsök"
+	},
+	"Karancsalja": {
+		"id": 18625,
+		"title": "Karancsalja"
+	},
+	"Karancsberény": {
+		"id": 25548,
+		"title": "Karancsberény"
+	},
+	"Karancskeszi": {
+		"id": 8855,
+		"title": "Karancskeszi"
+	},
+	"Karancslapujtő": {
+		"id": 21041,
+		"title": "Karancslapujtő"
+	},
+	"Karancsság": {
+		"id": 26897,
+		"title": "Karancsság"
+	},
+	"Kárász": {
+		"id": 5999,
+		"title": "Kárász"
+	},
+	"Karcag": {
+		"id": 4923,
+		"title": "Karcag"
+	},
+	"Karcsa": {
+		"id": 21218,
+		"title": "Karcsa"
+	},
+	"Kardos": {
+		"id": 24794,
+		"title": "Kardos"
+	},
+	"Kardoskút": {
+		"id": 12177,
+		"title": "Kardoskút"
+	},
+	"Karmacs": {
+		"id": 18041,
+		"title": "Karmacs"
+	},
+	"Károlyháza": {
+		"id": 34351,
+		"title": "Károlyháza"
+	},
+	"Karos": {
+		"id": 30508,
+		"title": "Karos"
+	},
+	"Kartal": {
+		"id": 30696,
+		"title": "Kartal"
+	},
+	"Kásád": {
+		"id": 17464,
+		"title": "Kásád"
+	},
+	"Kaskantyú": {
+		"id": 30605,
+		"title": "Kaskantyú"
+	},
+	"Kastélyosdombó": {
+		"id": 8411,
+		"title": "Kastélyosdombó"
+	},
+	"Kaszaper": {
+		"id": 22752,
+		"title": "Kaszaper"
+	},
+	"Kaszó": {
+		"id": 34193,
+		"title": "Kaszó"
+	},
+	"Katádfa": {
+		"id": 6965,
+		"title": "Katádfa"
+	},
+	"Katafa": {
+		"id": 26620,
+		"title": "Katafa"
+	},
+	"Kátoly": {
+		"id": 19132,
+		"title": "Kátoly"
+	},
+	"Katymár": {
+		"id": 11280,
+		"title": "Katymár"
+	},
+	"Káva": {
+		"id": 27827,
+		"title": "Káva"
+	},
+	"Kávás": {
+		"id": 32063,
+		"title": "Kávás"
+	},
+	"Kazár": {
+		"id": 28389,
+		"title": "Kazár"
+	},
+	"Kazincbarcika": {
+		"id": 6691,
+		"title": "Kazincbarcika"
+	},
+	"Kázsmárk": {
+		"id": 13374,
+		"title": "Kázsmárk"
+	},
+	"Kazsok": {
+		"id": 26888,
+		"title": "Kazsok"
+	},
+	"Kecel": {
+		"id": 19789,
+		"title": "Kecel"
+	},
+	"Kecskéd": {
+		"id": 4525,
+		"title": "Kecskéd"
+	},
+	"Kecskemét": {
+		"id": 26684,
+		"title": "Kecskemét"
+	},
+	"Kehidakustány": {
+		"id": 32902,
+		"title": "Kehidakustány"
+	},
+	"Kék": {
+		"id": 28431,
+		"title": "Kék"
+	},
+	"Kékcse": {
+		"id": 14359,
+		"title": "Kékcse"
+	},
+	"Kéked": {
+		"id": 15264,
+		"title": "Kéked"
+	},
+	"Kékesd": {
+		"id": 16805,
+		"title": "Kékesd"
+	},
+	"Kékkút": {
+		"id": 26037,
+		"title": "Kékkút"
+	},
+	"Kelebia": {
+		"id": 27571,
+		"title": "Kelebia"
+	},
+	"Keléd": {
+		"id": 32036,
+		"title": "Keléd"
+	},
+	"Kelemér": {
+		"id": 12034,
+		"title": "Kelemér"
+	},
+	"Kéleshalom": {
+		"id": 18166,
+		"title": "Kéleshalom"
+	},
+	"Kelevíz": {
+		"id": 17446,
+		"title": "Kelevíz"
+	},
+	"Kemecse": {
+		"id": 19992,
+		"title": "Kemecse"
+	},
+	"Kemence": {
+		"id": 22345,
+		"title": "Kemence"
+	},
+	"Kemendollár": {
+		"id": 25353,
+		"title": "Kemendollár"
+	},
+	"Kemeneshőgyész": {
+		"id": 19734,
+		"title": "Kemeneshőgyész"
+	},
+	"Kemeneskápolna": {
+		"id": 16911,
+		"title": "Kemeneskápolna"
+	},
+	"Kemenesmagasi": {
+		"id": 12247,
+		"title": "Kemenesmagasi"
+	},
+	"Kemenesmihályfa": {
+		"id": 13426,
+		"title": "Kemenesmihályfa"
+	},
+	"Kemenespálfa": {
+		"id": 20996,
+		"title": "Kemenespálfa"
+	},
+	"Kemenessömjén": {
+		"id": 24484,
+		"title": "Kemenessömjén"
+	},
+	"Kemenesszentmárton": {
+		"id": 20084,
+		"title": "Kemenesszentmárton"
+	},
+	"Kemenesszentpéter": {
+		"id": 12478,
+		"title": "Kemenesszentpéter"
+	},
+	"Keménfa": {
+		"id": 6071,
+		"title": "Keménfa"
+	},
+	"Kémes": {
+		"id": 10542,
+		"title": "Kémes"
+	},
+	"Kemestaródfa": {
+		"id": 22716,
+		"title": "Kemestaródfa"
+	},
+	"Kemse": {
+		"id": 6789,
+		"title": "Kemse"
+	},
+	"Kenderes": {
+		"id": 17145,
+		"title": "Kenderes"
+	},
+	"Kenéz": {
+		"id": 2574,
+		"title": "Kenéz"
+	},
+	"Kenézlő": {
+		"id": 5458,
+		"title": "Kenézlő"
+	},
+	"Kengyel": {
+		"id": 7418,
+		"title": "Kengyel"
+	},
+	"Kenyeri": {
+		"id": 9937,
+		"title": "Kenyeri"
+	},
+	"Kercaszomor": {
+		"id": 26596,
+		"title": "Kercaszomor"
+	},
+	"Kercseliget": {
+		"id": 14386,
+		"title": "Kercseliget"
+	},
+	"Kerecsend": {
+		"id": 28079,
+		"title": "Kerecsend"
+	},
+	"Kerecseny": {
+		"id": 31529,
+		"title": "Kerecseny"
+	},
+	"Kerekegyháza": {
+		"id": 22530,
+		"title": "Kerekegyháza"
+	},
+	"Kereki": {
+		"id": 4598,
+		"title": "Kereki"
+	},
+	"Kerékteleki": {
+		"id": 10995,
+		"title": "Kerékteleki"
+	},
+	"Kerepes": {
+		"id": 34166,
+		"title": "Kerepes"
+	},
+	"Keresztéte": {
+		"id": 17066,
+		"title": "Keresztéte"
+	},
+	"Kerkabarabás": {
+		"id": 29489,
+		"title": "Kerkabarabás"
+	},
+	"Kerkafalva": {
+		"id": 15112,
+		"title": "Kerkafalva"
+	},
+	"Kerkakutas": {
+		"id": 22080,
+		"title": "Kerkakutas"
+	},
+	"Kerkáskápolna": {
+		"id": 19761,
+		"title": "Kerkáskápolna"
+	},
+	"Kerkaszentkirály": {
+		"id": 9575,
+		"title": "Kerkaszentkirály"
+	},
+	"Kerkateskánd": {
+		"id": 32647,
+		"title": "Kerkateskánd"
+	},
+	"Kérsemjén": {
+		"id": 32869,
+		"title": "Kérsemjén"
+	},
+	"Kerta": {
+		"id": 25654,
+		"title": "Kerta"
+	},
+	"Kertészsziget": {
+		"id": 12618,
+		"title": "Kertészsziget"
+	},
+	"Keszeg": {
+		"id": 31413,
+		"title": "Keszeg"
+	},
+	"Kesznyéten": {
+		"id": 29249,
+		"title": "Kesznyéten"
+	},
+	"Keszőhidegkút": {
+		"id": 17640,
+		"title": "Keszőhidegkút"
+	},
+	"Keszthely": {
+		"id": 18421,
+		"title": "Keszthely"
+	},
+	"Kesztölc": {
+		"id": 29577,
+		"title": "Kesztölc"
+	},
+	"Keszü": {
+		"id": 3832,
+		"title": "Keszü"
+	},
+	"Kétbodony": {
+		"id": 11846,
+		"title": "Kétbodony"
+	},
+	"Kétegyháza": {
+		"id": 3461,
+		"title": "Kétegyháza"
+	},
+	"Kéthely": {
+		"id": 11174,
+		"title": "Kéthely"
+	},
+	"Kétpó": {
+		"id": 19813,
+		"title": "Kétpó"
+	},
+	"Kétsoprony": {
+		"id": 3106,
+		"title": "Kétsoprony"
+	},
+	"Kétújfalu": {
+		"id": 8572,
+		"title": "Kétújfalu"
+	},
+	"Kétvölgy": {
+		"id": 19345,
+		"title": "Kétvölgy"
+	},
+	"Kéty": {
+		"id": 21731,
+		"title": "Kéty"
+	},
+	"Kevermes": {
+		"id": 31574,
+		"title": "Kevermes"
+	},
+	"Kilimán": {
+		"id": 32267,
+		"title": "Kilimán"
+	},
+	"Kimle": {
+		"id": 14748,
+		"title": "Kimle"
+	},
+	"Kincsesbánya": {
+		"id": 2343,
+		"title": "Kincsesbánya"
+	},
+	"Királd": {
+		"id": 32090,
+		"title": "Királd"
+	},
+	"Királyegyháza": {
+		"id": 20552,
+		"title": "Királyegyháza"
+	},
+	"Királyhegyes": {
+		"id": 13666,
+		"title": "Királyhegyes"
+	},
+	"Királyszentistván": {
+		"id": 5421,
+		"title": "Királyszentistván"
+	},
+	"Kisapáti": {
+		"id": 7931,
+		"title": "Kisapáti"
+	},
+	"Kisapostag": {
+		"id": 12636,
+		"title": "Kisapostag"
+	},
+	"Kisar": {
+		"id": 19424,
+		"title": "Kisar"
+	},
+	"Kisasszond": {
+		"id": 19053,
+		"title": "Kisasszond"
+	},
+	"Kisasszonyfa": {
+		"id": 18908,
+		"title": "Kisasszonyfa"
+	},
+	"Kisbabot": {
+		"id": 2413,
+		"title": "Kisbabot"
+	},
+	"Kisbágyon": {
+		"id": 27243,
+		"title": "Kisbágyon"
+	},
+	"Kisbajcs": {
+		"id": 22886,
+		"title": "Kisbajcs"
+	},
+	"Kisbajom": {
+		"id": 24387,
+		"title": "Kisbajom"
+	},
+	"Kisbárapáti": {
+		"id": 24493,
+		"title": "Kisbárapáti"
+	},
+	"Kisbárkány": {
+		"id": 26295,
+		"title": "Kisbárkány"
+	},
+	"Kisbér": {
+		"id": 17330,
+		"title": "Kisbér"
+	},
+	"Kisberény": {
+		"id": 30827,
+		"title": "Kisberény"
+	},
+	"Kisberzseny": {
+		"id": 29072,
+		"title": "Kisberzseny"
+	},
+	"Kisbeszterce": {
+		"id": 5722,
+		"title": "Kisbeszterce"
+	},
+	"Kisbodak": {
+		"id": 7816,
+		"title": "Kisbodak"
+	},
+	"Kisbucsa": {
+		"id": 21379,
+		"title": "Kisbucsa"
+	},
+	"Kisbudmér": {
+		"id": 22868,
+		"title": "Kisbudmér"
+	},
+	"Kiscsécs": {
+		"id": 17349,
+		"title": "Kiscsécs"
+	},
+	"Kiscsehi": {
+		"id": 16249,
+		"title": "Kiscsehi"
+	},
+	"Kiscsősz": {
+		"id": 23700,
+		"title": "Kiscsősz"
+	},
+	"Kisdér": {
+		"id": 11183,
+		"title": "Kisdér"
+	},
+	"Kisdobsza": {
+		"id": 33905,
+		"title": "Kisdobsza"
+	},
+	"Kisdombegyház": {
+		"id": 18838,
+		"title": "Kisdombegyház"
+	},
+	"Kisdorog": {
+		"id": 17710,
+		"title": "Kisdorog"
+	},
+	"Kisecset": {
+		"id": 33206,
+		"title": "Kisecset"
+	},
+	"Kisfalud": {
+		"id": 33695,
+		"title": "Kisfalud"
+	},
+	"Kisfüzes": {
+		"id": 22460,
+		"title": "Kisfüzes"
+	},
+	"Kisgörbő": {
+		"id": 9812,
+		"title": "Kisgörbő"
+	},
+	"Kisgyalán": {
+		"id": 4826,
+		"title": "Kisgyalán"
+	},
+	"Kisgyőr": {
+		"id": 22840,
+		"title": "Kisgyőr"
+	},
+	"Kishajmás": {
+		"id": 6831,
+		"title": "Kishajmás"
+	},
+	"Kisharsány": {
+		"id": 27021,
+		"title": "Kisharsány"
+	},
+	"Kishartyán": {
+		"id": 33400,
+		"title": "Kishartyán"
+	},
+	"Kisherend": {
+		"id": 16975,
+		"title": "Kisherend"
+	},
+	"Kishódos": {
+		"id": 8509,
+		"title": "Kishódos"
+	},
+	"Kishuta": {
+		"id": 28875,
+		"title": "Kishuta"
+	},
+	"Kisigmánd": {
+		"id": 20923,
+		"title": "Kisigmánd"
+	},
+	"Kisjakabfalva": {
+		"id": 12849,
+		"title": "Kisjakabfalva"
+	},
+	"Kiskassa": {
+		"id": 19910,
+		"title": "Kiskassa"
+	},
+	"Kiskinizs": {
+		"id": 3762,
+		"title": "Kiskinizs"
+	},
+	"Kiskorpád": {
+		"id": 13781,
+		"title": "Kiskorpád"
+	},
+	"Kisköre": {
+		"id": 18281,
+		"title": "Kisköre"
+	},
+	"Kiskőrös": {
+		"id": 9344,
+		"title": "Kiskőrös"
+	},
+	"Kiskunfélegyháza": {
+		"id": 20297,
+		"title": "Kiskunfélegyháza"
+	},
+	"Kiskunhalas": {
+		"id": 32434,
+		"title": "Kiskunhalas"
+	},
+	"Kiskunlacháza": {
+		"id": 10816,
+		"title": "Kiskunlacháza"
+	},
+	"Kiskunmajsa": {
+		"id": 24396,
+		"title": "Kiskunmajsa"
+	},
+	"Kiskutas": {
+		"id": 20312,
+		"title": "Kiskutas"
+	},
+	"Kisláng": {
+		"id": 28990,
+		"title": "Kisláng"
+	},
+	"Kisléta": {
+		"id": 28477,
+		"title": "Kisléta"
+	},
+	"Kislippó": {
+		"id": 21616,
+		"title": "Kislippó"
+	},
+	"Kislőd": {
+		"id": 30173,
+		"title": "Kislőd"
+	},
+	"Kismányok": {
+		"id": 6512,
+		"title": "Kismányok"
+	},
+	"Kismarja": {
+		"id": 15477,
+		"title": "Kismarja"
+	},
+	"Kismaros": {
+		"id": 33738,
+		"title": "Kismaros"
+	},
+	"Kisnamény": {
+		"id": 16036,
+		"title": "Kisnamény"
+	},
+	"Kisnána": {
+		"id": 12502,
+		"title": "Kisnána"
+	},
+	"Kisnémedi": {
+		"id": 5227,
+		"title": "Kisnémedi"
+	},
+	"Kisnyárád": {
+		"id": 33215,
+		"title": "Kisnyárád"
+	},
+	"Kisoroszi": {
+		"id": 29850,
+		"title": "Kisoroszi"
+	},
+	"Kispalád": {
+		"id": 29300,
+		"title": "Kispalád"
+	},
+	"Kispáli": {
+		"id": 16081,
+		"title": "Kispáli"
+	},
+	"Kispirit": {
+		"id": 4288,
+		"title": "Kispirit"
+	},
+	"Kisrákos": {
+		"id": 11147,
+		"title": "Kisrákos"
+	},
+	"Kisrécse": {
+		"id": 32726,
+		"title": "Kisrécse"
+	},
+	"Kisrozvágy": {
+		"id": 11448,
+		"title": "Kisrozvágy"
+	},
+	"Kissikátor": {
+		"id": 14702,
+		"title": "Kissikátor"
+	},
+	"Kissomlyó": {
+		"id": 5953,
+		"title": "Kissomlyó"
+	},
+	"Kistamási": {
+		"id": 12353,
+		"title": "Kistamási"
+	},
+	"Kistapolca": {
+		"id": 3151,
+		"title": "Kistapolca"
+	},
+	"Kistarcsa": {
+		"id": 34157,
+		"title": "Kistarcsa"
+	},
+	"Kistelek": {
+		"id": 31024,
+		"title": "Kistelek"
+	},
+	"Kistokaj": {
+		"id": 12399,
+		"title": "Kistokaj"
+	},
+	"Kistolmács": {
+		"id": 20941,
+		"title": "Kistolmács"
+	},
+	"Kistormás": {
+		"id": 3869,
+		"title": "Kistormás"
+	},
+	"Kistótfalu": {
+		"id": 10746,
+		"title": "Kistótfalu"
+	},
+	"Kisújszállás": {
+		"id": 25919,
+		"title": "Kisújszállás"
+	},
+	"Kisunyom": {
+		"id": 2501,
+		"title": "Kisunyom"
+	},
+	"Kisvárda": {
+		"id": 9265,
+		"title": "Kisvárda"
+	},
+	"Kisvarsány": {
+		"id": 12672,
+		"title": "Kisvarsány"
+	},
+	"Kisvásárhely": {
+		"id": 16364,
+		"title": "Kisvásárhely"
+	},
+	"Kisvaszar": {
+		"id": 9548,
+		"title": "Kisvaszar"
+	},
+	"Kisvejke": {
+		"id": 31185,
+		"title": "Kisvejke"
+	},
+	"Kiszombor": {
+		"id": 26666,
+		"title": "Kiszombor"
+	},
+	"Kiszsidány": {
+		"id": 15486,
+		"title": "Kiszsidány"
+	},
+	"Kisszállás": {
+		"id": 28158,
+		"title": "Kisszállás"
+	},
+	"Kisszékely": {
+		"id": 27766,
+		"title": "Kisszékely"
+	},
+	"Kisszekeres": {
+		"id": 9751,
+		"title": "Kisszekeres"
+	},
+	"Kisszentmárton": {
+		"id": 8651,
+		"title": "Kisszentmárton"
+	},
+	"Kissziget": {
+		"id": 13055,
+		"title": "Kissziget"
+	},
+	"Kisszőlős": {
+		"id": 23001,
+		"title": "Kisszőlős"
+	},
+	"Klárafalva": {
+		"id": 8253,
+		"title": "Klárafalva"
+	},
+	"Kocs": {
+		"id": 2510,
+		"title": "Kocs"
+	},
+	"Kocsér": {
+		"id": 32771,
+		"title": "Kocsér"
+	},
+	"Kocsola": {
+		"id": 22433,
+		"title": "Kocsola"
+	},
+	"Kocsord": {
+		"id": 7445,
+		"title": "Kocsord"
+	},
+	"Kóka": {
+		"id": 31361,
+		"title": "Kóka"
+	},
+	"Kokad": {
+		"id": 17455,
+		"title": "Kokad"
+	},
+	"Kolontár": {
+		"id": 30182,
+		"title": "Kolontár"
+	},
+	"Komádi": {
+		"id": 2167,
+		"title": "Komádi"
+	},
+	"Komárom": {
+		"id": 5449,
+		"title": "Komárom"
+	},
+	"Komjáti": {
+		"id": 10612,
+		"title": "Komjáti"
+	},
+	"Komló": {
+		"id": 26408,
+		"title": "Komló"
+	},
+	"Komlódtótfalu": {
+		"id": 22336,
+		"title": "Komlódtótfalu"
+	},
+	"Komlósd": {
+		"id": 9858,
+		"title": "Komlósd"
+	},
+	"Komlóska": {
+		"id": 16559,
+		"title": "Komlóska"
+	},
+	"Komoró": {
+		"id": 27146,
+		"title": "Komoró"
+	},
+	"Kompolt": {
+		"id": 23995,
+		"title": "Kompolt"
+	},
+	"Kondó": {
+		"id": 32498,
+		"title": "Kondó"
+	},
+	"Kondorfa": {
+		"id": 13028,
+		"title": "Kondorfa"
+	},
+	"Kondoros": {
+		"id": 10287,
+		"title": "Kondoros"
+	},
+	"Kóny": {
+		"id": 11262,
+		"title": "Kóny"
+	},
+	"Konyár": {
+		"id": 25964,
+		"title": "Konyár"
+	},
+	"Kópháza": {
+		"id": 6895,
+		"title": "Kópháza"
+	},
+	"Koppányszántó": {
+		"id": 21184,
+		"title": "Koppányszántó"
+	},
+	"Korlát": {
+		"id": 22956,
+		"title": "Korlát"
+	},
+	"Koroncó": {
+		"id": 24633,
+		"title": "Koroncó"
+	},
+	"Kórós": {
+		"id": 8110,
+		"title": "Kórós"
+	},
+	"Kosd": {
+		"id": 27687,
+		"title": "Kosd"
+	},
+	"Kóspallag": {
+		"id": 24679,
+		"title": "Kóspallag"
+	},
+	"Kótaj": {
+		"id": 23728,
+		"title": "Kótaj"
+	},
+	"Kovácshida": {
+		"id": 24226,
+		"title": "Kovácshida"
+	},
+	"Kovácsszénája": {
+		"id": 14517,
+		"title": "Kovácsszénája"
+	},
+	"Kovácsvágás": {
+		"id": 28547,
+		"title": "Kovácsvágás"
+	},
+	"Kozárd": {
+		"id": 13842,
+		"title": "Kozárd"
+	},
+	"Kozármisleny": {
+		"id": 6336,
+		"title": "Kozármisleny"
+	},
+	"Kozmadombja": {
+		"id": 13082,
+		"title": "Kozmadombja"
+	},
+	"Köblény": {
+		"id": 25247,
+		"title": "Köblény"
+	},
+	"Köcsk": {
+		"id": 4190,
+		"title": "Köcsk"
+	},
+	"Kökény": {
+		"id": 3540,
+		"title": "Kökény"
+	},
+	"Kőkút": {
+		"id": 13745,
+		"title": "Kőkút"
+	},
+	"Kölcse": {
+		"id": 16665,
+		"title": "Kölcse"
+	},
+	"Kölesd": {
+		"id": 10463,
+		"title": "Kölesd"
+	},
+	"Kölked": {
+		"id": 17899,
+		"title": "Kölked"
+	},
+	"Kömlő": {
+		"id": 14535,
+		"title": "Kömlő"
+	},
+	"Kömlőd": {
+		"id": 7630,
+		"title": "Kömlőd"
+	},
+	"Kömörő": {
+		"id": 23612,
+		"title": "Kömörő"
+	},
+	"Kömpöc": {
+		"id": 13806,
+		"title": "Kömpöc"
+	},
+	"Körmend": {
+		"id": 13532,
+		"title": "Körmend"
+	},
+	"Környe": {
+		"id": 30553,
+		"title": "Környe"
+	},
+	"Köröm": {
+		"id": 26602,
+		"title": "Köröm"
+	},
+	"Kőröshegy": {
+		"id": 15510,
+		"title": "Kőröshegy"
+	},
+	"Körösladány": {
+		"id": 11615,
+		"title": "Körösladány"
+	},
+	"Körösnagyharsány": {
+		"id": 10764,
+		"title": "Körösnagyharsány"
+	},
+	"Köröstarcsa": {
+		"id": 12900,
+		"title": "Köröstarcsa"
+	},
+	"Kőröstetétlen": {
+		"id": 32975,
+		"title": "Kőröstetétlen"
+	},
+	"Körösújfalu": {
+		"id": 30164,
+		"title": "Körösújfalu"
+	},
+	"Körösszakál": {
+		"id": 31130,
+		"title": "Körösszakál"
+	},
+	"Körösszegapáti": {
+		"id": 8943,
+		"title": "Körösszegapáti"
+	},
+	"Kőszárhegy": {
+		"id": 30650,
+		"title": "Kőszárhegy"
+	},
+	"Kőszeg": {
+		"id": 16832,
+		"title": "Kőszeg"
+	},
+	"Kőszegdoroszló": {
+		"id": 5740,
+		"title": "Kőszegdoroszló"
+	},
+	"Kőszegpaty": {
+		"id": 26046,
+		"title": "Kőszegpaty"
+	},
+	"Kőszegszerdahely": {
+		"id": 20109,
+		"title": "Kőszegszerdahely"
+	},
+	"Kötcse": {
+		"id": 18148,
+		"title": "Kötcse"
+	},
+	"Kötegyán": {
+		"id": 6804,
+		"title": "Kötegyán"
+	},
+	"Kőtelek": {
+		"id": 11235,
+		"title": "Kőtelek"
+	},
+	"Kővágóörs": {
+		"id": 23454,
+		"title": "Kővágóörs"
+	},
+	"Kővágószőlős": {
+		"id": 15538,
+		"title": "Kővágószőlős"
+	},
+	"Kővágótőttős": {
+		"id": 6992,
+		"title": "Kővágótőttős"
+	},
+	"Kövegy": {
+		"id": 9955,
+		"title": "Kövegy"
+	},
+	"Köveskál": {
+		"id": 25858,
+		"title": "Köveskál"
+	},
+	"Krasznokvajda": {
+		"id": 19576,
+		"title": "Krasznokvajda"
+	},
+	"Kulcs": {
+		"id": 34209,
+		"title": "Kulcs"
+	},
+	"Kunadacs": {
+		"id": 5856,
+		"title": "Kunadacs"
+	},
+	"Kunágota": {
+		"id": 16045,
+		"title": "Kunágota"
+	},
+	"Kunbaja": {
+		"id": 6044,
+		"title": "Kunbaja"
+	},
+	"Kunbaracs": {
+		"id": 7728,
+		"title": "Kunbaracs"
+	},
+	"Kuncsorba": {
+		"id": 5254,
+		"title": "Kuncsorba"
+	},
+	"Kunfehértó": {
+		"id": 29027,
+		"title": "Kunfehértó"
+	},
+	"Kunhegyes": {
+		"id": 22567,
+		"title": "Kunhegyes"
+	},
+	"Kunmadaras": {
+		"id": 23171,
+		"title": "Kunmadaras"
+	},
+	"Kunpeszér": {
+		"id": 31918,
+		"title": "Kunpeszér"
+	},
+	"Kunszállás": {
+		"id": 31893,
+		"title": "Kunszállás"
+	},
+	"Kunszentmárton": {
+		"id": 32504,
+		"title": "Kunszentmárton"
+	},
+	"Kunszentmiklós": {
+		"id": 28130,
+		"title": "Kunszentmiklós"
+	},
+	"Kunsziget": {
+		"id": 31626,
+		"title": "Kunsziget"
+	},
+	"Kup": {
+		"id": 26541,
+		"title": "Kup"
+	},
+	"Kupa": {
+		"id": 18722,
+		"title": "Kupa"
+	},
+	"Kurd": {
+		"id": 20507,
+		"title": "Kurd"
+	},
+	"Kurityán": {
+		"id": 11819,
+		"title": "Kurityán"
+	},
+	"Kustánszeg": {
+		"id": 19479,
+		"title": "Kustánszeg"
+	},
+	"Kutas": {
+		"id": 28857,
+		"title": "Kutas"
+	},
+	"Kutasó": {
+		"id": 19451,
+		"title": "Kutasó"
+	},
+	"Kübekháza": {
+		"id": 14410,
+		"title": "Kübekháza"
+	},
+	"Külföld": {
+		"id": 99999,
+		"title": "Külföld"
+	},
+	"Külsősárd": {
+		"id": 32221,
+		"title": "Külsősárd"
+	},
+	"Külsővat": {
+		"id": 16142,
+		"title": "Külsővat"
+	},
+	"Küngös": {
+		"id": 4066,
+		"title": "Küngös"
+	},
+	"Lábatlan": {
+		"id": 15255,
+		"title": "Lábatlan"
+	},
+	"Lábod": {
+		"id": 28291,
+		"title": "Lábod"
+	},
+	"Lácacséke": {
+		"id": 20844,
+		"title": "Lácacséke"
+	},
+	"Lad": {
+		"id": 16258,
+		"title": "Lad"
+	},
+	"Ladánybene": {
+		"id": 5786,
+		"title": "Ladánybene"
+	},
+	"Ládbesenyő": {
+		"id": 26231,
+		"title": "Ládbesenyő"
+	},
+	"Lajoskomárom": {
+		"id": 7506,
+		"title": "Lajoskomárom"
+	},
+	"Lajosmizse": {
+		"id": 17677,
+		"title": "Lajosmizse"
+	},
+	"Lak": {
+		"id": 15857,
+		"title": "Lak"
+	},
+	"Lakhegy": {
+		"id": 33792,
+		"title": "Lakhegy"
+	},
+	"Lakitelek": {
+		"id": 6202,
+		"title": "Lakitelek"
+	},
+	"Lakócsa": {
+		"id": 11040,
+		"title": "Lakócsa"
+	},
+	"Lánycsók": {
+		"id": 33330,
+		"title": "Lánycsók"
+	},
+	"Lápafő": {
+		"id": 14605,
+		"title": "Lápafő"
+	},
+	"Lapáncsa": {
+		"id": 6479,
+		"title": "Lapáncsa"
+	},
+	"Laskod": {
+		"id": 21290,
+		"title": "Laskod"
+	},
+	"Lasztonya": {
+		"id": 3434,
+		"title": "Lasztonya"
+	},
+	"Látrány": {
+		"id": 14863,
+		"title": "Látrány"
+	},
+	"Lázi": {
+		"id": 4376,
+		"title": "Lázi"
+	},
+	"Leányfalu": {
+		"id": 30809,
+		"title": "Leányfalu"
+	},
+	"Leányvár": {
+		"id": 25487,
+		"title": "Leányvár"
+	},
+	"Lébény": {
+		"id": 33668,
+		"title": "Lébény"
+	},
+	"Legénd": {
+		"id": 30395,
+		"title": "Legénd"
+	},
+	"Legyesbénye": {
+		"id": 11660,
+		"title": "Legyesbénye"
+	},
+	"Léh": {
+		"id": 3531,
+		"title": "Léh"
+	},
+	"Lénárddaróc": {
+		"id": 7038,
+		"title": "Lénárddaróc"
+	},
+	"Lendvadedes": {
+		"id": 27483,
+		"title": "Lendvadedes"
+	},
+	"Lendvajakabfa": {
+		"id": 11475,
+		"title": "Lendvajakabfa"
+	},
+	"Lengyel": {
+		"id": 24411,
+		"title": "Lengyel"
+	},
+	"Lengyeltóti": {
+		"id": 26675,
+		"title": "Lengyeltóti"
+	},
+	"Lenti": {
+		"id": 12575,
+		"title": "Lenti"
+	},
+	"Lepsény": {
+		"id": 7269,
+		"title": "Lepsény"
+	},
+	"Lesencefalu": {
+		"id": 17570,
+		"title": "Lesencefalu"
+	},
+	"Lesenceistvánd": {
+		"id": 21962,
+		"title": "Lesenceistvánd"
+	},
+	"Lesencetomaj": {
+		"id": 17871,
+		"title": "Lesencetomaj"
+	},
+	"Létavértes": {
+		"id": 5768,
+		"title": "Létavértes"
+	},
+	"Letenye": {
+		"id": 12122,
+		"title": "Letenye"
+	},
+	"Letkés": {
+		"id": 22682,
+		"title": "Letkés"
+	},
+	"Levél": {
+		"id": 19239,
+		"title": "Levél"
+	},
+	"Levelek": {
+		"id": 30979,
+		"title": "Levelek"
+	},
+	"Libickozma": {
+		"id": 32355,
+		"title": "Libickozma"
+	},
+	"Lickóvadamos": {
+		"id": 3054,
+		"title": "Lickóvadamos"
+	},
+	"Liget": {
+		"id": 17604,
+		"title": "Liget"
+	},
+	"Ligetfalva": {
+		"id": 28200,
+		"title": "Ligetfalva"
+	},
+	"Lipót": {
+		"id": 16221,
+		"title": "Lipót"
+	},
+	"Lippó": {
+		"id": 22974,
+		"title": "Lippó"
+	},
+	"Liptód": {
+		"id": 10038,
+		"title": "Liptód"
+	},
+	"Lispeszentadorján": {
+		"id": 10889,
+		"title": "Lispeszentadorján"
+	},
+	"Liszó": {
+		"id": 25025,
+		"title": "Liszó"
+	},
+	"Litér": {
+		"id": 4552,
+		"title": "Litér"
+	},
+	"Litka": {
+		"id": 28219,
+		"title": "Litka"
+	},
+	"Litke": {
+		"id": 4871,
+		"title": "Litke"
+	},
+	"Lócs": {
+		"id": 29081,
+		"title": "Lócs"
+	},
+	"Lókút": {
+		"id": 18856,
+		"title": "Lókút"
+	},
+	"Lónya": {
+		"id": 26091,
+		"title": "Lónya"
+	},
+	"Lórév": {
+		"id": 9140,
+		"title": "Lórév"
+	},
+	"Lothárd": {
+		"id": 31389,
+		"title": "Lothárd"
+	},
+	"Lovas": {
+		"id": 5564,
+		"title": "Lovas"
+	},
+	"Lovasberény": {
+		"id": 19114,
+		"title": "Lovasberény"
+	},
+	"Lovászhetény": {
+		"id": 24624,
+		"title": "Lovászhetény"
+	},
+	"Lovászi": {
+		"id": 28167,
+		"title": "Lovászi"
+	},
+	"Lovászpatona": {
+		"id": 5087,
+		"title": "Lovászpatona"
+	},
+	"Lőkösháza": {
+		"id": 21209,
+		"title": "Lőkösháza"
+	},
+	"Lőrinci": {
+		"id": 30401,
+		"title": "Lőrinci"
+	},
+	"Lövő": {
+		"id": 31194,
+		"title": "Lövő"
+	},
+	"Lövőpetri": {
+		"id": 7995,
+		"title": "Lövőpetri"
+	},
+	"Lucfalva": {
+		"id": 20190,
+		"title": "Lucfalva"
+	},
+	"Ludányhalászi": {
+		"id": 2778,
+		"title": "Ludányhalászi"
+	},
+	"Ludas": {
+		"id": 15796,
+		"title": "Ludas"
+	},
+	"Lukácsháza": {
+		"id": 14021,
+		"title": "Lukácsháza"
+	},
+	"Lulla": {
+		"id": 10010,
+		"title": "Lulla"
+	},
+	"Lúzsok": {
+		"id": 18865,
+		"title": "Lúzsok"
+	},
+	"Mád": {
+		"id": 3902,
+		"title": "Mád"
+	},
+	"Madaras": {
+		"id": 23357,
+		"title": "Madaras"
+	},
+	"Madocsa": {
+		"id": 29337,
+		"title": "Madocsa"
+	},
+	"Maglóca": {
+		"id": 26444,
+		"title": "Maglóca"
+	},
+	"Maglód": {
+		"id": 10922,
+		"title": "Maglód"
+	},
+	"Mágocs": {
+		"id": 6813,
+		"title": "Mágocs"
+	},
+	"Magosliget": {
+		"id": 29984,
+		"title": "Magosliget"
+	},
+	"Magy": {
+		"id": 16629,
+		"title": "Magy"
+	},
+	"Magyaralmás": {
+		"id": 27678,
+		"title": "Magyaralmás"
+	},
+	"Magyaratád": {
+		"id": 10427,
+		"title": "Magyaratád"
+	},
+	"Magyarbánhegyes": {
+		"id": 27906,
+		"title": "Magyarbánhegyes"
+	},
+	"Magyarbóly": {
+		"id": 25177,
+		"title": "Magyarbóly"
+	},
+	"Magyarcsanád": {
+		"id": 5962,
+		"title": "Magyarcsanád"
+	},
+	"Magyardombegyház": {
+		"id": 11536,
+		"title": "Magyardombegyház"
+	},
+	"Magyaregregy": {
+		"id": 29753,
+		"title": "Magyaregregy"
+	},
+	"Magyaregres": {
+		"id": 25371,
+		"title": "Magyaregres"
+	},
+	"Magyarföld": {
+		"id": 8916,
+		"title": "Magyarföld"
+	},
+	"Magyargéc": {
+		"id": 26967,
+		"title": "Magyargéc"
+	},
+	"Magyargencs": {
+		"id": 26374,
+		"title": "Magyargencs"
+	},
+	"Magyarhertelend": {
+		"id": 5430,
+		"title": "Magyarhertelend"
+	},
+	"Magyarhomorog": {
+		"id": 3683,
+		"title": "Magyarhomorog"
+	},
+	"Magyarkeresztúr": {
+		"id": 13912,
+		"title": "Magyarkeresztúr"
+	},
+	"Magyarkeszi": {
+		"id": 6017,
+		"title": "Magyarkeszi"
+	},
+	"Magyarlak": {
+		"id": 3221,
+		"title": "Magyarlak"
+	},
+	"Magyarlukafa": {
+		"id": 23542,
+		"title": "Magyarlukafa"
+	},
+	"Magyarmecske": {
+		"id": 5412,
+		"title": "Magyarmecske"
+	},
+	"Magyarnádalja": {
+		"id": 27289,
+		"title": "Magyarnádalja"
+	},
+	"Magyarnándor": {
+		"id": 32407,
+		"title": "Magyarnándor"
+	},
+	"Magyarpolány": {
+		"id": 20437,
+		"title": "Magyarpolány"
+	},
+	"Magyarsarlós": {
+		"id": 27067,
+		"title": "Magyarsarlós"
+	},
+	"Magyarszecsőd": {
+		"id": 17288,
+		"title": "Magyarszecsőd"
+	},
+	"Magyarszék": {
+		"id": 22600,
+		"title": "Magyarszék"
+	},
+	"Magyarszentmiklós": {
+		"id": 2909,
+		"title": "Magyarszentmiklós"
+	},
+	"Magyarszerdahely": {
+		"id": 13064,
+		"title": "Magyarszerdahely"
+	},
+	"Magyarszombatfa": {
+		"id": 25423,
+		"title": "Magyarszombatfa"
+	},
+	"Magyartelek": {
+		"id": 4385,
+		"title": "Magyartelek"
+	},
+	"Majosháza": {
+		"id": 10755,
+		"title": "Majosháza"
+	},
+	"Majs": {
+		"id": 27863,
+		"title": "Majs"
+	},
+	"Makád": {
+		"id": 4394,
+		"title": "Makád"
+	},
+	"Makkoshotyka": {
+		"id": 19600,
+		"title": "Makkoshotyka"
+	},
+	"Maklár": {
+		"id": 27696,
+		"title": "Maklár"
+	},
+	"Makó": {
+		"id": 7357,
+		"title": "Makó"
+	},
+	"Malomsok": {
+		"id": 3610,
+		"title": "Malomsok"
+	},
+	"Mályi": {
+		"id": 27395,
+		"title": "Mályi"
+	},
+	"Mályinka": {
+		"id": 14915,
+		"title": "Mályinka"
+	},
+	"Mánd": {
+		"id": 2088,
+		"title": "Mánd"
+	},
+	"Mándok": {
+		"id": 17826,
+		"title": "Mándok"
+	},
+	"Mánfa": {
+		"id": 33923,
+		"title": "Mánfa"
+	},
+	"Mány": {
+		"id": 23490,
+		"title": "Mány"
+	},
+	"Maráza": {
+		"id": 29920,
+		"title": "Maráza"
+	},
+	"Marcalgergelyi": {
+		"id": 29294,
+		"title": "Marcalgergelyi"
+	},
+	"Marcali": {
+		"id": 18500,
+		"title": "Marcali"
+	},
+	"Marcaltő": {
+		"id": 22220,
+		"title": "Marcaltő"
+	},
+	"Márfa": {
+		"id": 9450,
+		"title": "Márfa"
+	},
+	"Máriahalom": {
+		"id": 22637,
+		"title": "Máriahalom"
+	},
+	"Máriakálnok": {
+		"id": 12283,
+		"title": "Máriakálnok"
+	},
+	"Máriakéménd": {
+		"id": 14483,
+		"title": "Máriakéménd"
+	},
+	"Márianosztra": {
+		"id": 4570,
+		"title": "Márianosztra"
+	},
+	"Máriapócs": {
+		"id": 19655,
+		"title": "Máriapócs"
+	},
+	"Markaz": {
+		"id": 16540,
+		"title": "Markaz"
+	},
+	"Márkháza": {
+		"id": 14641,
+		"title": "Márkháza"
+	},
+	"Márkó": {
+		"id": 32212,
+		"title": "Márkó"
+	},
+	"Markóc": {
+		"id": 16443,
+		"title": "Markóc"
+	},
+	"Markotabödöge": {
+		"id": 6770,
+		"title": "Markotabödöge"
+	},
+	"Maróc": {
+		"id": 2103,
+		"title": "Maróc"
+	},
+	"Marócsa": {
+		"id": 15219,
+		"title": "Marócsa"
+	},
+	"Márok": {
+		"id": 20659,
+		"title": "Márok"
+	},
+	"Márokföld": {
+		"id": 31981,
+		"title": "Márokföld"
+	},
+	"Márokpapi": {
+		"id": 33224,
+		"title": "Márokpapi"
+	},
+	"Maroslele": {
+		"id": 10515,
+		"title": "Maroslele"
+	},
+	"Mártély": {
+		"id": 25733,
+		"title": "Mártély"
+	},
+	"Martfű": {
+		"id": 2626,
+		"title": "Martfű"
+	},
+	"Martonfa": {
+		"id": 2228,
+		"title": "Martonfa"
+	},
+	"Martonvásár": {
+		"id": 4659,
+		"title": "Martonvásár"
+	},
+	"Martonyi": {
+		"id": 2024,
+		"title": "Martonyi"
+	},
+	"Mátészalka": {
+		"id": 18874,
+		"title": "Mátészalka"
+	},
+	"Mátételke": {
+		"id": 27809,
+		"title": "Mátételke"
+	},
+	"Mátraballa": {
+		"id": 19965,
+		"title": "Mátraballa"
+	},
+	"Mátraderecske": {
+		"id": 14872,
+		"title": "Mátraderecske"
+	},
+	"Mátramindszent": {
+		"id": 20075,
+		"title": "Mátramindszent"
+	},
+	"Mátranovák": {
+		"id": 19372,
+		"title": "Mátranovák"
+	},
+	"Mátraszele": {
+		"id": 24332,
+		"title": "Mátraszele"
+	},
+	"Mátraszentimre": {
+		"id": 29045,
+		"title": "Mátraszentimre"
+	},
+	"Mátraszőlős": {
+		"id": 4330,
+		"title": "Mátraszőlős"
+	},
+	"Mátraterenye": {
+		"id": 33525,
+		"title": "Mátraterenye"
+	},
+	"Mátraverebély": {
+		"id": 30100,
+		"title": "Mátraverebély"
+	},
+	"Mátyásdomb": {
+		"id": 16948,
+		"title": "Mátyásdomb"
+	},
+	"Matty": {
+		"id": 15051,
+		"title": "Matty"
+	},
+	"Mátyus": {
+		"id": 20668,
+		"title": "Mátyus"
+	},
+	"Máza": {
+		"id": 33756,
+		"title": "Máza"
+	},
+	"Mecseknádasd": {
+		"id": 13444,
+		"title": "Mecseknádasd"
+	},
+	"Mecsekpölöske": {
+		"id": 11402,
+		"title": "Mecsekpölöske"
+	},
+	"Mecsér": {
+		"id": 27359,
+		"title": "Mecsér"
+	},
+	"Medgyesbodzás": {
+		"id": 20765,
+		"title": "Medgyesbodzás"
+	},
+	"Medgyesegyháza": {
+		"id": 30128,
+		"title": "Medgyesegyháza"
+	},
+	"Medina": {
+		"id": 30562,
+		"title": "Medina"
+	},
+	"Megyaszó": {
+		"id": 21768,
+		"title": "Megyaszó"
+	},
+	"Megyehid": {
+		"id": 30872,
+		"title": "Megyehid"
+	},
+	"Megyer": {
+		"id": 4987,
+		"title": "Megyer"
+	},
+	"Meggyeskovácsi": {
+		"id": 25760,
+		"title": "Meggyeskovácsi"
+	},
+	"Méhkerék": {
+		"id": 23931,
+		"title": "Méhkerék"
+	},
+	"Méhtelek": {
+		"id": 29799,
+		"title": "Méhtelek"
+	},
+	"Mekényes": {
+		"id": 30492,
+		"title": "Mekényes"
+	},
+	"Mélykút": {
+		"id": 16018,
+		"title": "Mélykút"
+	},
+	"Mencshely": {
+		"id": 27137,
+		"title": "Mencshely"
+	},
+	"Mende": {
+		"id": 3692,
+		"title": "Mende"
+	},
+	"Méra": {
+		"id": 25618,
+		"title": "Méra"
+	},
+	"Merenye": {
+		"id": 7737,
+		"title": "Merenye"
+	},
+	"Mérges": {
+		"id": 20385,
+		"title": "Mérges"
+	},
+	"Mérk": {
+		"id": 7463,
+		"title": "Mérk"
+	},
+	"Mernye": {
+		"id": 23630,
+		"title": "Mernye"
+	},
+	"Mersevát": {
+		"id": 14809,
+		"title": "Mersevát"
+	},
+	"Mesterháza": {
+		"id": 31875,
+		"title": "Mesterháza"
+	},
+	"Mesteri": {
+		"id": 15723,
+		"title": "Mesteri"
+	},
+	"Mesterszállás": {
+		"id": 30234,
+		"title": "Mesterszállás"
+	},
+	"Meszes": {
+		"id": 11758,
+		"title": "Meszes"
+	},
+	"Meszlen": {
+		"id": 32832,
+		"title": "Meszlen"
+	},
+	"Mesztegnyő": {
+		"id": 16106,
+		"title": "Mesztegnyő"
+	},
+	"Mezőberény": {
+		"id": 19628,
+		"title": "Mezőberény"
+	},
+	"Mezőcsát": {
+		"id": 13833,
+		"title": "Mezőcsát"
+	},
+	"Mezőcsokonya": {
+		"id": 30854,
+		"title": "Mezőcsokonya"
+	},
+	"Meződ": {
+		"id": 3470,
+		"title": "Meződ"
+	},
+	"Mezőfalva": {
+		"id": 17552,
+		"title": "Mezőfalva"
+	},
+	"Mezőgyán": {
+		"id": 4206,
+		"title": "Mezőgyán"
+	},
+	"Mezőhegyes": {
+		"id": 11873,
+		"title": "Mezőhegyes"
+	},
+	"Mezőhék": {
+		"id": 26286,
+		"title": "Mezőhék"
+	},
+	"Mezőkeresztes": {
+		"id": 11323,
+		"title": "Mezőkeresztes"
+	},
+	"Mezőkomárom": {
+		"id": 5689,
+		"title": "Mezőkomárom"
+	},
+	"Mezőkovácsháza": {
+		"id": 30322,
+		"title": "Mezőkovácsháza"
+	},
+	"Mezőkövesd": {
+		"id": 19433,
+		"title": "Mezőkövesd"
+	},
+	"Mezőladány": {
+		"id": 32656,
+		"title": "Mezőladány"
+	},
+	"Mezőlak": {
+		"id": 23560,
+		"title": "Mezőlak"
+	},
+	"Mezőnagymihály": {
+		"id": 18379,
+		"title": "Mezőnagymihály"
+	},
+	"Mezőnyárád": {
+		"id": 11749,
+		"title": "Mezőnyárád"
+	},
+	"Mezőörs": {
+		"id": 12812,
+		"title": "Mezőörs"
+	},
+	"Mezőpeterd": {
+		"id": 31033,
+		"title": "Mezőpeterd"
+	},
+	"Mezősas": {
+		"id": 18847,
+		"title": "Mezősas"
+	},
+	"Mezőszemere": {
+		"id": 25089,
+		"title": "Mezőszemere"
+	},
+	"Mezőszentgyörgy": {
+		"id": 6576,
+		"title": "Mezőszentgyörgy"
+	},
+	"Mezőszilas": {
+		"id": 29036,
+		"title": "Mezőszilas"
+	},
+	"Mezőtárkány": {
+		"id": 31662,
+		"title": "Mezőtárkány"
+	},
+	"Mezőtúr": {
+		"id": 4260,
+		"title": "Mezőtúr"
+	},
+	"Mezőzombor": {
+		"id": 3443,
+		"title": "Mezőzombor"
+	},
+	"Miháld": {
+		"id": 27526,
+		"title": "Miháld"
+	},
+	"Mihályfa": {
+		"id": 2130,
+		"title": "Mihályfa"
+	},
+	"Mihálygerge": {
+		"id": 13222,
+		"title": "Mihálygerge"
+	},
+	"Mihályháza": {
+		"id": 4668,
+		"title": "Mihályháza"
+	},
+	"Mihályi": {
+		"id": 21980,
+		"title": "Mihályi"
+	},
+	"Mike": {
+		"id": 20905,
+		"title": "Mike"
+	},
+	"Mikebuda": {
+		"id": 24466,
+		"title": "Mikebuda"
+	},
+	"Mikekarácsonyfa": {
+		"id": 22141,
+		"title": "Mikekarácsonyfa"
+	},
+	"Mikepércs": {
+		"id": 24217,
+		"title": "Mikepércs"
+	},
+	"Miklósi": {
+		"id": 33376,
+		"title": "Miklósi"
+	},
+	"Mikófalva": {
+		"id": 31282,
+		"title": "Mikófalva"
+	},
+	"Mikóháza": {
+		"id": 24253,
+		"title": "Mikóháza"
+	},
+	"Mikosszéplak": {
+		"id": 30599,
+		"title": "Mikosszéplak"
+	},
+	"Milejszeg": {
+		"id": 2662,
+		"title": "Milejszeg"
+	},
+	"Milota": {
+		"id": 31750,
+		"title": "Milota"
+	},
+	"Mindszent": {
+		"id": 21555,
+		"title": "Mindszent"
+	},
+	"Mindszentgodisa": {
+		"id": 16285,
+		"title": "Mindszentgodisa"
+	},
+	"Mindszentkálla": {
+		"id": 4534,
+		"title": "Mindszentkálla"
+	},
+	"Misefa": {
+		"id": 4756,
+		"title": "Misefa"
+	},
+	"Miske": {
+		"id": 30632,
+		"title": "Miske"
+	},
+	"Miskolc": {
+		"id": 30456,
+		"title": "Miskolc"
+	},
+	"Miszla": {
+		"id": 2811,
+		"title": "Miszla"
+	},
+	"Mocsa": {
+		"id": 26930,
+		"title": "Mocsa"
+	},
+	"Mogyoród": {
+		"id": 17783,
+		"title": "Mogyoród"
+	},
+	"Mogyorósbánya": {
+		"id": 28255,
+		"title": "Mogyorósbánya"
+	},
+	"Mogyoróska": {
+		"id": 10968,
+		"title": "Mogyoróska"
+	},
+	"Moha": {
+		"id": 25715,
+		"title": "Moha"
+	},
+	"Mohács": {
+		"id": 23959,
+		"title": "Mohács"
+	},
+	"Mohora": {
+		"id": 27915,
+		"title": "Mohora"
+	},
+	"Molnári": {
+		"id": 21014,
+		"title": "Molnári"
+	},
+	"Molnaszecsőd": {
+		"id": 3294,
+		"title": "Molnaszecsőd"
+	},
+	"Molvány": {
+		"id": 29522,
+		"title": "Molvány"
+	},
+	"Monaj": {
+		"id": 9016,
+		"title": "Monaj"
+	},
+	"Monok": {
+		"id": 7825,
+		"title": "Monok"
+	},
+	"Monor": {
+		"id": 10551,
+		"title": "Monor"
+	},
+	"Monorierdő": {
+		"id": 90001,
+		"title": "Monorierdő"
+	},
+	"Mónosbél": {
+		"id": 31565,
+		"title": "Mónosbél"
+	},
+	"Monostorapáti": {
+		"id": 24040,
+		"title": "Monostorapáti"
+	},
+	"Monostorpályi": {
+		"id": 25894,
+		"title": "Monostorpályi"
+	},
+	"Monoszló": {
+		"id": 22512,
+		"title": "Monoszló"
+	},
+	"Monyoród": {
+		"id": 16027,
+		"title": "Monyoród"
+	},
+	"Mór": {
+		"id": 18485,
+		"title": "Mór"
+	},
+	"Mórágy": {
+		"id": 20701,
+		"title": "Mórágy"
+	},
+	"Mórahalom": {
+		"id": 4349,
+		"title": "Mórahalom"
+	},
+	"Móricgát": {
+		"id": 34096,
+		"title": "Móricgát"
+	},
+	"Mórichida": {
+		"id": 2556,
+		"title": "Mórichida"
+	},
+	"Mosdós": {
+		"id": 31343,
+		"title": "Mosdós"
+	},
+	"Mosonmagyaróvár": {
+		"id": 4783,
+		"title": "Mosonmagyaróvár"
+	},
+	"Mosonszentmiklós": {
+		"id": 33677,
+		"title": "Mosonszentmiklós"
+	},
+	"Mosonszolnok": {
+		"id": 28149,
+		"title": "Mosonszolnok"
+	},
+	"Mozsgó": {
+		"id": 29540,
+		"title": "Mozsgó"
+	},
+	"Mőcsény": {
+		"id": 33349,
+		"title": "Mőcsény"
+	},
+	"Mucsfa": {
+		"id": 13620,
+		"title": "Mucsfa"
+	},
+	"Mucsi": {
+		"id": 7029,
+		"title": "Mucsi"
+	},
+	"Múcsony": {
+		"id": 21546,
+		"title": "Múcsony"
+	},
+	"Muhi": {
+		"id": 2158,
+		"title": "Muhi"
+	},
+	"Murakeresztúr": {
+		"id": 25210,
+		"title": "Murakeresztúr"
+	},
+	"Murarátka": {
+		"id": 7968,
+		"title": "Murarátka"
+	},
+	"Muraszemenye": {
+		"id": 33987,
+		"title": "Muraszemenye"
+	},
+	"Murga": {
+		"id": 18917,
+		"title": "Murga"
+	},
+	"Murony": {
+		"id": 11989,
+		"title": "Murony"
+	},
+	"Nábrád": {
+		"id": 19211,
+		"title": "Nábrád"
+	},
+	"Nadap": {
+		"id": 27599,
+		"title": "Nadap"
+	},
+	"Nádasd": {
+		"id": 6716,
+		"title": "Nádasd"
+	},
+	"Nádasdladány": {
+		"id": 13903,
+		"title": "Nádasdladány"
+	},
+	"Nádudvar": {
+		"id": 28103,
+		"title": "Nádudvar"
+	},
+	"Nágocs": {
+		"id": 15909,
+		"title": "Nágocs"
+	},
+	"Nagyacsád": {
+		"id": 23551,
+		"title": "Nagyacsád"
+	},
+	"Nagyalásony": {
+		"id": 27979,
+		"title": "Nagyalásony"
+	},
+	"Nagyar": {
+		"id": 4710,
+		"title": "Nagyar"
+	},
+	"Nagyatád": {
+		"id": 17941,
+		"title": "Nagyatád"
+	},
+	"Nagybajcs": {
+		"id": 2361,
+		"title": "Nagybajcs"
+	},
+	"Nagybajom": {
+		"id": 21652,
+		"title": "Nagybajom"
+	},
+	"Nagybakónak": {
+		"id": 12760,
+		"title": "Nagybakónak"
+	},
+	"Nagybánhegyes": {
+		"id": 26028,
+		"title": "Nagybánhegyes"
+	},
+	"Nagybaracska": {
+		"id": 25955,
+		"title": "Nagybaracska"
+	},
+	"Nagybarca": {
+		"id": 29188,
+		"title": "Nagybarca"
+	},
+	"Nagybárkány": {
+		"id": 16391,
+		"title": "Nagybárkány"
+	},
+	"Nagyberény": {
+		"id": 29063,
+		"title": "Nagyberény"
+	},
+	"Nagyberki": {
+		"id": 21449,
+		"title": "Nagyberki"
+	},
+	"Nagybörzsöny": {
+		"id": 14775,
+		"title": "Nagybörzsöny"
+	},
+	"Nagybudmér": {
+		"id": 3984,
+		"title": "Nagybudmér"
+	},
+	"Nagycenk": {
+		"id": 2495,
+		"title": "Nagycenk"
+	},
+	"Nagycsány": {
+		"id": 18111,
+		"title": "Nagycsány"
+	},
+	"Nagycsécs": {
+		"id": 5582,
+		"title": "Nagycsécs"
+	},
+	"Nagycsepely": {
+		"id": 20598,
+		"title": "Nagycsepely"
+	},
+	"Nagycserkesz": {
+		"id": 22743,
+		"title": "Nagycserkesz"
+	},
+	"Nagydém": {
+		"id": 10001,
+		"title": "Nagydém"
+	},
+	"Nagydobos": {
+		"id": 21485,
+		"title": "Nagydobos"
+	},
+	"Nagydobsza": {
+		"id": 33899,
+		"title": "Nagydobsza"
+	},
+	"Nagydorog": {
+		"id": 18388,
+		"title": "Nagydorog"
+	},
+	"Nagyecsed": {
+		"id": 6488,
+		"title": "Nagyecsed"
+	},
+	"Nagyér": {
+		"id": 20914,
+		"title": "Nagyér"
+	},
+	"Nagyesztergár": {
+		"id": 23180,
+		"title": "Nagyesztergár"
+	},
+	"Nagyfüged": {
+		"id": 26879,
+		"title": "Nagyfüged"
+	},
+	"Nagygeresd": {
+		"id": 9283,
+		"title": "Nagygeresd"
+	},
+	"Nagygörbő": {
+		"id": 5218,
+		"title": "Nagygörbő"
+	},
+	"Nagygyimót": {
+		"id": 8262,
+		"title": "Nagygyimót"
+	},
+	"Nagyhajmás": {
+		"id": 12858,
+		"title": "Nagyhajmás"
+	},
+	"Nagyhalász": {
+		"id": 27155,
+		"title": "Nagyhalász"
+	},
+	"Nagyharsány": {
+		"id": 2653,
+		"title": "Nagyharsány"
+	},
+	"Nagyhegyes": {
+		"id": 9478,
+		"title": "Nagyhegyes"
+	},
+	"Nagyhódos": {
+		"id": 26976,
+		"title": "Nagyhódos"
+	},
+	"Nagyhuta": {
+		"id": 15468,
+		"title": "Nagyhuta"
+	},
+	"Nagyigmánd": {
+		"id": 22372,
+		"title": "Nagyigmánd"
+	},
+	"Nagyiván": {
+		"id": 21689,
+		"title": "Nagyiván"
+	},
+	"Nagykálló": {
+		"id": 24785,
+		"title": "Nagykálló"
+	},
+	"Nagykamarás": {
+		"id": 4242,
+		"title": "Nagykamarás"
+	},
+	"Nagykanizsa": {
+		"id": 30933,
+		"title": "Nagykanizsa"
+	},
+	"Nagykapornak": {
+		"id": 20589,
+		"title": "Nagykapornak"
+	},
+	"Nagykarácsony": {
+		"id": 7001,
+		"title": "Nagykarácsony"
+	},
+	"Nagykáta": {
+		"id": 13435,
+		"title": "Nagykáta"
+	},
+	"Nagykereki": {
+		"id": 8907,
+		"title": "Nagykereki"
+	},
+	"Nagykeresztúr": {
+		"id": 34281,
+		"title": "Nagykeresztúr"
+	},
+	"Nagykinizs": {
+		"id": 26505,
+		"title": "Nagykinizs"
+	},
+	"Nagykónyi": {
+		"id": 27182,
+		"title": "Nagykónyi"
+	},
+	"Nagykorpád": {
+		"id": 32805,
+		"title": "Nagykorpád"
+	},
+	"Nagykovácsi": {
+		"id": 9991,
+		"title": "Nagykovácsi"
+	},
+	"Nagykozár": {
+		"id": 10940,
+		"title": "Nagykozár"
+	},
+	"Nagykökényes": {
+		"id": 24943,
+		"title": "Nagykökényes"
+	},
+	"Nagykölked": {
+		"id": 32920,
+		"title": "Nagykölked"
+	},
+	"Nagykőrös": {
+		"id": 19716,
+		"title": "Nagykőrös"
+	},
+	"Nagykörű": {
+		"id": 15574,
+		"title": "Nagykörű"
+	},
+	"Nagykutas": {
+		"id": 22178,
+		"title": "Nagykutas"
+	},
+	"Nagylak": {
+		"id": 12779,
+		"title": "Nagylak"
+	},
+	"Nagylengyel": {
+		"id": 4455,
+		"title": "Nagylengyel"
+	},
+	"Nagylóc": {
+		"id": 21102,
+		"title": "Nagylóc"
+	},
+	"Nagylók": {
+		"id": 32364,
+		"title": "Nagylók"
+	},
+	"Nagylózs": {
+		"id": 32939,
+		"title": "Nagylózs"
+	},
+	"Nagymágocs": {
+		"id": 17233,
+		"title": "Nagymágocs"
+	},
+	"Nagymányok": {
+		"id": 14030,
+		"title": "Nagymányok"
+	},
+	"Nagymaros": {
+		"id": 31732,
+		"title": "Nagymaros"
+	},
+	"Nagymizdó": {
+		"id": 15060,
+		"title": "Nagymizdó"
+	},
+	"Nagynyárád": {
+		"id": 14650,
+		"title": "Nagynyárád"
+	},
+	"Nagyoroszi": {
+		"id": 23986,
+		"title": "Nagyoroszi"
+	},
+	"Nagypáli": {
+		"id": 28468,
+		"title": "Nagypáli"
+	},
+	"Nagypall": {
+		"id": 19877,
+		"title": "Nagypall"
+	},
+	"Nagypeterd": {
+		"id": 27164,
+		"title": "Nagypeterd"
+	},
+	"Nagypirit": {
+		"id": 21403,
+		"title": "Nagypirit"
+	},
+	"Nagyrábé": {
+		"id": 6309,
+		"title": "Nagyrábé"
+	},
+	"Nagyrada": {
+		"id": 16513,
+		"title": "Nagyrada"
+	},
+	"Nagyrákos": {
+		"id": 29869,
+		"title": "Nagyrákos"
+	},
+	"Nagyrécse": {
+		"id": 14979,
+		"title": "Nagyrécse"
+	},
+	"Nagyréde": {
+		"id": 31486,
+		"title": "Nagyréde"
+	},
+	"Nagyrév": {
+		"id": 6318,
+		"title": "Nagyrév"
+	},
+	"Nagyrozvágy": {
+		"id": 33181,
+		"title": "Nagyrozvágy"
+	},
+	"Nagysáp": {
+		"id": 27076,
+		"title": "Nagysáp"
+	},
+	"Nagysimonyi": {
+		"id": 26143,
+		"title": "Nagysimonyi"
+	},
+	"Nagyszakácsi": {
+		"id": 25520,
+		"title": "Nagyszakácsi"
+	},
+	"Nagyszékely": {
+		"id": 6761,
+		"title": "Nagyszékely"
+	},
+	"Nagyszekeres": {
+		"id": 27988,
+		"title": "Nagyszekeres"
+	},
+	"Nagyszénás": {
+		"id": 8244,
+		"title": "Nagyszénás"
+	},
+	"Nagyszentjános": {
+		"id": 33543,
+		"title": "Nagyszentjános"
+	},
+	"Nagyszokoly": {
+		"id": 13709,
+		"title": "Nagyszokoly"
+	},
+	"Nagytálya": {
+		"id": 27605,
+		"title": "Nagytálya"
+	},
+	"Nagytarcsa": {
+		"id": 23409,
+		"title": "Nagytarcsa"
+	},
+	"Nagytevel": {
+		"id": 25201,
+		"title": "Nagytevel"
+	},
+	"Nagytilaj": {
+		"id": 24837,
+		"title": "Nagytilaj"
+	},
+	"Nagytótfalu": {
+		"id": 28927,
+		"title": "Nagytótfalu"
+	},
+	"Nagytőke": {
+		"id": 29179,
+		"title": "Nagytőke"
+	},
+	"Nagyút": {
+		"id": 10418,
+		"title": "Nagyút"
+	},
+	"Nagyvarsány": {
+		"id": 33783,
+		"title": "Nagyvarsány"
+	},
+	"Nagyváty": {
+		"id": 14191,
+		"title": "Nagyváty"
+	},
+	"Nagyvázsony": {
+		"id": 19196,
+		"title": "Nagyvázsony"
+	},
+	"Nagyvejke": {
+		"id": 16452,
+		"title": "Nagyvejke"
+	},
+	"Nagyveleg": {
+		"id": 23588,
+		"title": "Nagyveleg"
+	},
+	"Nagyvenyim": {
+		"id": 26134,
+		"title": "Nagyvenyim"
+	},
+	"Nagyvisnyó": {
+		"id": 28282,
+		"title": "Nagyvisnyó"
+	},
+	"Nak": {
+		"id": 2796,
+		"title": "Nak"
+	},
+	"Napkor": {
+		"id": 8420,
+		"title": "Napkor"
+	},
+	"Nárai": {
+		"id": 17367,
+		"title": "Nárai"
+	},
+	"Narda": {
+		"id": 2042,
+		"title": "Narda"
+	},
+	"Naszály": {
+		"id": 20163,
+		"title": "Naszály"
+	},
+	"Négyes": {
+		"id": 24156,
+		"title": "Négyes"
+	},
+	"Nekézseny": {
+		"id": 28033,
+		"title": "Nekézseny"
+	},
+	"Nemesapáti": {
+		"id": 6169,
+		"title": "Nemesapáti"
+	},
+	"Nemesbikk": {
+		"id": 5245,
+		"title": "Nemesbikk"
+	},
+	"Nemesborzova": {
+		"id": 27119,
+		"title": "Nemesborzova"
+	},
+	"Nemesbőd": {
+		"id": 24509,
+		"title": "Nemesbőd"
+	},
+	"Nemesbük": {
+		"id": 32948,
+		"title": "Nemesbük"
+	},
+	"Nemescsó": {
+		"id": 23320,
+		"title": "Nemescsó"
+	},
+	"Nemesdéd": {
+		"id": 7913,
+		"title": "Nemesdéd"
+	},
+	"Nemesgörzsöny": {
+		"id": 5652,
+		"title": "Nemesgörzsöny"
+	},
+	"Nemesgulács": {
+		"id": 2787,
+		"title": "Nemesgulács"
+	},
+	"Nemeshany": {
+		"id": 5555,
+		"title": "Nemeshany"
+	},
+	"Nemeshetés": {
+		"id": 7658,
+		"title": "Nemeshetés"
+	},
+	"Nemeske": {
+		"id": 18236,
+		"title": "Nemeske"
+	},
+	"Nemeskér": {
+		"id": 29328,
+		"title": "Nemeskér"
+	},
+	"Nemeskeresztúr": {
+		"id": 3674,
+		"title": "Nemeskeresztúr"
+	},
+	"Nemeskisfalud": {
+		"id": 25511,
+		"title": "Nemeskisfalud"
+	},
+	"Nemeskocs": {
+		"id": 2839,
+		"title": "Nemeskocs"
+	},
+	"Nemeskolta": {
+		"id": 24059,
+		"title": "Nemeskolta"
+	},
+	"Nemesládony": {
+		"id": 26240,
+		"title": "Nemesládony"
+	},
+	"Nemesmedves": {
+		"id": 31556,
+		"title": "Nemesmedves"
+	},
+	"Nemesnádudvar": {
+		"id": 32540,
+		"title": "Nemesnádudvar"
+	},
+	"Nemesnép": {
+		"id": 32665,
+		"title": "Nemesnép"
+	},
+	"Nemespátró": {
+		"id": 19859,
+		"title": "Nemespátró"
+	},
+	"Nemesrádó": {
+		"id": 18023,
+		"title": "Nemesrádó"
+	},
+	"Nemesrempehollós": {
+		"id": 9672,
+		"title": "Nemesrempehollós"
+	},
+	"Nemessándorháza": {
+		"id": 25609,
+		"title": "Nemessándorháza"
+	},
+	"Nemesvámos": {
+		"id": 2194,
+		"title": "Nemesvámos"
+	},
+	"Nemesvid": {
+		"id": 17561,
+		"title": "Nemesvid"
+	},
+	"Nemesvita": {
+		"id": 28422,
+		"title": "Nemesvita"
+	},
+	"Nemesszalók": {
+		"id": 21759,
+		"title": "Nemesszalók"
+	},
+	"Nemesszentandrás": {
+		"id": 8059,
+		"title": "Nemesszentandrás"
+	},
+	"Németbánya": {
+		"id": 10409,
+		"title": "Németbánya"
+	},
+	"Németfalu": {
+		"id": 25414,
+		"title": "Németfalu"
+	},
+	"Németkér": {
+		"id": 15006,
+		"title": "Németkér"
+	},
+	"Nemti": {
+		"id": 27580,
+		"title": "Nemti"
+	},
+	"Neszmély": {
+		"id": 33826,
+		"title": "Neszmély"
+	},
+	"Nézsa": {
+		"id": 9797,
+		"title": "Nézsa"
+	},
+	"Nick": {
+		"id": 10843,
+		"title": "Nick"
+	},
+	"Nikla": {
+		"id": 10959,
+		"title": "Nikla"
+	},
+	"Nógrád": {
+		"id": 4358,
+		"title": "Nógrád"
+	},
+	"Nógrádkövesd": {
+		"id": 32300,
+		"title": "Nógrádkövesd"
+	},
+	"Nógrádmarcal": {
+		"id": 29832,
+		"title": "Nógrádmarcal"
+	},
+	"Nógrádmegyer": {
+		"id": 12131,
+		"title": "Nógrádmegyer"
+	},
+	"Nógrádsáp": {
+		"id": 8387,
+		"title": "Nógrádsáp"
+	},
+	"Nógrádsipek": {
+		"id": 19497,
+		"title": "Nógrádsipek"
+	},
+	"Nógrádszakál": {
+		"id": 27340,
+		"title": "Nógrádszakál"
+	},
+	"Nóráp": {
+		"id": 26523,
+		"title": "Nóráp"
+	},
+	"Noszlop": {
+		"id": 14757,
+		"title": "Noszlop"
+	},
+	"Noszvaj": {
+		"id": 18810,
+		"title": "Noszvaj"
+	},
+	"Nova": {
+		"id": 3355,
+		"title": "Nova"
+	},
+	"Novaj": {
+		"id": 29276,
+		"title": "Novaj"
+	},
+	"Novajidrány": {
+		"id": 27191,
+		"title": "Novajidrány"
+	},
+	"Nőtincs": {
+		"id": 29425,
+		"title": "Nőtincs"
+	},
+	"Nyalka": {
+		"id": 19752,
+		"title": "Nyalka"
+	},
+	"Nyárád": {
+		"id": 29009,
+		"title": "Nyárád"
+	},
+	"Nyáregyháza": {
+		"id": 23038,
+		"title": "Nyáregyháza"
+	},
+	"Nyárlőrinc": {
+		"id": 23056,
+		"title": "Nyárlőrinc"
+	},
+	"Nyársapát": {
+		"id": 20066,
+		"title": "Nyársapát"
+	},
+	"Nyékládháza": {
+		"id": 12885,
+		"title": "Nyékládháza"
+	},
+	"Nyergesújfalu": {
+		"id": 15352,
+		"title": "Nyergesújfalu"
+	},
+	"Nyésta": {
+		"id": 4419,
+		"title": "Nyésta"
+	},
+	"Nyim": {
+		"id": 3203,
+		"title": "Nyim"
+	},
+	"Nyírábrány": {
+		"id": 32294,
+		"title": "Nyírábrány"
+	},
+	"Nyíracsád": {
+		"id": 14003,
+		"title": "Nyíracsád"
+	},
+	"Nyirád": {
+		"id": 24004,
+		"title": "Nyirád"
+	},
+	"Nyíradony": {
+		"id": 6187,
+		"title": "Nyíradony"
+	},
+	"Nyírbátor": {
+		"id": 14845,
+		"title": "Nyírbátor"
+	},
+	"Nyírbéltek": {
+		"id": 15802,
+		"title": "Nyírbéltek"
+	},
+	"Nyírbogát": {
+		"id": 31158,
+		"title": "Nyírbogát"
+	},
+	"Nyírbogdány": {
+		"id": 28802,
+		"title": "Nyírbogdány"
+	},
+	"Nyírcsaholy": {
+		"id": 7904,
+		"title": "Nyírcsaholy"
+	},
+	"Nyírcsászári": {
+		"id": 25973,
+		"title": "Nyírcsászári"
+	},
+	"Nyírderzs": {
+		"id": 5041,
+		"title": "Nyírderzs"
+	},
+	"Nyíregyháza": {
+		"id": 17206,
+		"title": "Nyíregyháza"
+	},
+	"Nyírgelse": {
+		"id": 28440,
+		"title": "Nyírgelse"
+	},
+	"Nyírgyulaj": {
+		"id": 9238,
+		"title": "Nyírgyulaj"
+	},
+	"Nyíri": {
+		"id": 26435,
+		"title": "Nyíri"
+	},
+	"Nyíribrony": {
+		"id": 14696,
+		"title": "Nyíribrony"
+	},
+	"Nyírjákó": {
+		"id": 31477,
+		"title": "Nyírjákó"
+	},
+	"Nyírkarász": {
+		"id": 18290,
+		"title": "Nyírkarász"
+	},
+	"Nyírkáta": {
+		"id": 32452,
+		"title": "Nyírkáta"
+	},
+	"Nyírkércs": {
+		"id": 25928,
+		"title": "Nyírkércs"
+	},
+	"Nyírlövő": {
+		"id": 11095,
+		"title": "Nyírlövő"
+	},
+	"Nyírlugos": {
+		"id": 11271,
+		"title": "Nyírlugos"
+	},
+	"Nyírmada": {
+		"id": 12274,
+		"title": "Nyírmada"
+	},
+	"Nyírmártonfalva": {
+		"id": 32382,
+		"title": "Nyírmártonfalva"
+	},
+	"Nyírmeggyes": {
+		"id": 23269,
+		"title": "Nyírmeggyes"
+	},
+	"Nyírmihálydi": {
+		"id": 26365,
+		"title": "Nyírmihálydi"
+	},
+	"Nyírparasznya": {
+		"id": 10807,
+		"title": "Nyírparasznya"
+	},
+	"Nyírpazony": {
+		"id": 33145,
+		"title": "Nyírpazony"
+	},
+	"Nyírpilis": {
+		"id": 3878,
+		"title": "Nyírpilis"
+	},
+	"Nyírtass": {
+		"id": 28060,
+		"title": "Nyírtass"
+	},
+	"Nyírtelek": {
+		"id": 13550,
+		"title": "Nyírtelek"
+	},
+	"Nyírtét": {
+		"id": 9256,
+		"title": "Nyírtét"
+	},
+	"Nyírtura": {
+		"id": 12098,
+		"title": "Nyírtura"
+	},
+	"Nyírvasvári": {
+		"id": 16522,
+		"title": "Nyírvasvári"
+	},
+	"Nyomár": {
+		"id": 4215,
+		"title": "Nyomár"
+	},
+	"Nyőgér": {
+		"id": 22318,
+		"title": "Nyőgér"
+	},
+	"Nyugotszenterzsébet": {
+		"id": 26329,
+		"title": "Nyugotszenterzsébet"
+	},
+	"Nyúl": {
+		"id": 12955,
+		"title": "Nyúl"
+	},
+	"Óbánya": {
+		"id": 12645,
+		"title": "Óbánya"
+	},
+	"Óbarok": {
+		"id": 34306,
+		"title": "Óbarok"
+	},
+	"Óbudavár": {
+		"id": 23913,
+		"title": "Óbudavár"
+	},
+	"Ócsa": {
+		"id": 4075,
+		"title": "Ócsa"
+	},
+	"Ócsárd": {
+		"id": 3780,
+		"title": "Ócsárd"
+	},
+	"Ófalu": {
+		"id": 19646,
+		"title": "Ófalu"
+	},
+	"Ófehértó": {
+		"id": 22284,
+		"title": "Ófehértó"
+	},
+	"Óföldeák": {
+		"id": 7755,
+		"title": "Óföldeák"
+	},
+	"Óhid": {
+		"id": 27775,
+		"title": "Óhid"
+	},
+	"Okány": {
+		"id": 19257,
+		"title": "Okány"
+	},
+	"Okorág": {
+		"id": 20686,
+		"title": "Okorág"
+	},
+	"Okorvölgy": {
+		"id": 8341,
+		"title": "Okorvölgy"
+	},
+	"Olasz": {
+		"id": 18555,
+		"title": "Olasz"
+	},
+	"Olaszfa": {
+		"id": 19743,
+		"title": "Olaszfa"
+	},
+	"Olaszfalu": {
+		"id": 26514,
+		"title": "Olaszfalu"
+	},
+	"Olaszliszka": {
+		"id": 31778,
+		"title": "Olaszliszka"
+	},
+	"Olcsva": {
+		"id": 11129,
+		"title": "Olcsva"
+	},
+	"Olcsvaapáti": {
+		"id": 10834,
+		"title": "Olcsvaapáti"
+	},
+	"Old": {
+		"id": 21704,
+		"title": "Old"
+	},
+	"Ólmod": {
+		"id": 22044,
+		"title": "Ólmod"
+	},
+	"Oltárc": {
+		"id": 25478,
+		"title": "Oltárc"
+	},
+	"Onga": {
+		"id": 22558,
+		"title": "Onga"
+	},
+	"Ónod": {
+		"id": 22628,
+		"title": "Ónod"
+	},
+	"Ópályi": {
+		"id": 27924,
+		"title": "Ópályi"
+	},
+	"Ópusztaszer": {
+		"id": 12797,
+		"title": "Ópusztaszer"
+	},
+	"Orbányosfa": {
+		"id": 20835,
+		"title": "Orbányosfa"
+	},
+	"Orci": {
+		"id": 24536,
+		"title": "Orci"
+	},
+	"Ordacsehi": {
+		"id": 16823,
+		"title": "Ordacsehi"
+	},
+	"Ordas": {
+		"id": 16276,
+		"title": "Ordas"
+	},
+	"Orfalu": {
+		"id": 17093,
+		"title": "Orfalu"
+	},
+	"Orfű": {
+		"id": 11730,
+		"title": "Orfű"
+	},
+	"Orgovány": {
+		"id": 16939,
+		"title": "Orgovány"
+	},
+	"Ormándlak": {
+		"id": 22497,
+		"title": "Ormándlak"
+	},
+	"Ormosbánya": {
+		"id": 34069,
+		"title": "Ormosbánya"
+	},
+	"Orosháza": {
+		"id": 23065,
+		"title": "Orosháza"
+	},
+	"Oroszi": {
+		"id": 16595,
+		"title": "Oroszi"
+	},
+	"Oroszlány": {
+		"id": 30766,
+		"title": "Oroszlány"
+	},
+	"Oroszló": {
+		"id": 4482,
+		"title": "Oroszló"
+	},
+	"Orosztony": {
+		"id": 25052,
+		"title": "Orosztony"
+	},
+	"Ortaháza": {
+		"id": 4950,
+		"title": "Ortaháza"
+	},
+	"Osli": {
+		"id": 15121,
+		"title": "Osli"
+	},
+	"Ostffyasszonyfa": {
+		"id": 32629,
+		"title": "Ostffyasszonyfa"
+	},
+	"Ostoros": {
+		"id": 27216,
+		"title": "Ostoros"
+	},
+	"Oszkó": {
+		"id": 7667,
+		"title": "Oszkó"
+	},
+	"Oszlár": {
+		"id": 2866,
+		"title": "Oszlár"
+	},
+	"Osztopán": {
+		"id": 19770,
+		"title": "Osztopán"
+	},
+	"Ózd": {
+		"id": 14492,
+		"title": "Ózd"
+	},
+	"Ózdfalu": {
+		"id": 18661,
+		"title": "Ózdfalu"
+	},
+	"Ozmánbük": {
+		"id": 18953,
+		"title": "Ozmánbük"
+	},
+	"Ozora": {
+		"id": 5661,
+		"title": "Ozora"
+	},
+	"Öcs": {
+		"id": 28112,
+		"title": "Öcs"
+	},
+	"Őcsény": {
+		"id": 8961,
+		"title": "Őcsény"
+	},
+	"Öcsöd": {
+		"id": 28006,
+		"title": "Öcsöd"
+	},
+	"Ököritófülpös": {
+		"id": 31769,
+		"title": "Ököritófülpös"
+	},
+	"Ölbő": {
+		"id": 12043,
+		"title": "Ölbő"
+	},
+	"Ömböly": {
+		"id": 26550,
+		"title": "Ömböly"
+	},
+	"Őr": {
+		"id": 9025,
+		"title": "Őr"
+	},
+	"Őrbottyán": {
+		"id": 8545,
+		"title": "Őrbottyán"
+	},
+	"Öregcsertő": {
+		"id": 8679,
+		"title": "Öregcsertő"
+	},
+	"Öreglak": {
+		"id": 7056,
+		"title": "Öreglak"
+	},
+	"Őrhalom": {
+		"id": 3249,
+		"title": "Őrhalom"
+	},
+	"Őrimagyarósd": {
+		"id": 13453,
+		"title": "Őrimagyarósd"
+	},
+	"Őriszentpéter": {
+		"id": 10630,
+		"title": "Őriszentpéter"
+	},
+	"Örkény": {
+		"id": 5281,
+		"title": "Örkény"
+	},
+	"Örményes": {
+		"id": 29382,
+		"title": "Örményes"
+	},
+	"Örménykút": {
+		"id": 27438,
+		"title": "Örménykút"
+	},
+	"Őrtilos": {
+		"id": 14012,
+		"title": "Őrtilos"
+	},
+	"Örvényes": {
+		"id": 10092,
+		"title": "Örvényes"
+	},
+	"Ősagárd": {
+		"id": 19318,
+		"title": "Ősagárd"
+	},
+	"Ősi": {
+		"id": 24068,
+		"title": "Ősi"
+	},
+	"Öskü": {
+		"id": 25450,
+		"title": "Öskü"
+	},
+	"Öttevény": {
+		"id": 2635,
+		"title": "Öttevény"
+	},
+	"Öttömös": {
+		"id": 31079,
+		"title": "Öttömös"
+	},
+	"Ötvöskónyi": {
+		"id": 32115,
+		"title": "Ötvöskónyi"
+	},
+	"Pácin": {
+		"id": 15893,
+		"title": "Pácin"
+	},
+	"Pacsa": {
+		"id": 31741,
+		"title": "Pacsa"
+	},
+	"Pácsony": {
+		"id": 7162,
+		"title": "Pácsony"
+	},
+	"Padár": {
+		"id": 24776,
+		"title": "Padár"
+	},
+	"Páhi": {
+		"id": 18670,
+		"title": "Páhi"
+	},
+	"Páka": {
+		"id": 29160,
+		"title": "Páka"
+	},
+	"Pakod": {
+		"id": 24271,
+		"title": "Pakod"
+	},
+	"Pákozd": {
+		"id": 25751,
+		"title": "Pákozd"
+	},
+	"Paks": {
+		"id": 4862,
+		"title": "Paks"
+	},
+	"Palé": {
+		"id": 23764,
+		"title": "Palé"
+	},
+	"Pálfa": {
+		"id": 9371,
+		"title": "Pálfa"
+	},
+	"Pálfiszeg": {
+		"id": 14720,
+		"title": "Pálfiszeg"
+	},
+	"Pálháza": {
+		"id": 12362,
+		"title": "Pálháza"
+	},
+	"Páli": {
+		"id": 19637,
+		"title": "Páli"
+	},
+	"Palkonya": {
+		"id": 7153,
+		"title": "Palkonya"
+	},
+	"Pálmajor": {
+		"id": 34041,
+		"title": "Pálmajor"
+	},
+	"Pálmonostora": {
+		"id": 2705,
+		"title": "Pálmonostora"
+	},
+	"Palotabozsok": {
+		"id": 10135,
+		"title": "Palotabozsok"
+	},
+	"Palotás": {
+		"id": 5883,
+		"title": "Palotás"
+	},
+	"Paloznak": {
+		"id": 17011,
+		"title": "Paloznak"
+	},
+	"Pamlény": {
+		"id": 12371,
+		"title": "Pamlény"
+	},
+	"Pamuk": {
+		"id": 26392,
+		"title": "Pamuk"
+	},
+	"Pánd": {
+		"id": 22248,
+		"title": "Pánd"
+	},
+	"Pankasz": {
+		"id": 23108,
+		"title": "Pankasz"
+	},
+	"Pannonhalma": {
+		"id": 24305,
+		"title": "Pannonhalma"
+	},
+	"Pányok": {
+		"id": 24730,
+		"title": "Pányok"
+	},
+	"Panyola": {
+		"id": 29559,
+		"title": "Panyola"
+	},
+	"Pap": {
+		"id": 27748,
+		"title": "Pap"
+	},
+	"Pápa": {
+		"id": 31945,
+		"title": "Pápa"
+	},
+	"Pápadereske": {
+		"id": 19868,
+		"title": "Pápadereske"
+	},
+	"Pápakovácsi": {
+		"id": 11855,
+		"title": "Pápakovácsi"
+	},
+	"Pápasalamon": {
+		"id": 21607,
+		"title": "Pápasalamon"
+	},
+	"Pápateszér": {
+		"id": 31255,
+		"title": "Pápateszér"
+	},
+	"Papkeszi": {
+		"id": 7348,
+		"title": "Papkeszi"
+	},
+	"Pápoc": {
+		"id": 14067,
+		"title": "Pápoc"
+	},
+	"Papos": {
+		"id": 32577,
+		"title": "Papos"
+	},
+	"Páprád": {
+		"id": 7010,
+		"title": "Páprád"
+	},
+	"Parád": {
+		"id": 7436,
+		"title": "Parád"
+	},
+	"Parádsasvár": {
+		"id": 20215,
+		"title": "Parádsasvár"
+	},
+	"Parasznya": {
+		"id": 26745,
+		"title": "Parasznya"
+	},
+	"Paszab": {
+		"id": 31972,
+		"title": "Paszab"
+	},
+	"Pásztó": {
+		"id": 7409,
+		"title": "Pásztó"
+	},
+	"Pásztori": {
+		"id": 23481,
+		"title": "Pásztori"
+	},
+	"Pat": {
+		"id": 29656,
+		"title": "Pat"
+	},
+	"Patak": {
+		"id": 7199,
+		"title": "Patak"
+	},
+	"Patalom": {
+		"id": 6141,
+		"title": "Patalom"
+	},
+	"Patapoklosi": {
+		"id": 17792,
+		"title": "Patapoklosi"
+	},
+	"Patca": {
+		"id": 12168,
+		"title": "Patca"
+	},
+	"Pátka": {
+		"id": 28848,
+		"title": "Pátka"
+	},
+	"Patosfa": {
+		"id": 15592,
+		"title": "Patosfa"
+	},
+	"Pátroha": {
+		"id": 12186,
+		"title": "Pátroha"
+	},
+	"Patvarc": {
+		"id": 33880,
+		"title": "Patvarc"
+	},
+	"Páty": {
+		"id": 15024,
+		"title": "Páty"
+	},
+	"Pátyod": {
+		"id": 23685,
+		"title": "Pátyod"
+	},
+	"Pázmánd": {
+		"id": 21786,
+		"title": "Pázmánd"
+	},
+	"Pázmándfalu": {
+		"id": 12715,
+		"title": "Pázmándfalu"
+	},
+	"Pécel": {
+		"id": 4057,
+		"title": "Pécel"
+	},
+	"Pecöl": {
+		"id": 14988,
+		"title": "Pecöl"
+	},
+	"Pécs": {
+		"id": 19415,
+		"title": "Pécs"
+	},
+	"Pécsbagota": {
+		"id": 21519,
+		"title": "Pécsbagota"
+	},
+	"Pécsdevecser": {
+		"id": 15389,
+		"title": "Pécsdevecser"
+	},
+	"Pécsely": {
+		"id": 22451,
+		"title": "Pécsely"
+	},
+	"Pécsudvard": {
+		"id": 21096,
+		"title": "Pécsudvard"
+	},
+	"Pécsvárad": {
+		"id": 10825,
+		"title": "Pécsvárad"
+	},
+	"Pellérd": {
+		"id": 16115,
+		"title": "Pellérd"
+	},
+	"Pély": {
+		"id": 19567,
+		"title": "Pély"
+	},
+	"Penc": {
+		"id": 18689,
+		"title": "Penc"
+	},
+	"Penészlek": {
+		"id": 17084,
+		"title": "Penészlek"
+	},
+	"Pénzesgyőr": {
+		"id": 15547,
+		"title": "Pénzesgyőr"
+	},
+	"Penyige": {
+		"id": 32692,
+		"title": "Penyige"
+	},
+	"Pér": {
+		"id": 15529,
+		"title": "Pér"
+	},
+	"Perbál": {
+		"id": 28185,
+		"title": "Perbál"
+	},
+	"Pere": {
+		"id": 24420,
+		"title": "Pere"
+	},
+	"Perecse": {
+		"id": 32683,
+		"title": "Perecse"
+	},
+	"Pereked": {
+		"id": 12867,
+		"title": "Pereked"
+	},
+	"Perenye": {
+		"id": 13684,
+		"title": "Perenye"
+	},
+	"Peresznye": {
+		"id": 8882,
+		"title": "Peresznye"
+	},
+	"Pereszteg": {
+		"id": 23773,
+		"title": "Pereszteg"
+	},
+	"Perkáta": {
+		"id": 19354,
+		"title": "Perkáta"
+	},
+	"Perkupa": {
+		"id": 33419,
+		"title": "Perkupa"
+	},
+	"Perőcsény": {
+		"id": 4181,
+		"title": "Perőcsény"
+	},
+	"Peterd": {
+		"id": 32425,
+		"title": "Peterd"
+	},
+	"Péterhida": {
+		"id": 29197,
+		"title": "Péterhida"
+	},
+	"Péteri": {
+		"id": 21847,
+		"title": "Péteri"
+	},
+	"Pétervására": {
+		"id": 12070,
+		"title": "Pétervására"
+	},
+	"Pétfürdő": {
+		"id": 34254,
+		"title": "Pétfürdő"
+	},
+	"Pethőhenye": {
+		"id": 5704,
+		"title": "Pethőhenye"
+	},
+	"Petneháza": {
+		"id": 17224,
+		"title": "Petneháza"
+	},
+	"Petőfibánya": {
+		"id": 33686,
+		"title": "Petőfibánya"
+	},
+	"Petőfiszállás": {
+		"id": 15431,
+		"title": "Petőfiszállás"
+	},
+	"Petőháza": {
+		"id": 22831,
+		"title": "Petőháza"
+	},
+	"Petőmihályfa": {
+		"id": 11572,
+		"title": "Petőmihályfa"
+	},
+	"Petrikeresztúr": {
+		"id": 19178,
+		"title": "Petrikeresztúr"
+	},
+	"Petrivente": {
+		"id": 30757,
+		"title": "Petrivente"
+	},
+	"Pettend": {
+		"id": 29762,
+		"title": "Pettend"
+	},
+	"Piliny": {
+		"id": 11590,
+		"title": "Piliny"
+	},
+	"Pilis": {
+		"id": 9821,
+		"title": "Pilis"
+	},
+	"Pilisborosjenő": {
+		"id": 29601,
+		"title": "Pilisborosjenő"
+	},
+	"Piliscsaba": {
+		"id": 7144,
+		"title": "Piliscsaba"
+	},
+	"Piliscsév": {
+		"id": 21874,
+		"title": "Piliscsév"
+	},
+	"Pilisjászfalu": {
+		"id": 34148,
+		"title": "Pilisjászfalu"
+	},
+	"Pilismarót": {
+		"id": 14669,
+		"title": "Pilismarót"
+	},
+	"Pilisvörösvár": {
+		"id": 14340,
+		"title": "Pilisvörösvár"
+	},
+	"Pilisszántó": {
+		"id": 5290,
+		"title": "Pilisszántó"
+	},
+	"Pilisszentiván": {
+		"id": 11396,
+		"title": "Pilisszentiván"
+	},
+	"Pilisszentkereszt": {
+		"id": 18731,
+		"title": "Pilisszentkereszt"
+	},
+	"Pilisszentlászló": {
+		"id": 8457,
+		"title": "Pilisszentlászló"
+	},
+	"Pincehely": {
+		"id": 19585,
+		"title": "Pincehely"
+	},
+	"Pinkamindszent": {
+		"id": 6248,
+		"title": "Pinkamindszent"
+	},
+	"Pinnye": {
+		"id": 14687,
+		"title": "Pinnye"
+	},
+	"Piricse": {
+		"id": 3391,
+		"title": "Piricse"
+	},
+	"Pirtó": {
+		"id": 15398,
+		"title": "Pirtó"
+	},
+	"Piskó": {
+		"id": 23506,
+		"title": "Piskó"
+	},
+	"Pitvaros": {
+		"id": 6284,
+		"title": "Pitvaros"
+	},
+	"Pócsa": {
+		"id": 22266,
+		"title": "Pócsa"
+	},
+	"Pocsaj": {
+		"id": 11837,
+		"title": "Pocsaj"
+	},
+	"Pócsmegyer": {
+		"id": 4905,
+		"title": "Pócsmegyer"
+	},
+	"Pócspetri": {
+		"id": 11244,
+		"title": "Pócspetri"
+	},
+	"Pogány": {
+		"id": 17242,
+		"title": "Pogány"
+	},
+	"Pogányszentpéter": {
+		"id": 27553,
+		"title": "Pogányszentpéter"
+	},
+	"Pókaszepetk": {
+		"id": 21050,
+		"title": "Pókaszepetk"
+	},
+	"Polány": {
+		"id": 13790,
+		"title": "Polány"
+	},
+	"Polgár": {
+		"id": 23117,
+		"title": "Polgár"
+	},
+	"Polgárdi": {
+		"id": 17525,
+		"title": "Polgárdi"
+	},
+	"Pomáz": {
+		"id": 6372,
+		"title": "Pomáz"
+	},
+	"Porcsalma": {
+		"id": 17215,
+		"title": "Porcsalma"
+	},
+	"Pornóapáti": {
+		"id": 20367,
+		"title": "Pornóapáti"
+	},
+	"Poroszló": {
+		"id": 22196,
+		"title": "Poroszló"
+	},
+	"Porpác": {
+		"id": 29896,
+		"title": "Porpác"
+	},
+	"Porrog": {
+		"id": 11828,
+		"title": "Porrog"
+	},
+	"Porrogszentkirály": {
+		"id": 13930,
+		"title": "Porrogszentkirály"
+	},
+	"Porrogszentpál": {
+		"id": 28510,
+		"title": "Porrogszentpál"
+	},
+	"Pórszombat": {
+		"id": 16850,
+		"title": "Pórszombat"
+	},
+	"Porva": {
+		"id": 23515,
+		"title": "Porva"
+	},
+	"Pósfa": {
+		"id": 15671,
+		"title": "Pósfa"
+	},
+	"Potony": {
+		"id": 28361,
+		"title": "Potony"
+	},
+	"Potyond": {
+		"id": 27304,
+		"title": "Potyond"
+	},
+	"Pölöske": {
+		"id": 9867,
+		"title": "Pölöske"
+	},
+	"Pölöskefő": {
+		"id": 31112,
+		"title": "Pölöskefő"
+	},
+	"Pörböly": {
+		"id": 33570,
+		"title": "Pörböly"
+	},
+	"Pördefölde": {
+		"id": 32513,
+		"title": "Pördefölde"
+	},
+	"Pötréte": {
+		"id": 24660,
+		"title": "Pötréte"
+	},
+	"Prügy": {
+		"id": 21272,
+		"title": "Prügy"
+	},
+	"Pula": {
+		"id": 11420,
+		"title": "Pula"
+	},
+	"Pusztaapáti": {
+		"id": 16920,
+		"title": "Pusztaapáti"
+	},
+	"Pusztaberki": {
+		"id": 17862,
+		"title": "Pusztaberki"
+	},
+	"Pusztacsalád": {
+		"id": 31370,
+		"title": "Pusztacsalád"
+	},
+	"Pusztacsó": {
+		"id": 10311,
+		"title": "Pusztacsó"
+	},
+	"Pusztadobos": {
+		"id": 13860,
+		"title": "Pusztadobos"
+	},
+	"Pusztaederics": {
+		"id": 27465,
+		"title": "Pusztaederics"
+	},
+	"Pusztafalu": {
+		"id": 17048,
+		"title": "Pusztafalu"
+	},
+	"Pusztaföldvár": {
+		"id": 5397,
+		"title": "Pusztaföldvár"
+	},
+	"Pusztahencse": {
+		"id": 19938,
+		"title": "Pusztahencse"
+	},
+	"Pusztakovácsi": {
+		"id": 19026,
+		"title": "Pusztakovácsi"
+	},
+	"Pusztamagyaród": {
+		"id": 6530,
+		"title": "Pusztamagyaród"
+	},
+	"Pusztamérges": {
+		"id": 6354,
+		"title": "Pusztamérges"
+	},
+	"Pusztamiske": {
+		"id": 28972,
+		"title": "Pusztamiske"
+	},
+	"Pusztamonostor": {
+		"id": 15246,
+		"title": "Pusztamonostor"
+	},
+	"Pusztaottlaka": {
+		"id": 19594,
+		"title": "Pusztaottlaka"
+	},
+	"Pusztaradvány": {
+		"id": 15413,
+		"title": "Pusztaradvány"
+	},
+	"Pusztaszabolcs": {
+		"id": 29018,
+		"title": "Pusztaszabolcs"
+	},
+	"Pusztaszemes": {
+		"id": 23311,
+		"title": "Pusztaszemes"
+	},
+	"Pusztaszentlászló": {
+		"id": 26639,
+		"title": "Pusztaszentlászló"
+	},
+	"Pusztaszer": {
+		"id": 28592,
+		"title": "Pusztaszer"
+	},
+	"Pusztavacs": {
+		"id": 23083,
+		"title": "Pusztavacs"
+	},
+	"Pusztavám": {
+		"id": 17774,
+		"title": "Pusztavám"
+	},
+	"Pusztazámor": {
+		"id": 15583,
+		"title": "Pusztazámor"
+	},
+	"Putnok": {
+		"id": 27410,
+		"title": "Putnok"
+	},
+	"Püski": {
+		"id": 12964,
+		"title": "Püski"
+	},
+	"Püspökhatvan": {
+		"id": 21388,
+		"title": "Püspökhatvan"
+	},
+	"Püspökladány": {
+		"id": 10162,
+		"title": "Püspökladány"
+	},
+	"Püspökmolnári": {
+		"id": 7278,
+		"title": "Püspökmolnári"
+	},
+	"Püspökszilágy": {
+		"id": 4303,
+		"title": "Püspökszilágy"
+	},
+	"Rábacsanak": {
+		"id": 4792,
+		"title": "Rábacsanak"
+	},
+	"Rábacsécsény": {
+		"id": 33701,
+		"title": "Rábacsécsény"
+	},
+	"Rábagyarmat": {
+		"id": 26736,
+		"title": "Rábagyarmat"
+	},
+	"Rábahidvég": {
+		"id": 3197,
+		"title": "Rábahidvég"
+	},
+	"Rábakecöl": {
+		"id": 14793,
+		"title": "Rábakecöl"
+	},
+	"Rábapatona": {
+		"id": 25335,
+		"title": "Rábapatona"
+	},
+	"Rábapaty": {
+		"id": 26073,
+		"title": "Rábapaty"
+	},
+	"Rábapordány": {
+		"id": 24721,
+		"title": "Rábapordány"
+	},
+	"Rábasebes": {
+		"id": 20136,
+		"title": "Rábasebes"
+	},
+	"Rábaszentandrás": {
+		"id": 15273,
+		"title": "Rábaszentandrás"
+	},
+	"Rábaszentmihály": {
+		"id": 33710,
+		"title": "Rábaszentmihály"
+	},
+	"Rábaszentmiklós": {
+		"id": 17297,
+		"title": "Rábaszentmiklós"
+	},
+	"Rábatamási": {
+		"id": 15422,
+		"title": "Rábatamási"
+	},
+	"Rábatöttös": {
+		"id": 17996,
+		"title": "Rábatöttös"
+	},
+	"Rábcakapi": {
+		"id": 3753,
+		"title": "Rábcakapi"
+	},
+	"Rácalmás": {
+		"id": 9900,
+		"title": "Rácalmás"
+	},
+	"Ráckeresztúr": {
+		"id": 2015,
+		"title": "Ráckeresztúr"
+	},
+	"Ráckeve": {
+		"id": 17260,
+		"title": "Ráckeve"
+	},
+	"Rád": {
+		"id": 2370,
+		"title": "Rád"
+	},
+	"Rádfalva": {
+		"id": 11518,
+		"title": "Rádfalva"
+	},
+	"Rádóckölked": {
+		"id": 7551,
+		"title": "Rádóckölked"
+	},
+	"Radostyán": {
+		"id": 21193,
+		"title": "Radostyán"
+	},
+	"Ragály": {
+		"id": 6053,
+		"title": "Ragály"
+	},
+	"Rajka": {
+		"id": 26587,
+		"title": "Rajka"
+	},
+	"Rakaca": {
+		"id": 29717,
+		"title": "Rakaca"
+	},
+	"Rakacaszend": {
+		"id": 16133,
+		"title": "Rakacaszend"
+	},
+	"Rakamaz": {
+		"id": 14739,
+		"title": "Rakamaz"
+	},
+	"Rákóczibánya": {
+		"id": 34360,
+		"title": "Rákóczibánya"
+	},
+	"Rákóczifalva": {
+		"id": 14207,
+		"title": "Rákóczifalva"
+	},
+	"Rákócziújfalu": {
+		"id": 12423,
+		"title": "Rákócziújfalu"
+	},
+	"Ráksi": {
+		"id": 30863,
+		"title": "Ráksi"
+	},
+	"Ramocsa": {
+		"id": 14298,
+		"title": "Ramocsa"
+	},
+	"Ramocsaháza": {
+		"id": 31857,
+		"title": "Ramocsaháza"
+	},
+	"Rápolt": {
+		"id": 9061,
+		"title": "Rápolt"
+	},
+	"Raposka": {
+		"id": 3948,
+		"title": "Raposka"
+	},
+	"Rásonysápberencs": {
+		"id": 31909,
+		"title": "Rásonysápberencs"
+	},
+	"Rátka": {
+		"id": 12469,
+		"title": "Rátka"
+	},
+	"Rátót": {
+		"id": 23861,
+		"title": "Rátót"
+	},
+	"Ravazd": {
+		"id": 21801,
+		"title": "Ravazd"
+	},
+	"Recsk": {
+		"id": 9609,
+		"title": "Recsk"
+	},
+	"Réde": {
+		"id": 30012,
+		"title": "Réde"
+	},
+	"Rédics": {
+		"id": 31592,
+		"title": "Rédics"
+	},
+	"Regéc": {
+		"id": 8402,
+		"title": "Regéc"
+	},
+	"Regenye": {
+		"id": 25292,
+		"title": "Regenye"
+	},
+	"Regöly": {
+		"id": 15459,
+		"title": "Regöly"
+	},
+	"Rém": {
+		"id": 26310,
+		"title": "Rém"
+	},
+	"Remeteszőlős": {
+		"id": 34315,
+		"title": "Remeteszőlős"
+	},
+	"Répáshuta": {
+		"id": 31884,
+		"title": "Répáshuta"
+	},
+	"Répcelak": {
+		"id": 30881,
+		"title": "Répcelak"
+	},
+	"Répceszemere": {
+		"id": 14438,
+		"title": "Répceszemere"
+	},
+	"Répceszentgyörgy": {
+		"id": 28626,
+		"title": "Répceszentgyörgy"
+	},
+	"Répcevis": {
+		"id": 7746,
+		"title": "Répcevis"
+	},
+	"Resznek": {
+		"id": 17118,
+		"title": "Resznek"
+	},
+	"Rétalap": {
+		"id": 33969,
+		"title": "Rétalap"
+	},
+	"Rétközberencs": {
+		"id": 21573,
+		"title": "Rétközberencs"
+	},
+	"Rétság": {
+		"id": 23825,
+		"title": "Rétság"
+	},
+	"Révfülöp": {
+		"id": 5625,
+		"title": "Révfülöp"
+	},
+	"Révleányvár": {
+		"id": 9317,
+		"title": "Révleányvár"
+	},
+	"Rezi": {
+		"id": 23898,
+		"title": "Rezi"
+	},
+	"Ricse": {
+		"id": 19220,
+		"title": "Ricse"
+	},
+	"Rigács": {
+		"id": 25849,
+		"title": "Rigács"
+	},
+	"Rigyác": {
+		"id": 24138,
+		"title": "Rigyác"
+	},
+	"Rimóc": {
+		"id": 28884,
+		"title": "Rimóc"
+	},
+	"Rinyabesenyő": {
+		"id": 5078,
+		"title": "Rinyabesenyő"
+	},
+	"Rinyakovácsi": {
+		"id": 32674,
+		"title": "Rinyakovácsi"
+	},
+	"Rinyaszentkirály": {
+		"id": 26754,
+		"title": "Rinyaszentkirály"
+	},
+	"Rinyaújlak": {
+		"id": 20622,
+		"title": "Rinyaújlak"
+	},
+	"Rinyaújnép": {
+		"id": 20321,
+		"title": "Rinyaújnép"
+	},
+	"Rohod": {
+		"id": 24581,
+		"title": "Rohod"
+	},
+	"Románd": {
+		"id": 17507,
+		"title": "Románd"
+	},
+	"Romhány": {
+		"id": 12195,
+		"title": "Romhány"
+	},
+	"Romonya": {
+		"id": 24855,
+		"title": "Romonya"
+	},
+	"Rózsafa": {
+		"id": 4516,
+		"title": "Rózsafa"
+	},
+	"Rozsály": {
+		"id": 17428,
+		"title": "Rozsály"
+	},
+	"Rózsaszentmárton": {
+		"id": 27650,
+		"title": "Rózsaszentmárton"
+	},
+	"Röjtökmuzsaj": {
+		"id": 11068,
+		"title": "Röjtökmuzsaj"
+	},
+	"Rönök": {
+		"id": 26806,
+		"title": "Rönök"
+	},
+	"Röszke": {
+		"id": 13161,
+		"title": "Röszke"
+	},
+	"Rudabánya": {
+		"id": 23029,
+		"title": "Rudabánya"
+	},
+	"Rudolftelep": {
+		"id": 34120,
+		"title": "Rudolftelep"
+	},
+	"Rum": {
+		"id": 10597,
+		"title": "Rum"
+	},
+	"Ruzsa": {
+		"id": 3966,
+		"title": "Ruzsa"
+	},
+	"Ságújfalu": {
+		"id": 12520,
+		"title": "Ságújfalu"
+	},
+	"Ságvár": {
+		"id": 14942,
+		"title": "Ságvár"
+	},
+	"Sajóbábony": {
+		"id": 3504,
+		"title": "Sajóbábony"
+	},
+	"Sajóecseg": {
+		"id": 27331,
+		"title": "Sajóecseg"
+	},
+	"Sajógalgóc": {
+		"id": 10171,
+		"title": "Sajógalgóc"
+	},
+	"Sajóhidvég": {
+		"id": 3081,
+		"title": "Sajóhidvég"
+	},
+	"Sajóivánka": {
+		"id": 3212,
+		"title": "Sajóivánka"
+	},
+	"Sajókápolna": {
+		"id": 21670,
+		"title": "Sajókápolna"
+	},
+	"Sajókaza": {
+		"id": 14313,
+		"title": "Sajókaza"
+	},
+	"Sajókeresztúr": {
+		"id": 26949,
+		"title": "Sajókeresztúr"
+	},
+	"Sajólád": {
+		"id": 27173,
+		"title": "Sajólád"
+	},
+	"Sajólászlófalva": {
+		"id": 22479,
+		"title": "Sajólászlófalva"
+	},
+	"Sajómercse": {
+		"id": 15945,
+		"title": "Sajómercse"
+	},
+	"Sajónémeti": {
+		"id": 11332,
+		"title": "Sajónémeti"
+	},
+	"Sajóörös": {
+		"id": 8129,
+		"title": "Sajóörös"
+	},
+	"Sajópálfala": {
+		"id": 18537,
+		"title": "Sajópálfala"
+	},
+	"Sajópetri": {
+		"id": 16638,
+		"title": "Sajópetri"
+	},
+	"Sajópüspöki": {
+		"id": 23782,
+		"title": "Sajópüspöki"
+	},
+	"Sajósenye": {
+		"id": 8970,
+		"title": "Sajósenye"
+	},
+	"Sajószentpéter": {
+		"id": 16054,
+		"title": "Sajószentpéter"
+	},
+	"Sajószöged": {
+		"id": 30340,
+		"title": "Sajószöged"
+	},
+	"Sajóvámos": {
+		"id": 20738,
+		"title": "Sajóvámos"
+	},
+	"Sajóvelezd": {
+		"id": 27757,
+		"title": "Sajóvelezd"
+	},
+	"Sajtoskál": {
+		"id": 10579,
+		"title": "Sajtoskál"
+	},
+	"Salföld": {
+		"id": 30793,
+		"title": "Salföld"
+	},
+	"Salgótarján": {
+		"id": 25788,
+		"title": "Salgótarján"
+	},
+	"Salköveskút": {
+		"id": 18883,
+		"title": "Salköveskút"
+	},
+	"Salomvár": {
+		"id": 27720,
+		"title": "Salomvár"
+	},
+	"Sály": {
+		"id": 4729,
+		"title": "Sály"
+	},
+	"Sámod": {
+		"id": 18050,
+		"title": "Sámod"
+	},
+	"Sámsonháza": {
+		"id": 24572,
+		"title": "Sámsonháza"
+	},
+	"Sand": {
+		"id": 15556,
+		"title": "Sand"
+	},
+	"Sándorfalva": {
+		"id": 31705,
+		"title": "Sándorfalva"
+	},
+	"Sántos": {
+		"id": 31121,
+		"title": "Sántos"
+	},
+	"Sáp": {
+		"id": 26116,
+		"title": "Sáp"
+	},
+	"Sáránd": {
+		"id": 25007,
+		"title": "Sáránd"
+	},
+	"Sárazsadány": {
+		"id": 20516,
+		"title": "Sárazsadány"
+	},
+	"Sárbogárd": {
+		"id": 23694,
+		"title": "Sárbogárd"
+	},
+	"Sáregres": {
+		"id": 2723,
+		"title": "Sáregres"
+	},
+	"Sárfimizdó": {
+		"id": 9788,
+		"title": "Sárfimizdó"
+	},
+	"Sárhida": {
+		"id": 8101,
+		"title": "Sárhida"
+	},
+	"Sárisáp": {
+		"id": 26903,
+		"title": "Sárisáp"
+	},
+	"Sarkad": {
+		"id": 28565,
+		"title": "Sarkad"
+	},
+	"Sarkadkeresztúr": {
+		"id": 25168,
+		"title": "Sarkadkeresztúr"
+	},
+	"Sárkeresztes": {
+		"id": 31802,
+		"title": "Sárkeresztes"
+	},
+	"Sárkeresztúr": {
+		"id": 25344,
+		"title": "Sárkeresztúr"
+	},
+	"Sárkeszi": {
+		"id": 2699,
+		"title": "Sárkeszi"
+	},
+	"Sármellék": {
+		"id": 14906,
+		"title": "Sármellék"
+	},
+	"Sárok": {
+		"id": 20862,
+		"title": "Sárok"
+	},
+	"Sárosd": {
+		"id": 25140,
+		"title": "Sárosd"
+	},
+	"Sárospatak": {
+		"id": 27474,
+		"title": "Sárospatak"
+	},
+	"Sárpilis": {
+		"id": 4747,
+		"title": "Sárpilis"
+	},
+	"Sárrétudvari": {
+		"id": 23940,
+		"title": "Sárrétudvari"
+	},
+	"Sarród": {
+		"id": 30021,
+		"title": "Sarród"
+	},
+	"Sárszentágota": {
+		"id": 31538,
+		"title": "Sárszentágota"
+	},
+	"Sárszentlőrinc": {
+		"id": 20817,
+		"title": "Sárszentlőrinc"
+	},
+	"Sárszentmihály": {
+		"id": 11776,
+		"title": "Sárszentmihály"
+	},
+	"Sarud": {
+		"id": 7180,
+		"title": "Sarud"
+	},
+	"Sárvár": {
+		"id": 21306,
+		"title": "Sárvár"
+	},
+	"Sásd": {
+		"id": 32160,
+		"title": "Sásd"
+	},
+	"Sáska": {
+		"id": 13772,
+		"title": "Sáska"
+	},
+	"Sáta": {
+		"id": 2875,
+		"title": "Sáta"
+	},
+	"Sátoraljaújhely": {
+		"id": 5120,
+		"title": "Sátoraljaújhely"
+	},
+	"Sátorhely": {
+		"id": 33482,
+		"title": "Sátorhely"
+	},
+	"Sávoly": {
+		"id": 2051,
+		"title": "Sávoly"
+	},
+	"Sé": {
+		"id": 10278,
+		"title": "Sé"
+	},
+	"Segesd": {
+		"id": 27368,
+		"title": "Segesd"
+	},
+	"Selyeb": {
+		"id": 25380,
+		"title": "Selyeb"
+	},
+	"Sellye": {
+		"id": 28741,
+		"title": "Sellye"
+	},
+	"Semjén": {
+		"id": 23755,
+		"title": "Semjén"
+	},
+	"Semjénháza": {
+		"id": 30997,
+		"title": "Semjénháza"
+	},
+	"Sénye": {
+		"id": 14085,
+		"title": "Sénye"
+	},
+	"Sényő": {
+		"id": 4491,
+		"title": "Sényő"
+	},
+	"Seregélyes": {
+		"id": 20206,
+		"title": "Seregélyes"
+	},
+	"Serényfalva": {
+		"id": 32531,
+		"title": "Serényfalva"
+	},
+	"Sérsekszőlős": {
+		"id": 32133,
+		"title": "Sérsekszőlős"
+	},
+	"Sikátor": {
+		"id": 8606,
+		"title": "Sikátor"
+	},
+	"Siklós": {
+		"id": 5519,
+		"title": "Siklós"
+	},
+	"Siklósbodony": {
+		"id": 23205,
+		"title": "Siklósbodony"
+	},
+	"Siklósnagyfalu": {
+		"id": 8800,
+		"title": "Siklósnagyfalu"
+	},
+	"Sima": {
+		"id": 23418,
+		"title": "Sima"
+	},
+	"Simaság": {
+		"id": 26763,
+		"title": "Simaság"
+	},
+	"Simonfa": {
+		"id": 32780,
+		"title": "Simonfa"
+	},
+	"Simontornya": {
+		"id": 20783,
+		"title": "Simontornya"
+	},
+	"Sióagárd": {
+		"id": 25645,
+		"title": "Sióagárd"
+	},
+	"Siófok": {
+		"id": 17631,
+		"title": "Siófok"
+	},
+	"Siójut": {
+		"id": 23092,
+		"title": "Siójut"
+	},
+	"Sirok": {
+		"id": 8527,
+		"title": "Sirok"
+	},
+	"Sitke": {
+		"id": 30748,
+		"title": "Sitke"
+	},
+	"Sobor": {
+		"id": 24208,
+		"title": "Sobor"
+	},
+	"Sokorópátka": {
+		"id": 12627,
+		"title": "Sokorópátka"
+	},
+	"Solt": {
+		"id": 29115,
+		"title": "Solt"
+	},
+	"Soltszentimre": {
+		"id": 18218,
+		"title": "Soltszentimre"
+	},
+	"Soltvadkert": {
+		"id": 19983,
+		"title": "Soltvadkert"
+	},
+	"Sóly": {
+		"id": 3601,
+		"title": "Sóly"
+	},
+	"Solymár": {
+		"id": 7384,
+		"title": "Solymár"
+	},
+	"Som": {
+		"id": 4127,
+		"title": "Som"
+	},
+	"Somberek": {
+		"id": 23472,
+		"title": "Somberek"
+	},
+	"Somlójenő": {
+		"id": 5157,
+		"title": "Somlójenő"
+	},
+	"Somlószőlős": {
+		"id": 25779,
+		"title": "Somlószőlős"
+	},
+	"Somlóvásárhely": {
+		"id": 26569,
+		"title": "Somlóvásárhely"
+	},
+	"Somlóvecse": {
+		"id": 14243,
+		"title": "Somlóvecse"
+	},
+	"Somodor": {
+		"id": 13824,
+		"title": "Somodor"
+	},
+	"Somogyacsa": {
+		"id": 30580,
+		"title": "Somogyacsa"
+	},
+	"Somogyapáti": {
+		"id": 23807,
+		"title": "Somogyapáti"
+	},
+	"Somogyaracs": {
+		"id": 5500,
+		"title": "Somogyaracs"
+	},
+	"Somogyaszaló": {
+		"id": 31219,
+		"title": "Somogyaszaló"
+	},
+	"Somogybabod": {
+		"id": 32470,
+		"title": "Somogybabod"
+	},
+	"Somogybükkösd": {
+		"id": 25043,
+		"title": "Somogybükkösd"
+	},
+	"Somogycsicsó": {
+		"id": 11484,
+		"title": "Somogycsicsó"
+	},
+	"Somogydöröcske": {
+		"id": 15981,
+		"title": "Somogydöröcske"
+	},
+	"Somogyegres": {
+		"id": 20057,
+		"title": "Somogyegres"
+	},
+	"Somogyfajsz": {
+		"id": 18078,
+		"title": "Somogyfajsz"
+	},
+	"Somogygeszti": {
+		"id": 20330,
+		"title": "Somogygeszti"
+	},
+	"Somogyhárságy": {
+		"id": 29142,
+		"title": "Somogyhárságy"
+	},
+	"Somogyhatvan": {
+		"id": 25070,
+		"title": "Somogyhatvan"
+	},
+	"Somogyjád": {
+		"id": 28963,
+		"title": "Somogyjád"
+	},
+	"Somogymeggyes": {
+		"id": 12876,
+		"title": "Somogymeggyes"
+	},
+	"Somogysámson": {
+		"id": 15626,
+		"title": "Somogysámson"
+	},
+	"Somogysárd": {
+		"id": 28723,
+		"title": "Somogysárd"
+	},
+	"Somogysimonyi": {
+		"id": 27535,
+		"title": "Somogysimonyi"
+	},
+	"Somogyszentpál": {
+		"id": 6600,
+		"title": "Somogyszentpál"
+	},
+	"Somogyszil": {
+		"id": 3416,
+		"title": "Somogyszil"
+	},
+	"Somogyszob": {
+		"id": 18546,
+		"title": "Somogyszob"
+	},
+	"Somogytúr": {
+		"id": 32601,
+		"title": "Somogytúr"
+	},
+	"Somogyudvarhely": {
+		"id": 4853,
+		"title": "Somogyudvarhely"
+	},
+	"Somogyvámos": {
+		"id": 21856,
+		"title": "Somogyvámos"
+	},
+	"Somogyvár": {
+		"id": 19442,
+		"title": "Somogyvár"
+	},
+	"Somogyviszló": {
+		"id": 21281,
+		"title": "Somogyviszló"
+	},
+	"Somogyzsitfa": {
+		"id": 4835,
+		"title": "Somogyzsitfa"
+	},
+	"Sonkád": {
+		"id": 23889,
+		"title": "Sonkád"
+	},
+	"Soponya": {
+		"id": 33321,
+		"title": "Soponya"
+	},
+	"Sopron": {
+		"id": 8518,
+		"title": "Sopron"
+	},
+	"Sopronhorpács": {
+		"id": 29090,
+		"title": "Sopronhorpács"
+	},
+	"Sopronkövesd": {
+		"id": 25724,
+		"title": "Sopronkövesd"
+	},
+	"Sopronnémeti": {
+		"id": 2617,
+		"title": "Sopronnémeti"
+	},
+	"Sorkifalud": {
+		"id": 7171,
+		"title": "Sorkifalud"
+	},
+	"Sorkikápolna": {
+		"id": 27960,
+		"title": "Sorkikápolna"
+	},
+	"Sormás": {
+		"id": 6567,
+		"title": "Sormás"
+	},
+	"Sorokpolány": {
+		"id": 29692,
+		"title": "Sorokpolány"
+	},
+	"Sóshartyán": {
+		"id": 14881,
+		"title": "Sóshartyán"
+	},
+	"Sóskút": {
+		"id": 6840,
+		"title": "Sóskút"
+	},
+	"Sóstófalva": {
+		"id": 13268,
+		"title": "Sóstófalva"
+	},
+	"Sósvertike": {
+		"id": 31714,
+		"title": "Sósvertike"
+	},
+	"Sótony": {
+		"id": 22983,
+		"title": "Sótony"
+	},
+	"Söjtör": {
+		"id": 19080,
+		"title": "Söjtör"
+	},
+	"Söpte": {
+		"id": 24800,
+		"title": "Söpte"
+	},
+	"Söréd": {
+		"id": 2893,
+		"title": "Söréd"
+	},
+	"Sukoró": {
+		"id": 14951,
+		"title": "Sukoró"
+	},
+	"Sumony": {
+		"id": 2547,
+		"title": "Sumony"
+	},
+	"Súr": {
+		"id": 31990,
+		"title": "Súr"
+	},
+	"Surd": {
+		"id": 2404,
+		"title": "Surd"
+	},
+	"Sükösd": {
+		"id": 21245,
+		"title": "Sükösd"
+	},
+	"Sülysáp": {
+		"id": 21713,
+		"title": "Sülysáp"
+	},
+	"Sümeg": {
+		"id": 25593,
+		"title": "Sümeg"
+	},
+	"Sümegcsehi": {
+		"id": 21397,
+		"title": "Sümegcsehi"
+	},
+	"Sümegprága": {
+		"id": 5388,
+		"title": "Sümegprága"
+	},
+	"Süttő": {
+		"id": 8688,
+		"title": "Süttő"
+	},
+	"Szabadbattyán": {
+		"id": 28705,
+		"title": "Szabadbattyán"
+	},
+	"Szabadegyháza": {
+		"id": 13259,
+		"title": "Szabadegyháza"
+	},
+	"Szabadhidvég": {
+		"id": 18740,
+		"title": "Szabadhidvég"
+	},
+	"Szabadi": {
+		"id": 14854,
+		"title": "Szabadi"
+	},
+	"Szabadkígyós": {
+		"id": 31325,
+		"title": "Szabadkígyós"
+	},
+	"Szabadszállás": {
+		"id": 25061,
+		"title": "Szabadszállás"
+	},
+	"Szabadszentkirály": {
+		"id": 15079,
+		"title": "Szabadszentkirály"
+	},
+	"Szabás": {
+		"id": 28574,
+		"title": "Szabás"
+	},
+	"Szabolcs": {
+		"id": 19169,
+		"title": "Szabolcs"
+	},
+	"Szabolcsbáka": {
+		"id": 22053,
+		"title": "Szabolcsbáka"
+	},
+	"Szabolcsveresmart": {
+		"id": 3586,
+		"title": "Szabolcsveresmart"
+	},
+	"Szada": {
+		"id": 21458,
+		"title": "Szada"
+	},
+	"Szágy": {
+		"id": 27508,
+		"title": "Szágy"
+	},
+	"Szajk": {
+		"id": 8475,
+		"title": "Szajk"
+	},
+	"Szajla": {
+		"id": 16063,
+		"title": "Szajla"
+	},
+	"Szajol": {
+		"id": 5874,
+		"title": "Szajol"
+	},
+	"Szakácsi": {
+		"id": 32258,
+		"title": "Szakácsi"
+	},
+	"Szakadát": {
+		"id": 15316,
+		"title": "Szakadát"
+	},
+	"Szakáld": {
+		"id": 3805,
+		"title": "Szakáld"
+	},
+	"Szakály": {
+		"id": 4464,
+		"title": "Szakály"
+	},
+	"Szakcs": {
+		"id": 10083,
+		"title": "Szakcs"
+	},
+	"Szakmár": {
+		"id": 19530,
+		"title": "Szakmár"
+	},
+	"Szaknyér": {
+		"id": 16504,
+		"title": "Szaknyér"
+	},
+	"Szakoly": {
+		"id": 4774,
+		"title": "Szakoly"
+	},
+	"Szakony": {
+		"id": 11369,
+		"title": "Szakony"
+	},
+	"Szakonyfalu": {
+		"id": 20932,
+		"title": "Szakonyfalu"
+	},
+	"Szákszend": {
+		"id": 33516,
+		"title": "Szákszend"
+	},
+	"Szalafő": {
+		"id": 10223,
+		"title": "Szalafő"
+	},
+	"Szalánta": {
+		"id": 22257,
+		"title": "Szalánta"
+	},
+	"Szalapa": {
+		"id": 20543,
+		"title": "Szalapa"
+	},
+	"Szalaszend": {
+		"id": 31015,
+		"title": "Szalaszend"
+	},
+	"Szalatnak": {
+		"id": 9007,
+		"title": "Szalatnak"
+	},
+	"Szálka": {
+		"id": 14711,
+		"title": "Szálka"
+	},
+	"Szalkszentmárton": {
+		"id": 19947,
+		"title": "Szalkszentmárton"
+	},
+	"Szalmatercs": {
+		"id": 19798,
+		"title": "Szalmatercs"
+	},
+	"Szalonna": {
+		"id": 16753,
+		"title": "Szalonna"
+	},
+	"Szamosangyalos": {
+		"id": 18005,
+		"title": "Szamosangyalos"
+	},
+	"Szamosbecs": {
+		"id": 22017,
+		"title": "Szamosbecs"
+	},
+	"Szamoskér": {
+		"id": 16300,
+		"title": "Szamoskér"
+	},
+	"Szamossályi": {
+		"id": 10436,
+		"title": "Szamossályi"
+	},
+	"Szamostatárfalva": {
+		"id": 30085,
+		"title": "Szamostatárfalva"
+	},
+	"Szamosújlak": {
+		"id": 31273,
+		"title": "Szamosújlak"
+	},
+	"Szamosszeg": {
+		"id": 13046,
+		"title": "Szamosszeg"
+	},
+	"Szanda": {
+		"id": 13754,
+		"title": "Szanda"
+	},
+	"Szank": {
+		"id": 11794,
+		"title": "Szank"
+	},
+	"Szántód": {
+		"id": 34236,
+		"title": "Szántód"
+	},
+	"Szany": {
+		"id": 8536,
+		"title": "Szany"
+	},
+	"Szápár": {
+		"id": 16489,
+		"title": "Szápár"
+	},
+	"Szaporca": {
+		"id": 34032,
+		"title": "Szaporca"
+	},
+	"Szár": {
+		"id": 19549,
+		"title": "Szár"
+	},
+	"Szárász": {
+		"id": 7366,
+		"title": "Szárász"
+	},
+	"Szárazd": {
+		"id": 18263,
+		"title": "Szárazd"
+	},
+	"Szárföld": {
+		"id": 15714,
+		"title": "Szárföld"
+	},
+	"Szárliget": {
+		"id": 33491,
+		"title": "Szárliget"
+	},
+	"Szarvas": {
+		"id": 23870,
+		"title": "Szarvas"
+	},
+	"Szarvasgede": {
+		"id": 10199,
+		"title": "Szarvasgede"
+	},
+	"Szarvaskend": {
+		"id": 17729,
+		"title": "Szarvaskend"
+	},
+	"Szarvaskő": {
+		"id": 3382,
+		"title": "Szarvaskő"
+	},
+	"Szászberek": {
+		"id": 5777,
+		"title": "Szászberek"
+	},
+	"Szászfa": {
+		"id": 8147,
+		"title": "Szászfa"
+	},
+	"Szászvár": {
+		"id": 33765,
+		"title": "Szászvár"
+	},
+	"Szatmárcseke": {
+		"id": 31237,
+		"title": "Szatmárcseke"
+	},
+	"Szátok": {
+		"id": 15325,
+		"title": "Szátok"
+	},
+	"Szatta": {
+		"id": 2440,
+		"title": "Szatta"
+	},
+	"Szatymaz": {
+		"id": 12007,
+		"title": "Szatymaz"
+	},
+	"Szava": {
+		"id": 31060,
+		"title": "Szava"
+	},
+	"Százhalombatta": {
+		"id": 17312,
+		"title": "Százhalombatta"
+	},
+	"Szebény": {
+		"id": 3018,
+		"title": "Szebény"
+	},
+	"Szécsénke": {
+		"id": 23047,
+		"title": "Szécsénke"
+	},
+	"Szécsény": {
+		"id": 6628,
+		"title": "Szécsény"
+	},
+	"Szécsényfelfalu": {
+		"id": 33011,
+		"title": "Szécsényfelfalu"
+	},
+	"Szécsisziget": {
+		"id": 11554,
+		"title": "Szécsisziget"
+	},
+	"Szederkény": {
+		"id": 5607,
+		"title": "Szederkény"
+	},
+	"Szedres": {
+		"id": 16814,
+		"title": "Szedres"
+	},
+	"Szeged": {
+		"id": 33367,
+		"title": "Szeged"
+	},
+	"Szegerdő": {
+		"id": 18607,
+		"title": "Szegerdő"
+	},
+	"Szeghalom": {
+		"id": 21883,
+		"title": "Szeghalom"
+	},
+	"Szegi": {
+		"id": 33817,
+		"title": "Szegi"
+	},
+	"Szegilong": {
+		"id": 31510,
+		"title": "Szegilong"
+	},
+	"Szegvár": {
+		"id": 32489,
+		"title": "Szegvár"
+	},
+	"Székely": {
+		"id": 31088,
+		"title": "Székely"
+	},
+	"Székelyszabar": {
+		"id": 16771,
+		"title": "Székelyszabar"
+	},
+	"Székesfehérvár": {
+		"id": 14827,
+		"title": "Székesfehérvár"
+	},
+	"Székkutas": {
+		"id": 12265,
+		"title": "Székkutas"
+	},
+	"Szekszárd": {
+		"id": 22761,
+		"title": "Szekszárd"
+	},
+	"Szeleste": {
+		"id": 33172,
+		"title": "Szeleste"
+	},
+	"Szelevény": {
+		"id": 20428,
+		"title": "Szelevény"
+	},
+	"Szellő": {
+		"id": 16984,
+		"title": "Szellő"
+	},
+	"Szemely": {
+		"id": 9308,
+		"title": "Szemely"
+	},
+	"Szemenye": {
+		"id": 27997,
+		"title": "Szemenye"
+	},
+	"Szemere": {
+		"id": 9830,
+		"title": "Szemere"
+	},
+	"Szendehely": {
+		"id": 4507,
+		"title": "Szendehely"
+	},
+	"Szendrő": {
+		"id": 8077,
+		"title": "Szendrő"
+	},
+	"Szendrőlád": {
+		"id": 27456,
+		"title": "Szendrőlád"
+	},
+	"Szenna": {
+		"id": 15103,
+		"title": "Szenna"
+	},
+	"Szenta": {
+		"id": 11509,
+		"title": "Szenta"
+	},
+	"Szentantalfa": {
+		"id": 3568,
+		"title": "Szentantalfa"
+	},
+	"Szentbalázs": {
+		"id": 25706,
+		"title": "Szentbalázs"
+	},
+	"Szentbékkálla": {
+		"id": 7092,
+		"title": "Szentbékkálla"
+	},
+	"Szentborbás": {
+		"id": 32841,
+		"title": "Szentborbás"
+	},
+	"Szentdénes": {
+		"id": 32009,
+		"title": "Szentdénes"
+	},
+	"Szentdomonkos": {
+		"id": 13231,
+		"title": "Szentdomonkos"
+	},
+	"Szente": {
+		"id": 9043,
+		"title": "Szente"
+	},
+	"Szentegát": {
+		"id": 33613,
+		"title": "Szentegát"
+	},
+	"Szentendre": {
+		"id": 15440,
+		"title": "Szentendre"
+	},
+	"Szentes": {
+		"id": 14456,
+		"title": "Szentes"
+	},
+	"Szentgál": {
+		"id": 7922,
+		"title": "Szentgál"
+	},
+	"Szentgáloskér": {
+		"id": 12973,
+		"title": "Szentgáloskér"
+	},
+	"Szentgotthárd": {
+		"id": 31583,
+		"title": "Szentgotthárd"
+	},
+	"Szentgyörgyvár": {
+		"id": 23126,
+		"title": "Szentgyörgyvár"
+	},
+	"Szentgyörgyvölgy": {
+		"id": 18652,
+		"title": "Szentgyörgyvölgy"
+	},
+	"Szentimrefalva": {
+		"id": 10065,
+		"title": "Szentimrefalva"
+	},
+	"Szentistván": {
+		"id": 22169,
+		"title": "Szentistván"
+	},
+	"Szentistvánbaksa": {
+		"id": 8484,
+		"title": "Szentistvánbaksa"
+	},
+	"Szentjakabfa": {
+		"id": 11545,
+		"title": "Szentjakabfa"
+	},
+	"Szentkatalin": {
+		"id": 9803,
+		"title": "Szentkatalin"
+	},
+	"Szentkirály": {
+		"id": 21120,
+		"title": "Szentkirály"
+	},
+	"Szentkirályszabadja": {
+		"id": 16267,
+		"title": "Szentkirályszabadja"
+	},
+	"Szentkozmadombja": {
+		"id": 3124,
+		"title": "Szentkozmadombja"
+	},
+	"Szentlászló": {
+		"id": 16355,
+		"title": "Szentlászló"
+	},
+	"Szentliszló": {
+		"id": 8615,
+		"title": "Szentliszló"
+	},
+	"Szentlőrinc": {
+		"id": 15866,
+		"title": "Szentlőrinc"
+	},
+	"Szentlőrinckáta": {
+		"id": 7542,
+		"title": "Szentlőrinckáta"
+	},
+	"Szentmargitfalva": {
+		"id": 14225,
+		"title": "Szentmargitfalva"
+	},
+	"Szentmártonkáta": {
+		"id": 28653,
+		"title": "Szentmártonkáta"
+	},
+	"Szentpéterfa": {
+		"id": 21254,
+		"title": "Szentpéterfa"
+	},
+	"Szentpéterfölde": {
+		"id": 30067,
+		"title": "Szentpéterfölde"
+	},
+	"Szentpéterszeg": {
+		"id": 19099,
+		"title": "Szentpéterszeg"
+	},
+	"Szentpéterúr": {
+		"id": 11165,
+		"title": "Szentpéterúr"
+	},
+	"Szenyér": {
+		"id": 30146,
+		"title": "Szenyér"
+	},
+	"Szepetnek": {
+		"id": 7700,
+		"title": "Szepetnek"
+	},
+	"Szerecseny": {
+		"id": 3887,
+		"title": "Szerecseny"
+	},
+	"Szeremle": {
+		"id": 28820,
+		"title": "Szeremle"
+	},
+	"Szerencs": {
+		"id": 30739,
+		"title": "Szerencs"
+	},
+	"Szerep": {
+		"id": 33437,
+		"title": "Szerep"
+	},
+	"Szergény": {
+		"id": 27793,
+		"title": "Szergény"
+	},
+	"Szigetbecse": {
+		"id": 26259,
+		"title": "Szigetbecse"
+	},
+	"Szigetcsép": {
+		"id": 7870,
+		"title": "Szigetcsép"
+	},
+	"Szigethalom": {
+		"id": 13277,
+		"title": "Szigethalom"
+	},
+	"Szigetmonostor": {
+		"id": 26213,
+		"title": "Szigetmonostor"
+	},
+	"Szigetszentmárton": {
+		"id": 15185,
+		"title": "Szigetszentmárton"
+	},
+	"Szigetszentmiklós": {
+		"id": 28954,
+		"title": "Szigetszentmiklós"
+	},
+	"Szigetújfalu": {
+		"id": 22114,
+		"title": "Szigetújfalu"
+	},
+	"Szigetvár": {
+		"id": 26578,
+		"title": "Szigetvár"
+	},
+	"Szigliget": {
+		"id": 24891,
+		"title": "Szigliget"
+	},
+	"Szihalom": {
+		"id": 11013,
+		"title": "Szihalom"
+	},
+	"Szijártóháza": {
+		"id": 26161,
+		"title": "Szijártóháza"
+	},
+	"Szikszó": {
+		"id": 21351,
+		"title": "Szikszó"
+	},
+	"Szil": {
+		"id": 19266,
+		"title": "Szil"
+	},
+	"Szilágy": {
+		"id": 19831,
+		"title": "Szilágy"
+	},
+	"Szilaspogony": {
+		"id": 7959,
+		"title": "Szilaspogony"
+	},
+	"Szilsárkány": {
+		"id": 3364,
+		"title": "Szilsárkány"
+	},
+	"Szilvágy": {
+		"id": 17853,
+		"title": "Szilvágy"
+	},
+	"Szilvás": {
+		"id": 24712,
+		"title": "Szilvás"
+	},
+	"Szilvásvárad": {
+		"id": 5643,
+		"title": "Szilvásvárad"
+	},
+	"Szilvásszentmárton": {
+		"id": 32461,
+		"title": "Szilvásszentmárton"
+	},
+	"Szin": {
+		"id": 20871,
+		"title": "Szin"
+	},
+	"Szinpetri": {
+		"id": 11493,
+		"title": "Szinpetri"
+	},
+	"Szirák": {
+		"id": 21634,
+		"title": "Szirák"
+	},
+	"Szirmabesenyő": {
+		"id": 9496,
+		"title": "Szirmabesenyő"
+	},
+	"Szob": {
+		"id": 24916,
+		"title": "Szob"
+	},
+	"Szokolya": {
+		"id": 6947,
+		"title": "Szokolya"
+	},
+	"Szólád": {
+		"id": 15194,
+		"title": "Szólád"
+	},
+	"Szolnok": {
+		"id": 27854,
+		"title": "Szolnok"
+	},
+	"Szombathely": {
+		"id": 3009,
+		"title": "Szombathely"
+	},
+	"Szomód": {
+		"id": 22619,
+		"title": "Szomód"
+	},
+	"Szomolya": {
+		"id": 18892,
+		"title": "Szomolya"
+	},
+	"Szomor": {
+		"id": 21421,
+		"title": "Szomor"
+	},
+	"Szorgalmatos": {
+		"id": 34388,
+		"title": "Szorgalmatos"
+	},
+	"Szorosad": {
+		"id": 5193,
+		"title": "Szorosad"
+	},
+	"Szőc": {
+		"id": 16692,
+		"title": "Szőc"
+	},
+	"Szőce": {
+		"id": 19521,
+		"title": "Szőce"
+	},
+	"Sződ": {
+		"id": 12690,
+		"title": "Sződ"
+	},
+	"Sződliget": {
+		"id": 28866,
+		"title": "Sződliget"
+	},
+	"Szögliget": {
+		"id": 16179,
+		"title": "Szögliget"
+	},
+	"Szőke": {
+		"id": 22211,
+		"title": "Szőke"
+	},
+	"Szőkéd": {
+		"id": 7694,
+		"title": "Szőkéd"
+	},
+	"Szőkedencs": {
+		"id": 5810,
+		"title": "Szőkedencs"
+	},
+	"Szőlősardó": {
+		"id": 7889,
+		"title": "Szőlősardó"
+	},
+	"Szőlősgyörök": {
+		"id": 11101,
+		"title": "Szőlősgyörök"
+	},
+	"Szörény": {
+		"id": 5528,
+		"title": "Szörény"
+	},
+	"Szúcs": {
+		"id": 13523,
+		"title": "Szúcs"
+	},
+	"Szuha": {
+		"id": 28194,
+		"title": "Szuha"
+	},
+	"Szuhafő": {
+		"id": 3160,
+		"title": "Szuhafő"
+	},
+	"Szuhakálló": {
+		"id": 11110,
+		"title": "Szuhakálló"
+	},
+	"Szuhogy": {
+		"id": 24606,
+		"title": "Szuhogy"
+	},
+	"Szulimán": {
+		"id": 15404,
+		"title": "Szulimán"
+	},
+	"Szulok": {
+		"id": 10986,
+		"title": "Szulok"
+	},
+	"Szurdokpüspöki": {
+		"id": 19044,
+		"title": "Szurdokpüspöki"
+	},
+	"Szűcsi": {
+		"id": 9982,
+		"title": "Szűcsi"
+	},
+	"Szügy": {
+		"id": 18786,
+		"title": "Szügy"
+	},
+	"Szűr": {
+		"id": 11217,
+		"title": "Szűr"
+	},
+	"Tab": {
+		"id": 8590,
+		"title": "Tab"
+	},
+	"Tabajd": {
+		"id": 14465,
+		"title": "Tabajd"
+	},
+	"Tabdi": {
+		"id": 25432,
+		"title": "Tabdi"
+	},
+	"Táborfalva": {
+		"id": 8332,
+		"title": "Táborfalva"
+	},
+	"Tác": {
+		"id": 29267,
+		"title": "Tác"
+	},
+	"Tagyon": {
+		"id": 17039,
+		"title": "Tagyon"
+	},
+	"Tahitótfalu": {
+		"id": 31963,
+		"title": "Tahitótfalu"
+	},
+	"Takácsi": {
+		"id": 13125,
+		"title": "Takácsi"
+	},
+	"Tákos": {
+		"id": 29911,
+		"title": "Tákos"
+	},
+	"Taksony": {
+		"id": 30720,
+		"title": "Taksony"
+	},
+	"Taktabáj": {
+		"id": 3708,
+		"title": "Taktabáj"
+	},
+	"Taktaharkány": {
+		"id": 18245,
+		"title": "Taktaharkány"
+	},
+	"Taktakenéz": {
+		"id": 28787,
+		"title": "Taktakenéz"
+	},
+	"Taktaszada": {
+		"id": 3133,
+		"title": "Taktaszada"
+	},
+	"Taliándörögd": {
+		"id": 17321,
+		"title": "Taliándörögd"
+	},
+	"Tállya": {
+		"id": 12210,
+		"title": "Tállya"
+	},
+	"Tamási": {
+		"id": 24563,
+		"title": "Tamási"
+	},
+	"Tanakajd": {
+		"id": 16212,
+		"title": "Tanakajd"
+	},
+	"Táp": {
+		"id": 14261,
+		"title": "Táp"
+	},
+	"Tápióbicske": {
+		"id": 15015,
+		"title": "Tápióbicske"
+	},
+	"Tápiógyörgye": {
+		"id": 17303,
+		"title": "Tápiógyörgye"
+	},
+	"Tápióság": {
+		"id": 9405,
+		"title": "Tápióság"
+	},
+	"Tápiószecső": {
+		"id": 31796,
+		"title": "Tápiószecső"
+	},
+	"Tápiószele": {
+		"id": 14146,
+		"title": "Tápiószele"
+	},
+	"Tápiószentmárton": {
+		"id": 14571,
+		"title": "Tápiószentmárton"
+	},
+	"Tápiószőlős": {
+		"id": 2769,
+		"title": "Tápiószőlős"
+	},
+	"Táplánszentkereszt": {
+		"id": 32045,
+		"title": "Táplánszentkereszt"
+	},
+	"Tapolca": {
+		"id": 29434,
+		"title": "Tapolca"
+	},
+	"Tapsony": {
+		"id": 24615,
+		"title": "Tapsony"
+	},
+	"Tápszentmiklós": {
+		"id": 21971,
+		"title": "Tápszentmiklós"
+	},
+	"Tar": {
+		"id": 32896,
+		"title": "Tar"
+	},
+	"Tarany": {
+		"id": 16735,
+		"title": "Tarany"
+	},
+	"Tarcal": {
+		"id": 21740,
+		"title": "Tarcal"
+	},
+	"Tard": {
+		"id": 8165,
+		"title": "Tard"
+	},
+	"Tardona": {
+		"id": 14784,
+		"title": "Tardona"
+	},
+	"Tardos": {
+		"id": 30225,
+		"title": "Tardos"
+	},
+	"Tarhos": {
+		"id": 33075,
+		"title": "Tarhos"
+	},
+	"Tarján": {
+		"id": 18935,
+		"title": "Tarján"
+	},
+	"Tarjánpuszta": {
+		"id": 33914,
+		"title": "Tarjánpuszta"
+	},
+	"Tárkány": {
+		"id": 20987,
+		"title": "Tárkány"
+	},
+	"Tarnabod": {
+		"id": 32966,
+		"title": "Tarnabod"
+	},
+	"Tarnalelesz": {
+		"id": 13240,
+		"title": "Tarnalelesz"
+	},
+	"Tarnaméra": {
+		"id": 23348,
+		"title": "Tarnaméra"
+	},
+	"Tarnaörs": {
+		"id": 14128,
+		"title": "Tarnaörs"
+	},
+	"Tarnaszentmária": {
+		"id": 9052,
+		"title": "Tarnaszentmária"
+	},
+	"Tarnaszentmiklós": {
+		"id": 16160,
+		"title": "Tarnaszentmiklós"
+	},
+	"Tarnazsadány": {
+		"id": 17163,
+		"title": "Tarnazsadány"
+	},
+	"Tárnok": {
+		"id": 4154,
+		"title": "Tárnok"
+	},
+	"Tárnokréti": {
+		"id": 4172,
+		"title": "Tárnokréti"
+	},
+	"Tarpa": {
+		"id": 4312,
+		"title": "Tarpa"
+	},
+	"Tarrós": {
+		"id": 15635,
+		"title": "Tarrós"
+	},
+	"Táska": {
+		"id": 13693,
+		"title": "Táska"
+	},
+	"Tass": {
+		"id": 20525,
+		"title": "Tass"
+	},
+	"Taszár": {
+		"id": 4932,
+		"title": "Taszár"
+	},
+	"Tát": {
+		"id": 8758,
+		"title": "Tát"
+	},
+	"Tata": {
+		"id": 20127,
+		"title": "Tata"
+	},
+	"Tatabánya": {
+		"id": 18157,
+		"title": "Tatabánya"
+	},
+	"Tataháza": {
+		"id": 14544,
+		"title": "Tataháza"
+	},
+	"Tatárszentgyörgy": {
+		"id": 27386,
+		"title": "Tatárszentgyörgy"
+	},
+	"Tázlár": {
+		"id": 24998,
+		"title": "Tázlár"
+	},
+	"Téglás": {
+		"id": 23214,
+		"title": "Téglás"
+	},
+	"Tékes": {
+		"id": 27702,
+		"title": "Tékes"
+	},
+	"Teklafalu": {
+		"id": 32072,
+		"title": "Teklafalu"
+	},
+	"Telekes": {
+		"id": 29568,
+		"title": "Telekes"
+	},
+	"Telekgerendás": {
+		"id": 12681,
+		"title": "Telekgerendás"
+	},
+	"Teleki": {
+		"id": 23968,
+		"title": "Teleki"
+	},
+	"Telki": {
+		"id": 8280,
+		"title": "Telki"
+	},
+	"Telkibánya": {
+		"id": 13763,
+		"title": "Telkibánya"
+	},
+	"Tengelic": {
+		"id": 6901,
+		"title": "Tengelic"
+	},
+	"Tengeri": {
+		"id": 13675,
+		"title": "Tengeri"
+	},
+	"Tengőd": {
+		"id": 32416,
+		"title": "Tengőd"
+	},
+	"Tenk": {
+		"id": 14076,
+		"title": "Tenk"
+	},
+	"Tényő": {
+		"id": 11457,
+		"title": "Tényő"
+	},
+	"Tépe": {
+		"id": 31042,
+		"title": "Tépe"
+	},
+	"Terem": {
+		"id": 33358,
+		"title": "Terem"
+	},
+	"Terény": {
+		"id": 4844,
+		"title": "Terény"
+	},
+	"Tereske": {
+		"id": 24174,
+		"title": "Tereske"
+	},
+	"Teresztenye": {
+		"id": 28635,
+		"title": "Teresztenye"
+	},
+	"Terpes": {
+		"id": 12229,
+		"title": "Terpes"
+	},
+	"Tés": {
+		"id": 20570,
+		"title": "Tés"
+	},
+	"Tésa": {
+		"id": 19248,
+		"title": "Tésa"
+	},
+	"Tésenfa": {
+		"id": 32744,
+		"title": "Tésenfa"
+	},
+	"Téseny": {
+		"id": 20978,
+		"title": "Téseny"
+	},
+	"Teskánd": {
+		"id": 8828,
+		"title": "Teskánd"
+	},
+	"Tét": {
+		"id": 19035,
+		"title": "Tét"
+	},
+	"Tetétlen": {
+		"id": 19691,
+		"title": "Tetétlen"
+	},
+	"Tevel": {
+		"id": 31459,
+		"title": "Tevel"
+	},
+	"Tibolddaróc": {
+		"id": 30447,
+		"title": "Tibolddaróc"
+	},
+	"Tiborszállás": {
+		"id": 8952,
+		"title": "Tiborszállás"
+	},
+	"Tihany": {
+		"id": 30465,
+		"title": "Tihany"
+	},
+	"Tikos": {
+		"id": 17844,
+		"title": "Tikos"
+	},
+	"Tilaj": {
+		"id": 27951,
+		"title": "Tilaj"
+	},
+	"Timár": {
+		"id": 24475,
+		"title": "Timár"
+	},
+	"Tinnye": {
+		"id": 7108,
+		"title": "Tinnye"
+	},
+	"Tiszaadony": {
+		"id": 9423,
+		"title": "Tiszaadony"
+	},
+	"Tiszaalpár": {
+		"id": 24545,
+		"title": "Tiszaalpár"
+	},
+	"Tiszabábolna": {
+		"id": 2291,
+		"title": "Tiszabábolna"
+	},
+	"Tiszabecs": {
+		"id": 17817,
+		"title": "Tiszabecs"
+	},
+	"Tiszabercel": {
+		"id": 3850,
+		"title": "Tiszabercel"
+	},
+	"Tiszabezdéd": {
+		"id": 20172,
+		"title": "Tiszabezdéd"
+	},
+	"Tiszabő": {
+		"id": 10773,
+		"title": "Tiszabő"
+	},
+	"Tiszabura": {
+		"id": 22770,
+		"title": "Tiszabura"
+	},
+	"Tiszacsécse": {
+		"id": 24448,
+		"title": "Tiszacsécse"
+	},
+	"Tiszacsege": {
+		"id": 15644,
+		"title": "Tiszacsege"
+	},
+	"Tiszacsermely": {
+		"id": 29133,
+		"title": "Tiszacsermely"
+	},
+	"Tiszadada": {
+		"id": 6433,
+		"title": "Tiszadada"
+	},
+	"Tiszaderzs": {
+		"id": 16230,
+		"title": "Tiszaderzs"
+	},
+	"Tiszadob": {
+		"id": 12593,
+		"title": "Tiszadob"
+	},
+	"Tiszadorogma": {
+		"id": 3717,
+		"title": "Tiszadorogma"
+	},
+	"Tiszaeszlár": {
+		"id": 9113,
+		"title": "Tiszaeszlár"
+	},
+	"Tiszaföldvár": {
+		"id": 13815,
+		"title": "Tiszaföldvár"
+	},
+	"Tiszafüred": {
+		"id": 29726,
+		"title": "Tiszafüred"
+	},
+	"Tiszagyenda": {
+		"id": 30304,
+		"title": "Tiszagyenda"
+	},
+	"Tiszagyulaháza": {
+		"id": 30845,
+		"title": "Tiszagyulaháza"
+	},
+	"Tiszaigar": {
+		"id": 28699,
+		"title": "Tiszaigar"
+	},
+	"Tiszainoka": {
+		"id": 20446,
+		"title": "Tiszainoka"
+	},
+	"Tiszajenő": {
+		"id": 29346,
+		"title": "Tiszajenő"
+	},
+	"Tiszakanyár": {
+		"id": 8554,
+		"title": "Tiszakanyár"
+	},
+	"Tiszakarád": {
+		"id": 13976,
+		"title": "Tiszakarád"
+	},
+	"Tiszakécske": {
+		"id": 30623,
+		"title": "Tiszakécske"
+	},
+	"Tiszakerecseny": {
+		"id": 4446,
+		"title": "Tiszakerecseny"
+	},
+	"Tiszakeszi": {
+		"id": 13888,
+		"title": "Tiszakeszi"
+	},
+	"Tiszakóród": {
+		"id": 8794,
+		"title": "Tiszakóród"
+	},
+	"Tiszakürt": {
+		"id": 30386,
+		"title": "Tiszakürt"
+	},
+	"Tiszaladány": {
+		"id": 19381,
+		"title": "Tiszaladány"
+	},
+	"Tiszalök": {
+		"id": 23524,
+		"title": "Tiszalök"
+	},
+	"Tiszalúc": {
+		"id": 28398,
+		"title": "Tiszalúc"
+	},
+	"Tiszamogyorós": {
+		"id": 11907,
+		"title": "Tiszamogyorós"
+	},
+	"Tiszanagyfalu": {
+		"id": 27252,
+		"title": "Tiszanagyfalu"
+	},
+	"Tiszanána": {
+		"id": 7083,
+		"title": "Tiszanána"
+	},
+	"Tiszaörs": {
+		"id": 15787,
+		"title": "Tiszaörs"
+	},
+	"Tiszapalkonya": {
+		"id": 8633,
+		"title": "Tiszapalkonya"
+	},
+	"Tiszapüspöki": {
+		"id": 3373,
+		"title": "Tiszapüspöki"
+	},
+	"Tiszarád": {
+		"id": 10205,
+		"title": "Tiszarád"
+	},
+	"Tiszaroff": {
+		"id": 20181,
+		"title": "Tiszaroff"
+	},
+	"Tiszasas": {
+		"id": 21494,
+		"title": "Tiszasas"
+	},
+	"Tiszasüly": {
+		"id": 17695,
+		"title": "Tiszasüly"
+	},
+	"Tiszaszalka": {
+		"id": 13541,
+		"title": "Tiszaszalka"
+	},
+	"Tiszaszentimre": {
+		"id": 22789,
+		"title": "Tiszaszentimre"
+	},
+	"Tiszaszentmárton": {
+		"id": 27544,
+		"title": "Tiszaszentmárton"
+	},
+	"Tiszasziget": {
+		"id": 16966,
+		"title": "Tiszasziget"
+	},
+	"Tiszaszőlős": {
+		"id": 7852,
+		"title": "Tiszaszőlős"
+	},
+	"Tiszatardos": {
+		"id": 30298,
+		"title": "Tiszatardos"
+	},
+	"Tiszatarján": {
+		"id": 30377,
+		"title": "Tiszatarján"
+	},
+	"Tiszatelek": {
+		"id": 14447,
+		"title": "Tiszatelek"
+	},
+	"Tiszatenyő": {
+		"id": 9627,
+		"title": "Tiszatenyő"
+	},
+	"Tiszaug": {
+		"id": 14094,
+		"title": "Tiszaug"
+	},
+	"Tiszaújváros": {
+		"id": 28352,
+		"title": "Tiszaújváros"
+	},
+	"Tiszavalk": {
+		"id": 10977,
+		"title": "Tiszavalk"
+	},
+	"Tiszavárkony": {
+		"id": 31866,
+		"title": "Tiszavárkony"
+	},
+	"Tiszavasvári": {
+		"id": 7597,
+		"title": "Tiszavasvári"
+	},
+	"Tiszavid": {
+		"id": 33747,
+		"title": "Tiszavid"
+	},
+	"Tisztaberek": {
+		"id": 27261,
+		"title": "Tisztaberek"
+	},
+	"Tivadar": {
+		"id": 20260,
+		"title": "Tivadar"
+	},
+	"Tóalmás": {
+		"id": 21467,
+		"title": "Tóalmás"
+	},
+	"Tófalu": {
+		"id": 9964,
+		"title": "Tófalu"
+	},
+	"Tófej": {
+		"id": 5342,
+		"title": "Tófej"
+	},
+	"Tófű": {
+		"id": 4048,
+		"title": "Tófű"
+	},
+	"Tokaj": {
+		"id": 18306,
+		"title": "Tokaj"
+	},
+	"Tokod": {
+		"id": 14155,
+		"title": "Tokod"
+	},
+	"Tokodaltáró": {
+		"id": 34023,
+		"title": "Tokodaltáró"
+	},
+	"Tokorcs": {
+		"id": 9229,
+		"title": "Tokorcs"
+	},
+	"Tolcsva": {
+		"id": 28051,
+		"title": "Tolcsva"
+	},
+	"Told": {
+		"id": 25876,
+		"title": "Told"
+	},
+	"Tolmács": {
+		"id": 6381,
+		"title": "Tolmács"
+	},
+	"Tolna": {
+		"id": 25274,
+		"title": "Tolna"
+	},
+	"Tolnanémedi": {
+		"id": 11031,
+		"title": "Tolnanémedi"
+	},
+	"Tomajmonostora": {
+		"id": 9557,
+		"title": "Tomajmonostora"
+	},
+	"Tomor": {
+		"id": 14890,
+		"title": "Tomor"
+	},
+	"Tompa": {
+		"id": 28486,
+		"title": "Tompa"
+	},
+	"Tompaládony": {
+		"id": 12335,
+		"title": "Tompaládony"
+	},
+	"Tordas": {
+		"id": 21005,
+		"title": "Tordas"
+	},
+	"Tormafölde": {
+		"id": 4969,
+		"title": "Tormafölde"
+	},
+	"Tormás": {
+		"id": 22424,
+		"title": "Tormás"
+	},
+	"Tormásliget": {
+		"id": 34087,
+		"title": "Tormásliget"
+	},
+	"Tornabarakony": {
+		"id": 16902,
+		"title": "Tornabarakony"
+	},
+	"Tornakápolna": {
+		"id": 10375,
+		"title": "Tornakápolna"
+	},
+	"Tornanádaska": {
+		"id": 18801,
+		"title": "Tornanádaska"
+	},
+	"Tornaszentandrás": {
+		"id": 27836,
+		"title": "Tornaszentandrás"
+	},
+	"Tornaszentjakab": {
+		"id": 30517,
+		"title": "Tornaszentjakab"
+	},
+	"Tornyiszentmiklós": {
+		"id": 32638,
+		"title": "Tornyiszentmiklós"
+	},
+	"Tornyosnémeti": {
+		"id": 29054,
+		"title": "Tornyosnémeti"
+	},
+	"Tornyospálca": {
+		"id": 16957,
+		"title": "Tornyospálca"
+	},
+	"Torony": {
+		"id": 29878,
+		"title": "Torony"
+	},
+	"Torvaj": {
+		"id": 10153,
+		"title": "Torvaj"
+	},
+	"Tószeg": {
+		"id": 7490,
+		"title": "Tószeg"
+	},
+	"Tótkomlós": {
+		"id": 16434,
+		"title": "Tótkomlós"
+	},
+	"Tótszentgyörgy": {
+		"id": 26994,
+		"title": "Tótszentgyörgy"
+	},
+	"Tótszentmárton": {
+		"id": 16382,
+		"title": "Tótszentmárton"
+	},
+	"Tótszerdahely": {
+		"id": 25113,
+		"title": "Tótszerdahely"
+	},
+	"Tótújfalu": {
+		"id": 16407,
+		"title": "Tótújfalu"
+	},
+	"Tótvázsony": {
+		"id": 2714,
+		"title": "Tótvázsony"
+	},
+	"Tök": {
+		"id": 24527,
+		"title": "Tök"
+	},
+	"Tököl": {
+		"id": 29823,
+		"title": "Tököl"
+	},
+	"Töltéstava": {
+		"id": 16674,
+		"title": "Töltéstava"
+	},
+	"Tömörd": {
+		"id": 5166,
+		"title": "Tömörd"
+	},
+	"Tömörkény": {
+		"id": 25900,
+		"title": "Tömörkény"
+	},
+	"Törökbálint": {
+		"id": 6859,
+		"title": "Törökbálint"
+	},
+	"Törökkoppány": {
+		"id": 20093,
+		"title": "Törökkoppány"
+	},
+	"Törökszentmiklós": {
+		"id": 27313,
+		"title": "Törökszentmiklós"
+	},
+	"Törtel": {
+		"id": 22008,
+		"title": "Törtel"
+	},
+	"Töttös": {
+		"id": 4136,
+		"title": "Töttös"
+	},
+	"Trizs": {
+		"id": 4914,
+		"title": "Trizs"
+	},
+	"Tunyogmatolcs": {
+		"id": 13213,
+		"title": "Tunyogmatolcs"
+	},
+	"Tura": {
+		"id": 9593,
+		"title": "Tura"
+	},
+	"Túristvándi": {
+		"id": 13602,
+		"title": "Túristvándi"
+	},
+	"Túrkeve": {
+		"id": 28228,
+		"title": "Túrkeve"
+	},
+	"Túrony": {
+		"id": 18582,
+		"title": "Túrony"
+	},
+	"Túrricse": {
+		"id": 8998,
+		"title": "Túrricse"
+	},
+	"Tuzsér": {
+		"id": 9919,
+		"title": "Tuzsér"
+	},
+	"Türje": {
+		"id": 12609,
+		"title": "Türje"
+	},
+	"Tüskevár": {
+		"id": 4631,
+		"title": "Tüskevár"
+	},
+	"Tyukod": {
+		"id": 31398,
+		"title": "Tyukod"
+	},
+	"Udvar": {
+		"id": 4437,
+		"title": "Udvar"
+	},
+	"Udvari": {
+		"id": 21360,
+		"title": "Udvari"
+	},
+	"Ugod": {
+		"id": 24767,
+		"title": "Ugod"
+	},
+	"Újbarok": {
+		"id": 17482,
+		"title": "Újbarok"
+	},
+	"Újcsanálos": {
+		"id": 12487,
+		"title": "Újcsanálos"
+	},
+	"Újdombrád": {
+		"id": 33659,
+		"title": "Újdombrád"
+	},
+	"Újfehértó": {
+		"id": 26611,
+		"title": "Újfehértó"
+	},
+	"Újhartyán": {
+		"id": 6293,
+		"title": "Újhartyán"
+	},
+	"Újiráz": {
+		"id": 23393,
+		"title": "Újiráz"
+	},
+	"Újireg": {
+		"id": 20561,
+		"title": "Újireg"
+	},
+	"Újkenéz": {
+		"id": 10117,
+		"title": "Újkenéz"
+	},
+	"Újkér": {
+		"id": 19673,
+		"title": "Újkér"
+	},
+	"Újkígyós": {
+		"id": 2352,
+		"title": "Újkígyós"
+	},
+	"Újlengyel": {
+		"id": 19682,
+		"title": "Újlengyel"
+	},
+	"Újléta": {
+		"id": 20419,
+		"title": "Újléta"
+	},
+	"Újlőrincfalva": {
+		"id": 27623,
+		"title": "Újlőrincfalva"
+	},
+	"Újpetre": {
+		"id": 6062,
+		"title": "Újpetre"
+	},
+	"Újrónafő": {
+		"id": 31839,
+		"title": "Újrónafő"
+	},
+	"Újsolt": {
+		"id": 8785,
+		"title": "Újsolt"
+	},
+	"Újszalonta": {
+		"id": 24350,
+		"title": "Újszalonta"
+	},
+	"Újszász": {
+		"id": 15291,
+		"title": "Újszász"
+	},
+	"Újszentiván": {
+		"id": 14924,
+		"title": "Újszentiván"
+	},
+	"Újszentmargita": {
+		"id": 32568,
+		"title": "Újszentmargita"
+	},
+	"Újszilvás": {
+		"id": 17808,
+		"title": "Újszilvás"
+	},
+	"Újtelek": {
+		"id": 33604,
+		"title": "Újtelek"
+	},
+	"Újtikos": {
+		"id": 11925,
+		"title": "Újtikos"
+	},
+	"Újudvar": {
+		"id": 32197,
+		"title": "Újudvar"
+	},
+	"Újvárfalva": {
+		"id": 7205,
+		"title": "Újvárfalva"
+	},
+	"Ukk": {
+		"id": 23010,
+		"title": "Ukk"
+	},
+	"Und": {
+		"id": 20792,
+		"title": "Und"
+	},
+	"Úny": {
+		"id": 27632,
+		"title": "Úny"
+	},
+	"Uppony": {
+		"id": 18351,
+		"title": "Uppony"
+	},
+	"Ura": {
+		"id": 28981,
+		"title": "Ura"
+	},
+	"Uraiújfalu": {
+		"id": 21537,
+		"title": "Uraiújfalu"
+	},
+	"Úrhida": {
+		"id": 17622,
+		"title": "Úrhida"
+	},
+	"Úri": {
+		"id": 28644,
+		"title": "Úri"
+	},
+	"Úrkút": {
+		"id": 20853,
+		"title": "Úrkút"
+	},
+	"Uszka": {
+		"id": 31820,
+		"title": "Uszka"
+	},
+	"Uszód": {
+		"id": 16294,
+		"title": "Uszód"
+	},
+	"Uzsa": {
+		"id": 34218,
+		"title": "Uzsa"
+	},
+	"Üllés": {
+		"id": 21412,
+		"title": "Üllés"
+	},
+	"Üllő": {
+		"id": 12894,
+		"title": "Üllő"
+	},
+	"Üröm": {
+		"id": 11934,
+		"title": "Üröm"
+	},
+	"Vác": {
+		"id": 24934,
+		"title": "Vác"
+	},
+	"Vácduka": {
+		"id": 5917,
+		"title": "Vácduka"
+	},
+	"Vácegres": {
+		"id": 30331,
+		"title": "Vácegres"
+	},
+	"Váchartyán": {
+		"id": 19886,
+		"title": "Váchartyán"
+	},
+	"Váckisújfalu": {
+		"id": 5698,
+		"title": "Váckisújfalu"
+	},
+	"Vácrátót": {
+		"id": 17668,
+		"title": "Vácrátót"
+	},
+	"Vácszentlászló": {
+		"id": 9104,
+		"title": "Vácszentlászló"
+	},
+	"Vadna": {
+		"id": 7223,
+		"title": "Vadna"
+	},
+	"Vadosfa": {
+		"id": 6239,
+		"title": "Vadosfa"
+	},
+	"Vág": {
+		"id": 2237,
+		"title": "Vág"
+	},
+	"Vágáshuta": {
+		"id": 29151,
+		"title": "Vágáshuta"
+	},
+	"Vaja": {
+		"id": 18591,
+		"title": "Vaja"
+	},
+	"Vajdácska": {
+		"id": 30003,
+		"title": "Vajdácska"
+	},
+	"Vajszló": {
+		"id": 28538,
+		"title": "Vajszló"
+	},
+	"Vajta": {
+		"id": 2459,
+		"title": "Vajta"
+	},
+	"Vál": {
+		"id": 5829,
+		"title": "Vál"
+	},
+	"Valkó": {
+		"id": 17598,
+		"title": "Valkó"
+	},
+	"Valkonya": {
+		"id": 26268,
+		"title": "Valkonya"
+	},
+	"Vállaj": {
+		"id": 6938,
+		"title": "Vállaj"
+	},
+	"Vállus": {
+		"id": 10685,
+		"title": "Vállus"
+	},
+	"Vámosatya": {
+		"id": 27322,
+		"title": "Vámosatya"
+	},
+	"Vámoscsalád": {
+		"id": 31051,
+		"title": "Vámoscsalád"
+	},
+	"Vámosgyörk": {
+		"id": 14580,
+		"title": "Vámosgyörk"
+	},
+	"Vámosmikola": {
+		"id": 10737,
+		"title": "Vámosmikola"
+	},
+	"Vámosoroszi": {
+		"id": 8934,
+		"title": "Vámosoroszi"
+	},
+	"Vámospércs": {
+		"id": 8989,
+		"title": "Vámospércs"
+	},
+	"Vámosújfalu": {
+		"id": 15149,
+		"title": "Vámosújfalu"
+	},
+	"Vámosszabadi": {
+		"id": 12405,
+		"title": "Vámosszabadi"
+	},
+	"Váncsod": {
+		"id": 16762,
+		"title": "Váncsod"
+	},
+	"Vanyarc": {
+		"id": 30915,
+		"title": "Vanyarc"
+	},
+	"Vanyola": {
+		"id": 21777,
+		"title": "Vanyola"
+	},
+	"Várad": {
+		"id": 8138,
+		"title": "Várad"
+	},
+	"Váralja": {
+		"id": 32850,
+		"title": "Váralja"
+	},
+	"Varászló": {
+		"id": 9274,
+		"title": "Varászló"
+	},
+	"Váraszó": {
+		"id": 27012,
+		"title": "Váraszó"
+	},
+	"Várbalog": {
+		"id": 18412,
+		"title": "Várbalog"
+	},
+	"Varbó": {
+		"id": 21810,
+		"title": "Varbó"
+	},
+	"Varbóc": {
+		"id": 10144,
+		"title": "Varbóc"
+	},
+	"Várda": {
+		"id": 26781,
+		"title": "Várda"
+	},
+	"Várdomb": {
+		"id": 9414,
+		"title": "Várdomb"
+	},
+	"Várfölde": {
+		"id": 2529,
+		"title": "Várfölde"
+	},
+	"Varga": {
+		"id": 28529,
+		"title": "Varga"
+	},
+	"Várgesztes": {
+		"id": 17251,
+		"title": "Várgesztes"
+	},
+	"Várkesző": {
+		"id": 26204,
+		"title": "Várkesző"
+	},
+	"Várong": {
+		"id": 29124,
+		"title": "Várong"
+	},
+	"Városföld": {
+		"id": 10667,
+		"title": "Városföld"
+	},
+	"Városlőd": {
+		"id": 7065,
+		"title": "Városlőd"
+	},
+	"Várpalota": {
+		"id": 11439,
+		"title": "Várpalota"
+	},
+	"Varsád": {
+		"id": 6637,
+		"title": "Varsád"
+	},
+	"Varsány": {
+		"id": 29498,
+		"title": "Varsány"
+	},
+	"Várvölgy": {
+		"id": 14182,
+		"title": "Várvölgy"
+	},
+	"Vasad": {
+		"id": 22585,
+		"title": "Vasad"
+	},
+	"Vasalja": {
+		"id": 2884,
+		"title": "Vasalja"
+	},
+	"Vásárosbéc": {
+		"id": 24952,
+		"title": "Vásárosbéc"
+	},
+	"Vásárosdombó": {
+		"id": 2264,
+		"title": "Vásárosdombó"
+	},
+	"Vásárosfalu": {
+		"id": 17880,
+		"title": "Vásárosfalu"
+	},
+	"Vásárosmiske": {
+		"id": 9195,
+		"title": "Vásárosmiske"
+	},
+	"Vásárosnamény": {
+		"id": 18324,
+		"title": "Vásárosnamény"
+	},
+	"Vasasszonyfa": {
+		"id": 20394,
+		"title": "Vasasszonyfa"
+	},
+	"Vasboldogasszony": {
+		"id": 10302,
+		"title": "Vasboldogasszony"
+	},
+	"Vasegerszeg": {
+		"id": 15334,
+		"title": "Vasegerszeg"
+	},
+	"Vashosszúfalu": {
+		"id": 20349,
+		"title": "Vashosszúfalu"
+	},
+	"Vaskeresztes": {
+		"id": 30702,
+		"title": "Vaskeresztes"
+	},
+	"Vaskút": {
+		"id": 28343,
+		"title": "Vaskút"
+	},
+	"Vasmegyer": {
+		"id": 27100,
+		"title": "Vasmegyer"
+	},
+	"Vaspör": {
+		"id": 14322,
+		"title": "Vaspör"
+	},
+	"Vassurány": {
+		"id": 25982,
+		"title": "Vassurány"
+	},
+	"Vasvár": {
+		"id": 4695,
+		"title": "Vasvár"
+	},
+	"Vaszar": {
+		"id": 26648,
+		"title": "Vaszar"
+	},
+	"Vászoly": {
+		"id": 16656,
+		"title": "Vászoly"
+	},
+	"Vasszécseny": {
+		"id": 29373,
+		"title": "Vasszécseny"
+	},
+	"Vasszentmihály": {
+		"id": 11633,
+		"title": "Vasszentmihály"
+	},
+	"Vasszilvágy": {
+		"id": 12104,
+		"title": "Vasszilvágy"
+	},
+	"Vát": {
+		"id": 2246,
+		"title": "Vát"
+	},
+	"Vatta": {
+		"id": 30076,
+		"title": "Vatta"
+	},
+	"Vázsnok": {
+		"id": 7074,
+		"title": "Vázsnok"
+	},
+	"Vécs": {
+		"id": 5759,
+		"title": "Vécs"
+	},
+	"Vecsés": {
+		"id": 26815,
+		"title": "Vecsés"
+	},
+	"Végegyháza": {
+		"id": 31228,
+		"title": "Végegyháza"
+	},
+	"Vejti": {
+		"id": 18519,
+		"title": "Vejti"
+	},
+	"Vékény": {
+		"id": 24402,
+		"title": "Vékény"
+	},
+	"Vekerd": {
+		"id": 11138,
+		"title": "Vekerd"
+	},
+	"Velem": {
+		"id": 26000,
+		"title": "Velem"
+	},
+	"Velemér": {
+		"id": 18430,
+		"title": "Velemér"
+	},
+	"Velence": {
+		"id": 25016,
+		"title": "Velence"
+	},
+	"Velény": {
+		"id": 22071,
+		"title": "Velény"
+	},
+	"Véménd": {
+		"id": 20279,
+		"title": "Véménd"
+	},
+	"Vének": {
+		"id": 5014,
+		"title": "Vének"
+	},
+	"Vép": {
+		"id": 26426,
+		"title": "Vép"
+	},
+	"Vereb": {
+		"id": 3498,
+		"title": "Vereb"
+	},
+	"Veresegyház": {
+		"id": 18342,
+		"title": "Veresegyház"
+	},
+	"Verőce": {
+		"id": 33729,
+		"title": "Verőce"
+	},
+	"Verpelét": {
+		"id": 24147,
+		"title": "Verpelét"
+	},
+	"Verseg": {
+		"id": 22488,
+		"title": "Verseg"
+	},
+	"Versend": {
+		"id": 19725,
+		"title": "Versend"
+	},
+	"Vértesacsa": {
+		"id": 2750,
+		"title": "Vértesacsa"
+	},
+	"Vértesboglár": {
+		"id": 13897,
+		"title": "Vértesboglár"
+	},
+	"Vérteskethely": {
+		"id": 32586,
+		"title": "Vérteskethely"
+	},
+	"Vértessomló": {
+		"id": 15282,
+		"title": "Vértessomló"
+	},
+	"Vértestolna": {
+		"id": 29629,
+		"title": "Vértestolna"
+	},
+	"Vértesszőlős": {
+		"id": 31264,
+		"title": "Vértesszőlős"
+	},
+	"Vése": {
+		"id": 8183,
+		"title": "Vése"
+	},
+	"Veszkény": {
+		"id": 4589,
+		"title": "Veszkény"
+	},
+	"Veszprém": {
+		"id": 11767,
+		"title": "Veszprém"
+	},
+	"Veszprémfajsz": {
+		"id": 21430,
+		"title": "Veszprémfajsz"
+	},
+	"Veszprémgalsa": {
+		"id": 19336,
+		"title": "Veszprémgalsa"
+	},
+	"Veszprémvarsány": {
+		"id": 22691,
+		"title": "Veszprémvarsány"
+	},
+	"Vésztő": {
+		"id": 29531,
+		"title": "Vésztő"
+	},
+	"Vezseny": {
+		"id": 21157,
+		"title": "Vezseny"
+	},
+	"Vid": {
+		"id": 9502,
+		"title": "Vid"
+	},
+	"Vigántpetend": {
+		"id": 9733,
+		"title": "Vigántpetend"
+	},
+	"Villány": {
+		"id": 28024,
+		"title": "Villány"
+	},
+	"Villánykövesd": {
+		"id": 5209,
+		"title": "Villánykövesd"
+	},
+	"Vilmány": {
+		"id": 11581,
+		"title": "Vilmány"
+	},
+	"Vilonya": {
+		"id": 15705,
+		"title": "Vilonya"
+	},
+	"Vilyvitány": {
+		"id": 12982,
+		"title": "Vilyvitány"
+	},
+	"Vinár": {
+		"id": 24651,
+		"title": "Vinár"
+	},
+	"Vindornyafok": {
+		"id": 32142,
+		"title": "Vindornyafok"
+	},
+	"Vindornyalak": {
+		"id": 6549,
+		"title": "Vindornyalak"
+	},
+	"Vindornyaszőlős": {
+		"id": 11800,
+		"title": "Vindornyaszőlős"
+	},
+	"Visegrád": {
+		"id": 28413,
+		"title": "Visegrád"
+	},
+	"Visnye": {
+		"id": 19017,
+		"title": "Visnye"
+	},
+	"Visonta": {
+		"id": 31246,
+		"title": "Visonta"
+	},
+	"Viss": {
+		"id": 5096,
+		"title": "Viss"
+	},
+	"Visz": {
+		"id": 6877,
+		"title": "Visz"
+	},
+	"Viszák": {
+		"id": 7940,
+		"title": "Viszák"
+	},
+	"Viszló": {
+		"id": 3957,
+		"title": "Viszló"
+	},
+	"Visznek": {
+		"id": 3513,
+		"title": "Visznek"
+	},
+	"Vitnyéd": {
+		"id": 25797,
+		"title": "Vitnyéd"
+	},
+	"Vízvár": {
+		"id": 29780,
+		"title": "Vízvár"
+	},
+	"Vizslás": {
+		"id": 10320,
+		"title": "Vizslás"
+	},
+	"Vizsoly": {
+		"id": 21087,
+		"title": "Vizsoly"
+	},
+	"Vokány": {
+		"id": 5892,
+		"title": "Vokány"
+	},
+	"Vonyarcvashegy": {
+		"id": 12919,
+		"title": "Vonyarcvashegy"
+	},
+	"Vöckönd": {
+		"id": 8369,
+		"title": "Vöckönd"
+	},
+	"Völcsej": {
+		"id": 16319,
+		"title": "Völcsej"
+	},
+	"Vönöck": {
+		"id": 3142,
+		"title": "Vönöck"
+	},
+	"Vöröstó": {
+		"id": 11703,
+		"title": "Vöröstó"
+	},
+	"Vörs": {
+		"id": 9645,
+		"title": "Vörs"
+	},
+	"Zabar": {
+		"id": 21661,
+		"title": "Zabar"
+	},
+	"Zádor": {
+		"id": 17747,
+		"title": "Zádor"
+	},
+	"Zádorfalva": {
+		"id": 3063,
+		"title": "Zádorfalva"
+	},
+	"Zagyvarékas": {
+		"id": 14836,
+		"title": "Zagyvarékas"
+	},
+	"Zagyvaszántó": {
+		"id": 21722,
+		"title": "Zagyvaszántó"
+	},
+	"Záhony": {
+		"id": 16203,
+		"title": "Záhony"
+	},
+	"Zajk": {
+		"id": 24590,
+		"title": "Zajk"
+	},
+	"Zajta": {
+		"id": 6275,
+		"title": "Zajta"
+	},
+	"Zákány": {
+		"id": 14623,
+		"title": "Zákány"
+	},
+	"Zákányfalu": {
+		"id": 34403,
+		"title": "Zákányfalu"
+	},
+	"Zákányszék": {
+		"id": 5546,
+		"title": "Zákányszék"
+	},
+	"Zala": {
+		"id": 11466,
+		"title": "Zala"
+	},
+	"Zalaapáti": {
+		"id": 17400,
+		"title": "Zalaapáti"
+	},
+	"Zalabaksa": {
+		"id": 7579,
+		"title": "Zalabaksa"
+	},
+	"Zalabér": {
+		"id": 24280,
+		"title": "Zalabér"
+	},
+	"Zalaboldogfa": {
+		"id": 28495,
+		"title": "Zalaboldogfa"
+	},
+	"Zalacsány": {
+		"id": 4002,
+		"title": "Zalacsány"
+	},
+	"Zalacséb": {
+		"id": 2486,
+		"title": "Zalacséb"
+	},
+	"Zalaegerszeg": {
+		"id": 32054,
+		"title": "Zalaegerszeg"
+	},
+	"Zalaerdőd": {
+		"id": 29993,
+		"title": "Zalaerdőd"
+	},
+	"Zalagyömörő": {
+		"id": 27207,
+		"title": "Zalagyömörő"
+	},
+	"Zalahaláp": {
+		"id": 12654,
+		"title": "Zalahaláp"
+	},
+	"Zalaháshágy": {
+		"id": 23834,
+		"title": "Zalaháshágy"
+	},
+	"Zalaigrice": {
+		"id": 16896,
+		"title": "Zalaigrice"
+	},
+	"Zalaistvánd": {
+		"id": 12496,
+		"title": "Zalaistvánd"
+	},
+	"Zalakaros": {
+		"id": 11785,
+		"title": "Zalakaros"
+	},
+	"Zalakomár": {
+		"id": 10348,
+		"title": "Zalakomár"
+	},
+	"Zalaköveskút": {
+		"id": 18768,
+		"title": "Zalaköveskút"
+	},
+	"Zalalövő": {
+		"id": 30313,
+		"title": "Zalalövő"
+	},
+	"Zalameggyes": {
+		"id": 33039,
+		"title": "Zalameggyes"
+	},
+	"Zalamerenye": {
+		"id": 31617,
+		"title": "Zalamerenye"
+	},
+	"Zalasárszeg": {
+		"id": 2972,
+		"title": "Zalasárszeg"
+	},
+	"Zalaszabar": {
+		"id": 22947,
+		"title": "Zalaszabar"
+	},
+	"Zalaszántó": {
+		"id": 33288,
+		"title": "Zalaszántó"
+	},
+	"Zalaszegvár": {
+		"id": 23597,
+		"title": "Zalaszegvár"
+	},
+	"Zalaszentbalázs": {
+		"id": 18564,
+		"title": "Zalaszentbalázs"
+	},
+	"Zalaszentgrót": {
+		"id": 32522,
+		"title": "Zalaszentgrót"
+	},
+	"Zalaszentgyörgy": {
+		"id": 33136,
+		"title": "Zalaszentgyörgy"
+	},
+	"Zalaszentiván": {
+		"id": 2608,
+		"title": "Zalaszentiván"
+	},
+	"Zalaszentjakab": {
+		"id": 18096,
+		"title": "Zalaszentjakab"
+	},
+	"Zalaszentlászló": {
+		"id": 7232,
+		"title": "Zalaszentlászló"
+	},
+	"Zalaszentlőrinc": {
+		"id": 13301,
+		"title": "Zalaszentlőrinc"
+	},
+	"Zalaszentmárton": {
+		"id": 13091,
+		"title": "Zalaszentmárton"
+	},
+	"Zalaszentmihály": {
+		"id": 18449,
+		"title": "Zalaszentmihály"
+	},
+	"Zalaszombatfa": {
+		"id": 27562,
+		"title": "Zalaszombatfa"
+	},
+	"Zaláta": {
+		"id": 25122,
+		"title": "Zaláta"
+	},
+	"Zalatárnok": {
+		"id": 29683,
+		"title": "Zalatárnok"
+	},
+	"Zalaújlak": {
+		"id": 9380,
+		"title": "Zalaújlak"
+	},
+	"Zalavár": {
+		"id": 13736,
+		"title": "Zalavár"
+	},
+	"Zalavég": {
+		"id": 17057,
+		"title": "Zalavég"
+	},
+	"Zalkod": {
+		"id": 15617,
+		"title": "Zalkod"
+	},
+	"Zamárdi": {
+		"id": 6008,
+		"title": "Zamárdi"
+	},
+	"Zámoly": {
+		"id": 30243,
+		"title": "Zámoly"
+	},
+	"Zánka": {
+		"id": 20826,
+		"title": "Zánka"
+	},
+	"Zaránk": {
+		"id": 23445,
+		"title": "Zaránk"
+	},
+	"Závod": {
+		"id": 14304,
+		"title": "Závod"
+	},
+	"Zebecke": {
+		"id": 3726,
+		"title": "Zebecke"
+	},
+	"Zebegény": {
+		"id": 14960,
+		"title": "Zebegény"
+	},
+	"Zemplénagárd": {
+		"id": 31608,
+		"title": "Zemplénagárd"
+	},
+	"Zengővárkony": {
+		"id": 15848,
+		"title": "Zengővárkony"
+	},
+	"Zichyújfalu": {
+		"id": 34263,
+		"title": "Zichyújfalu"
+	},
+	"Zics": {
+		"id": 33057,
+		"title": "Zics"
+	},
+	"Ziliz": {
+		"id": 19275,
+		"title": "Ziliz"
+	},
+	"Zimány": {
+		"id": 27614,
+		"title": "Zimány"
+	},
+	"Zirc": {
+		"id": 26499,
+		"title": "Zirc"
+	},
+	"Zók": {
+		"id": 12201,
+		"title": "Zók"
+	},
+	"Zomba": {
+		"id": 21625,
+		"title": "Zomba"
+	},
+	"Zubogy": {
+		"id": 19105,
+		"title": "Zubogy"
+	},
+	"Zsadány": {
+		"id": 6257,
+		"title": "Zsadány"
+	},
+	"Zsáka": {
+		"id": 4817,
+		"title": "Zsáka"
+	},
+	"Zsámbék": {
+		"id": 25034,
+		"title": "Zsámbék"
+	},
+	"Zsámbok": {
+		"id": 22035,
+		"title": "Zsámbok"
+	},
+	"Zsana": {
+		"id": 15158,
+		"title": "Zsana"
+	},
+	"Zsarolyán": {
+		"id": 28750,
+		"title": "Zsarolyán"
+	},
+	"Zsebeháza": {
+		"id": 16869,
+		"title": "Zsebeháza"
+	},
+	"Zsédeny": {
+		"id": 21643,
+		"title": "Zsédeny"
+	},
+	"Zselickisfalud": {
+		"id": 26842,
+		"title": "Zselickisfalud"
+	},
+	"Zselickislak": {
+		"id": 24110,
+		"title": "Zselickislak"
+	},
+	"Zselicszentpál": {
+		"id": 17491,
+		"title": "Zselicszentpál"
+	},
+	"Zsennye": {
+		"id": 12292,
+		"title": "Zsennye"
+	},
+	"Zsira": {
+		"id": 4622,
+		"title": "Zsira"
+	},
+	"Zsombó": {
+		"id": 17765,
+		"title": "Zsombó"
+	},
+	"Zsujta": {
+		"id": 11022,
+		"title": "Zsujta"
+	},
+	"Zsurk": {
+		"id": 13037,
+		"title": "Zsurk"
+	}
+}

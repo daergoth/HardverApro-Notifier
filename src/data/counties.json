@@ -1,0 +1,86 @@
+{
+	"Budapest": {
+		"id": 0,
+		"title": "Budapest"
+	},
+	"Bács-Kiskun": {
+		"id": 1,
+		"title": "Bács-Kiskun"
+	},
+	"Baranya": {
+		"id": 2,
+		"title": "Baranya"
+	},
+	"Békés": {
+		"id": 3,
+		"title": "Békés"
+	},
+	"Borsod-Abaúj-Zemplén": {
+		"id": 4,
+		"title": "Borsod-Abaúj-Zemplén"
+	},
+	"Csongrád-Csanád": {
+		"id": 5,
+		"title": "Csongrád-Csanád"
+	},
+	"Fejér": {
+		"id": 6,
+		"title": "Fejér"
+	},
+	"Győr-Moson-Sopron": {
+		"id": 7,
+		"title": "Győr-Moson-Sopron"
+	},
+	"Hajdú-Bihar": {
+		"id": 8,
+		"title": "Hajdú-Bihar"
+	},
+	"Heves": {
+		"id": 9,
+		"title": "Heves"
+	},
+	"Jász-Nagykun-Szolnok": {
+		"id": 10,
+		"title": "Jász-Nagykun-Szolnok"
+	},
+	"Komárom-Esztergom": {
+		"id": 11,
+		"title": "Komárom-Esztergom"
+	},
+	"Nógrád": {
+		"id": 12,
+		"title": "Nógrád"
+	},
+	"Pest": {
+		"id": 13,
+		"title": "Pest"
+	},
+	"Somogy": {
+		"id": 14,
+		"title": "Somogy"
+	},
+	"Szabolcs-Szatmár-Bereg": {
+		"id": 15,
+		"title": "Szabolcs-Szatmár-Bereg"
+	},
+	"Tolna": {
+		"id": 16,
+		"title": "Tolna"
+	},
+	"Vas": {
+		"id": 17,
+		"title": "Vas"
+	},
+	"Veszprém": {
+		"id": 18,
+		"title": "Veszprém"
+	},
+	"Zala": {
+		"id": 19,
+		"title": "Zala"
+	},
+	"Külföld": {
+		"id": 20,
+		"title": "Külföld"
+	}
+}

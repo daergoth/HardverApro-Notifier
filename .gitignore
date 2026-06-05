@@ -1,0 +1,55 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# Build output
+dist/
+build/
+out/
+*.tsbuildinfo
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Coverage & Lint configs
+coverage/
+.nyc_output/
+eslintcache
+.eslintrc.cjs
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+# Local database files (do not commit)
+mongodb_data/
+
+# Local secret config
+src/config.json
+
+# Package artifacts
+*.tgz
