@@ -56,9 +56,8 @@ export type ScrapingConfig = {
     searchPageCacheTtlMs?: number;
     itemPageCacheTtlMs?: number;
     searchConcurrencyLimit?: number;
-    searchDelayMs?: number;
+    searchDelayMs: number;
     searchUserAgent: string;
-    searchCookies: string;
     htmlCachePersistInDb?: boolean;
     htmlCacheCollectionName?: string;
 };
@@ -182,7 +181,7 @@ const schema = {
         scrapingConfig: {
             type: "object",
             additionalProperties: false,
-            required: ["searchUserAgent", "searchCookies"],
+            required: ["searchDelayMs", "searchUserAgent"],
             properties: {
                 htmlCacheTtlMs: { type: "number" },
                 searchPageCacheTtlMs: { type: "number" },
@@ -190,7 +189,6 @@ const schema = {
                 searchConcurrencyLimit: { type: "number" },
                 searchDelayMs: { type: "number" },
                 searchUserAgent: { type: "string" },
-                searchCookies: { type: "string" },
                 htmlCachePersistInDb: { type: "boolean" },
                 htmlCacheCollectionName: { type: "string" },
             },

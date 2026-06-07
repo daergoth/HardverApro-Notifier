@@ -51,8 +51,7 @@
         "itemPageCacheTtlMs": 3600000,
         "searchConcurrencyLimit": 1,
         "searchDelayMs": 1000,
-        "searchUserAgent": "<SEARCH_USER_AGENT>",
-        "searchCookies": "<SEARCH_COOKIES>",
+        "searchUserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
         "htmlCachePersistInDb": true,
         "htmlCacheCollectionName": "html_page_cache"
     },

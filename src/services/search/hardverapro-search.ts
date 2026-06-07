@@ -1,5 +1,3 @@
-import axios from "axios";
-import { setTimeout } from 'timers/promises';
 import { JSDOM } from "jsdom";
 import { favouritesConfig, scrapingConfig, searchConfig } from "../../config";
 import { ProductItemEntity } from "../db/product/product-item";
@@ -10,6 +8,7 @@ import { htmlPageCache } from "../scraping/html-page-cache";
 import { formatError, toPositiveInt } from "../utils/helpers";
 import { SearchQuery } from "./search-query";
 import { SearchResult } from "./search-result";
+import { addListener } from "process";
 
 const countRegex = new RegExp(searchConfig.countRegex);
 
@@ -70,7 +69,7 @@ export class HardveraproSearchService extends AbstractScraperService {
             try {
                 const result = await this.search(query, options);
                 logger.info(`[search] completed query='${query?.query}' category='${query?.category}' count=${result.count} items=${result.items.length}, delaying for ${scrapingConfig?.searchDelayMs}ms...`);
-                await setTimeout(scrapingConfig?.searchDelayMs);
+                await this.sleep(scrapingConfig.searchDelayMs);
                 return result;
             } catch (error) {
                 logger.error(`[search] failed query='${query?.query}' category='${query?.category}': ${formatError(error)}`);
@@ -97,6 +96,7 @@ export class HardveraproSearchService extends AbstractScraperService {
             noiced: 1,
             selling: 1,
             stext: queryText,
+            _tc: 1,
             ...this.getRegionParams(searchQuery),
         };
 
@@ -122,21 +122,18 @@ export class HardveraproSearchService extends AbstractScraperService {
         return htmlPageCache.getOrFetch(
             cacheKey,
             async () => {
-                const response = await this.with429Retry(() => axios.get(
+                const response = await this.with429Retry(() => AbstractScraperService.axios.get(
                     searchUrl,
                     {
-                        headers: {
-                            "Cookie": scrapingConfig.searchCookies,
-                            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                            "Accept-Language": "hu-HU,hu;q=0.9,en;q=0.8",
-                            "User-Agent": scrapingConfig?.searchUserAgent || "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
-                        },
+                        headers: this.getRequestHeaders(undefined, { "Cookie": AbstractScraperService.cookieJar.getCookieStringSync(fetchUrlObj.origin) }),
+                        jar: AbstractScraperService.cookieJar,
                         params,
                         maxRedirects: 0,
                         timeout: 15_000,
                     },
                 ));
-                logger.info(`[search] fetched query='${queryText}' category='${category}' status=${response.status} params=${JSON.stringify(response.config.params)} fetch_url=${response.request?.url}`);
+                const resp_url = `${response.request?.protocol}//${response.request?.host}${response.request?.path}`;
+                logger.info(`[search] fetched query='${queryText}' category='${category}' status=${response.status} params=${JSON.stringify(response.config.params)} fetch_url=${resp_url}`);
                 return String(response.data ?? "");
             },
             searchTtlMs,
@@ -304,7 +301,11 @@ export class HardveraproSearchService extends AbstractScraperService {
                 const cacheKey = ProductItemEntity.normalizeLink(item.link);
                 const html = await htmlPageCache.getOrFetch(cacheKey, async () => {
                     const response = await this.with429Retry(() =>
-                        axios.get(item.link, { headers: { Accept: "text/html" }, timeout: 15_000 }),
+                        AbstractScraperService.axios.get(item.link, {
+                            headers: this.getRequestHeaders(),
+                            jar: AbstractScraperService.cookieJar,
+                            timeout: 15_000
+                        }),
                     );
                     return String(response.data ?? "");
                 }, itemTtlMs, { refresh: Boolean(options?.fresh) });

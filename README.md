@@ -36,6 +36,13 @@ docker run -d --name hardverapro-notifier --network mongo-network -p 55555:3000 
   --cap-add=SYS_TIME --cap-add=SYS_NICE --restart unless-stopped hardverapro-notifier:0.1
 ```
 
+or
+
+```bash
+cd docker
+docker compose up -d --build
+```
+
 ## Project description
 
 The application periodically executes configured searches on HardverApró, stores results in MongoDB, compares with previous runs, and sends email notifications for new or changed items. It's designed as a small, focused service suitable for a portfolio or interview demo.
@@ -83,3 +90,4 @@ Why this matters (talking points for interviews):
 
 - Database: default connection expects MongoDB at `mongodb:27017`. Update `src/config.json` and keep it aligned with `src/config-example.json` (config is validated at startup).
 - For development, run `npm run tsc -- -w` in one terminal and `node dist/app.js` in another to iterate quickly.
+- You can enable debug logging by setting the `LOG_LEVEL` environment variable to `'debug'`

@@ -1,52 +1,31 @@
-import axiosOriginal from "axios";
-import axiosCookieJarSupport from "axios-cookiejar-support";
 import FormData from "form-data";
-import { JSDOM, ResourceLoader, VirtualConsole } from "jsdom";
-import tough from "tough-cookie";
+import { JSDOM, VirtualConsole } from "jsdom";
 import { favouritesConfig, scrapingConfig } from "../../config";
 import { ProductItemEntity } from "../db/product/product-item";
 import { ProductRepository } from "../db/repositories";
 import { logger } from "../logging/logger";
-import { AbstractScraperService } from "../scraping/abstract-scraper-service";
+import { AbstractScraperService, HeaderAcceptType, BlockExternalScriptsResourceLoader } from "../scraping/abstract-scraper-service";
 import { htmlPageCache } from "../scraping/html-page-cache";
 import { formatError, toPositiveInt } from "../utils/helpers";
 import { FavouriteResult } from "./favourite-result";
 
-const axios = axiosCookieJarSupport(axiosOriginal);
 
-interface AuthData {
-    vid: string;
-    loginOptions: string;
-    sid: string;
-    bid: string;
-    cookieJar?: tough.CookieJar;
-}
-
-class BlockExternalScriptsResourceLoader extends ResourceLoader {
-
-    public fetch(url: string, options: any) {
-        const elementTag = options && options.element && options.element.tagName;
-        const isScript = elementTag === "SCRIPT";
-        if (isScript || /\.js(\?|#|$)/i.test(url)) {
-            return null;
-        }
-        return super.fetch(url, options);
-    }
-}
 
 export class HardveraproFavouritesService extends AbstractScraperService {
 
     public async getFavourites(options?: { fresh?: boolean }): Promise<FavouriteResult[]> {
         try {
             logger.info(`[favs] start fresh=${Boolean(options?.fresh)}`);
-            const authData = await this.authenticate();
+            await this.authenticate();
 
             // Fetch main page with favourites list
-            const response = await this.with429Retry(() => axios.get(
+            const response = await this.with429Retry(() => AbstractScraperService.axios.get(
                 favouritesConfig.favouritePageUrl,
                 {
-                    jar: authData.cookieJar,
+                    jar: AbstractScraperService.cookieJar,
                     withCredentials: true,
+                    headers: this.getRequestHeaders(),
+                    timeout: 15_000,
                 },
             ));
 
@@ -64,7 +43,7 @@ export class HardveraproFavouritesService extends AbstractScraperService {
             logger.info(`[favs] product links=${productLinks.length}`);
 
             // Fetch each product page to get detailed info
-            const productAuth = await this.authenticate();
+            await this.authenticate();
 
             const itemTtlMs = toPositiveInt(scrapingConfig?.itemPageCacheTtlMs, 60 * 60 * 1000);
             logger.info(`[favs] fetch product pages count=${productLinks.length} fresh=${Boolean(options?.fresh)} ttlMs=${itemTtlMs}`);
@@ -73,13 +52,11 @@ export class HardveraproFavouritesService extends AbstractScraperService {
 
                 const cacheKey = ProductItemEntity.normalizeLink(link);
                 const html = await htmlPageCache.getOrFetch(cacheKey, async () => {
-                    const productResponse = await this.with429Retry(() => axios.get(link,
+                    const productResponse = await this.with429Retry(() => AbstractScraperService.axios.get(link,
                         {
-                            jar: productAuth.cookieJar,
+                            jar: AbstractScraperService.cookieJar,
                             withCredentials: true,
-                            headers: {
-                                Accept: "text/html",
-                            },
+                            headers: this.getRequestHeaders(),
                             timeout: 15_000,
                         },
                     ));
@@ -150,9 +127,7 @@ export class HardveraproFavouritesService extends AbstractScraperService {
             });
     }
 
-    private authenticate() {
-        const cookieJar = new tough.CookieJar();
-
+    private authenticate(): Promise<void> {
         // Silence jsdom console noise (external scripts will be blocked anyway)
         const virtualConsole = new VirtualConsole();
 
@@ -171,13 +146,14 @@ export class HardveraproFavouritesService extends AbstractScraperService {
         return JSDOM.fromURL(
             favouritesConfig.baseUrl,
             {
-                cookieJar,
+                cookieJar: AbstractScraperService.cookieJar,
                 // Allow inline script execution (if the login page relies on it),
                 // but block external scripts (ads/CMP/etc) that crash on Node 10.
                 resources: new BlockExternalScriptsResourceLoader(),
                 runScripts: "dangerously",
                 virtualConsole,
                 pretendToBeVisual: false,
+                userAgent: scrapingConfig.searchUserAgent,
             },
         )
             .then((baseDom) => {
@@ -196,13 +172,10 @@ export class HardveraproFavouritesService extends AbstractScraperService {
                 // Build a fresh FormData per attempt, because retries would otherwise reuse a consumed stream.
                 return this.with429Retry(() => {
                     const form = buildLoginForm(fidentifier);
-                    return axios({
+                    return AbstractScraperService.axios({
                         data: form,
-                        headers: {
-                            "Accept": "application/json",
-                            ...form.getHeaders(),
-                        },
-                        jar: cookieJar,
+                        headers: this.getRequestHeaders(HeaderAcceptType.JSON, form.getHeaders()),
+                        jar: AbstractScraperService.cookieJar,
                         method: "post",
                         url: favouritesConfig.authenticationUrl,
                         withCredentials: true,
@@ -214,13 +187,7 @@ export class HardveraproFavouritesService extends AbstractScraperService {
                 if (authDom?.data?.formError) {
                     throw new Error(String(authDom.data.formError));
                 }
-                return {
-                    vid: this.getCookieFromJar(cookieJar, "vid"),
-                    loginOptions: this.getCookieFromJar(cookieJar, "login-options"),
-                    sid: this.getCookieFromJar(cookieJar, "sid"),
-                    bid: this.getCookieFromJar(cookieJar, "bid", "https://auth.rios.hu"),
-                    cookieJar,
-                };
+                logger.info(`[favs] authentication successful`);
             })
             .catch((error) => {
                 // Important: do NOT log the full axios error object (it contains cookies/headers).
@@ -236,10 +203,6 @@ export class HardveraproFavouritesService extends AbstractScraperService {
 
     //     return resultCookie ? resultCookie.split(";")[0].split("=")[1] : undefined;
     // }
-
-    private getCookieFromJar(cookieJar: tough.CookieJar, name: string, url: string = "https://hardverapro.hu") {
-        return cookieJar.getCookiesSync(url).filter((cookie) => cookie.key === name)[0].value;
-    }
 
     private normalizeUrl(url: string): string {
         const trimmed = (url || "").trim();

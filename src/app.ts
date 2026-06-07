@@ -18,9 +18,6 @@ const portFromArgs = (portArgIndex !== -1 && args[portArgIndex + 1])
     : undefined;
 const webPort = Number.isFinite(portFromArgs) ? (portFromArgs as number) : 3000;
 
-const emailController = new EmailSearchResultController(isDryRun);
-const webController = new WebSearchResultController(webPort);
-
 logger.info({ args, isWebMode, isDryRun, webPort });
 
 (async () => {
@@ -31,8 +28,9 @@ logger.info({ args, isWebMode, isDryRun, webPort });
             return SearchQueryRepository.getInstance().save(entity);
         }));
 
-        const controllerEventEmitter =
-            isWebMode ? webController.renderView() : emailController.renderView();
+        const controller = isWebMode ? new WebSearchResultController(webPort) : new EmailSearchResultController(isDryRun);
+
+        const controllerEventEmitter = controller.renderView();
 
         controllerEventEmitter
             .once("close", async () => {
