@@ -18,7 +18,7 @@ services:
     build:
       context: ..
       dockerfile: docker/Dockerfile
-    image: hardverapro-notifier:0.1
+    image: hardverapro-notifier:0.3
     container_name: hardverapro-notifier_backend
     restart: unless-stopped
     depends_on:
@@ -33,3 +33,21 @@ services:
       - NODE_ENV=dev
       - NODE_CONFIG_ENV=dev
       - TIME_ZONE=Europe/Budapest
+      # Optional overrides for sensitive/environment-specific config values.
+      # Anything left unset falls back to the value baked into src/config.json.
+      # - HARDVERAPRO_USERNAME=
+      # - HARDVERAPRO_PASSWORD=
+      # - EMAIL_HOST=
+      # - EMAIL_PORT=
+      # - EMAIL_USER=
+      # - EMAIL_PASS=
+      # - EMAIL_FROM=
+      # - EMAIL_TO=
+      # - MONGO_HOST=
+      # - MONGO_PORT=
+      # - MONGO_DB_NAME=
+      # - MONGO_USER=
+      # - MONGO_PASS=
+    # Optional: mount a JSON file with values that deep-merge over src/config.json.
+    # volumes:
+    #   - ../config.override.json:/usr/src/app/config/config.override.json:ro

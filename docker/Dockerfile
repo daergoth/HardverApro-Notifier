@@ -7,6 +7,7 @@ COPY tsconfig.json ./
 RUN npm install
 
 COPY src/ src/
+RUN cp src/config-example.json src/config.json
 RUN npm run tsc
 
 FROM node:20-alpine
@@ -20,6 +21,8 @@ ENV ENV_NAME=dev
 ENV EGG_SERVER_ENV=dev
 ENV NODE_ENV=dev
 ENV NODE_CONFIG_ENV=dev
+# Path to an optional external config file that overrides values from src/config.json
+ENV CONFIG_FILE_PATH=/usr/src/app/config/config.override.json
 
 # Set the time and timezone in docker
 RUN apk --update add tzdata openntpd \
@@ -33,6 +36,7 @@ RUN npm install --omit=dev
 
 COPY --from=build /usr/src/app/dist ./dist
 COPY src/ ./src/
+COPY --from=build /usr/src/app/src/config.json ./src/config.json
 
 # copy crontabs and entry scripts
 COPY docker/crontab.txt /etc/crontabs/root

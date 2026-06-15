@@ -58,6 +58,8 @@
     "mongoConfig": {
         "host": "mongodb",
         "port": 27017,
-        "dbName": "hardverapro-notifier"
+        "dbName": "hardverapro-notifier",
+        "user": "",
+        "pass": ""
     }
 }

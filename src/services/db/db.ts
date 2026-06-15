@@ -9,6 +9,8 @@ export class Database {
                 mongoConfig.host,
                 mongoConfig.port,
                 mongoConfig.dbName,
+                mongoConfig.user,
+                mongoConfig.pass,
             );
         }
 
@@ -24,8 +26,13 @@ export class Database {
         public host: string,
         public port: number,
         public dbName: string,
+        public user?: string,
+        public pass?: string,
     ) {
-        const url = `mongodb://${host}:${port}?authSource=admin`;
+        const credentials = user && pass
+            ? `${encodeURIComponent(user)}:${encodeURIComponent(pass)}@`
+            : "";
+        const url = `mongodb://${credentials}${host}:${port}?authSource=admin`;
         const client = new MongoClient(url);
         this.client = this.connectWithRetry(client);
         this.db = this.client.then((cl) => cl.db(dbName));

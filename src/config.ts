@@ -1,3 +1,4 @@
+import fs from "fs";
 import Ajv from "ajv";
 import addFormats from "ajv-formats";
 import rawConfig from "./config.json";
@@ -66,6 +67,8 @@ export type MongoConfig = {
     host: string;
     port: number;
     dbName: string;
+    user?: string;
+    pass?: string;
 };
 
 export type AppConfig = {
@@ -201,16 +204,83 @@ const schema = {
                 host: { type: "string", minLength: 1 },
                 port: { type: "number" },
                 dbName: { type: "string", minLength: 1 },
+                user: { type: "string" },
+                pass: { type: "string" },
             },
         },
     },
 } as const;
 
+function isPlainObject(value: unknown): value is Record<string, unknown> {
+    return typeof value === "object" && value !== null && !Array.isArray(value);
+}
+
+function deepMerge(base: unknown, override: unknown): unknown {
+    if (isPlainObject(base) && isPlainObject(override)) {
+        const result: Record<string, unknown> = { ...base };
+        for (const key of Object.keys(override)) {
+            result[key] = deepMerge(base[key], override[key]);
+        }
+        return result;
+    }
+    return override !== undefined ? override : base;
+}
+
+function pruneUndefined(value: unknown): unknown {
+    if (!isPlainObject(value)) {
+        return value;
+    }
+    const result: Record<string, unknown> = {};
+    for (const [key, child] of Object.entries(value)) {
+        if (child === undefined) {
+            continue;
+        }
+        const pruned = pruneUndefined(child);
+        if (isPlainObject(pruned) && Object.keys(pruned).length === 0) {
+            continue;
+        }
+        result[key] = pruned;
+    }
+    return result;
+}
+
+let mergedConfig: unknown = rawConfig;
+
+const externalConfigPath = process.env.CONFIG_FILE_PATH || "/usr/src/app/config/config.override.json";
+if (fs.existsSync(externalConfigPath)) {
+    const externalConfig = JSON.parse(fs.readFileSync(externalConfigPath, "utf-8"));
+    mergedConfig = deepMerge(mergedConfig, externalConfig);
+}
+
+const envOverrides = pruneUndefined({
+    favouritesConfig: {
+        username: process.env.HARDVERAPRO_USERNAME,
+        password: process.env.HARDVERAPRO_PASSWORD,
+    },
+    emailConfig: {
+        host: process.env.EMAIL_HOST,
+        port: process.env.EMAIL_PORT ? Number(process.env.EMAIL_PORT) : undefined,
+        user: process.env.EMAIL_USER,
+        pass: process.env.EMAIL_PASS,
+        from: process.env.EMAIL_FROM,
+        to: process.env.EMAIL_TO ? process.env.EMAIL_TO.split(",").map((s) => s.trim()) : undefined,
+    },
+    mongoConfig: {
+        host: process.env.MONGO_HOST,
+        port: process.env.MONGO_PORT ? Number(process.env.MONGO_PORT) : undefined,
+        dbName: process.env.MONGO_DB_NAME,
+        user: process.env.MONGO_USER,
+        pass: process.env.MONGO_PASS,
+    },
+});
+
+mergedConfig = deepMerge(mergedConfig, envOverrides);
+
 const ajv = new Ajv({ allErrors: true, strict: false });
 addFormats(ajv);
 
 const validate = ajv.compile(schema);
-const config = rawConfig as unknown;
+const config = mergedConfig as unknown;
 if (!validate(config)) {
     const issues = (validate.errors || []).map((err) => `${err.instancePath || "config"} ${err.message}`).join("; ");
     throw new Error(`Invalid config.json: ${issues}`);
